@@ -1446,7 +1446,7 @@ function systemAutoLoadStart(galgameKey) {
       .html(
         `<div class="cancel ${tl_css_lang}"></div><div class="submit ${tl_css_lang}" onclick="systemAutoLoad()"></div>`
       )
-      .css('background', "url('/novels/duriduri/en-US/continue.png') no-repeat")
+      .css('background', "url('continue.png') no-repeat")
       .css('background-size', 'auto 100%')
       .css('background-position', 'center')
     $('.cancel').click({ k: galgameKey }, function (e) {
@@ -1800,7 +1800,7 @@ function add_record() {
   )
   $('#confirm_1').css(
     'background',
-    "url('/novels/duriduri/en-US/quicksave.png') no-repeat"
+    "url('quicksave.png') no-repeat"
   )
   $('#confirm_1').css('background-size', 'auto 100%')
   $('#confirm_1').css('background-position', 'center')
@@ -1814,7 +1814,7 @@ function get_record() {
   )
   $('#confirm_1').css(
     'background',
-    "url('/novels/duriduri/en-US/quickload.png') no-repeat"
+    "url('quickload.png') no-repeat"
   )
   $('#confirm_1').css('background-size', 'auto 100%')
   $('#confirm_1').css('background-position', 'center')
