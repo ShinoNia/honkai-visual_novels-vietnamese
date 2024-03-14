@@ -596,7 +596,7 @@ p {
   top: 74%;
   left: 23%;
   z-index: 903;
-  background: url(/novels/duriduri/en-US/cancel.png) right / auto 100% no-repeat;
+  background: url(cancel.png) right / auto 100% no-repeat;
 }
 .submit {
   position: absolute;
@@ -605,7 +605,7 @@ p {
   top: 74%;
   right: 23%;
   z-index: 903;
-  background: url(/novels/duriduri/en-US/ok.png) left / auto 100% no-repeat;
+  background: url(ok.png) left / auto 100% no-repeat;
 }
 .submit-center {
   position: absolute;
@@ -614,7 +614,7 @@ p {
   top: 74%;
   right: 37.5%;
   z-index: 903;
-  background: url(/novels/duriduri/en-US/ok.png) left / auto 100% no-repeat;
+  background: url(ok.png) left / auto 100% no-repeat;
 }
 .goto {
   position: absolute;
@@ -829,7 +829,7 @@ p {
   top: 0px;
   left: 0px;
   z-index: 400;
-  background: url('/novels/duriduri/en-US/bg.png') black no-repeat;
+  background: url('bg.png') black no-repeat;
   background-size: 100% auto;
   background-position: center;
 }
@@ -868,13 +868,13 @@ p {
   background-repeat: no-repeat;
 }
 .menu_btn_1 {
-  background-image: url('/novels/duriduri/en-US/start.png');
+  background-image: url('start.png');
 }
 .menu_btn_2 {
-  background-image: url('/novels/duriduri/en-US/gallery.png');
+  background-image: url('gallery.png');
 }
 .menu_btn_3 {
-  background-image: url('/novels/duriduri/en-US/history.png');
+  background-image: url('history.png');
 }
 .menu_btn_4 {
   background-image: url('https://act-webstatic.mihoyo.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/menu/achievement.png');
