@@ -69,7 +69,7 @@
             <bgm src="theme.mp3" status="start"></bgm>
             <text>Bốn con thuyền rời khỏi tàu ngầm.</text>
             <text>Ba trong số đó bao quanh 「Leviathan」 và mổ xẻ nó；</text>
-            <text>Thuyền còn lại hướng đến chỗ của con thuyền sậy nhỏ chở theo ba người.</text>
+            <text>Thuyền còn lại hướng đến chỗ của con thuyền sậy nhỏ đang chở ba người.</text>
             <text>Bianka cảm thấy kẻ địch lần này không phải cướp biển 「bình thường」. Bởi——</text>
             <text>——Cậu bé nhìn giống thủ lĩnh bối rối đến mức không thể tin được cậu là cướp biển.</text>
             <show chara="wattShyClose" position="left"/>
@@ -139,7 +139,7 @@
             <speak chara="_Lalla">Err... Cô đang hỏi tôi sao?</speak>
             <show chara="lallaSighClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Còn ai nữa? Cậu kỷ sư có vẻ không có khả năng đối thoại, hỏi cậu ta chẳng có ích gì cả.</speak>
+            <speak chara="_Bianka">Còn ai nữa? Cậu kỹ sư có vẻ không có khả năng đối thoại, hỏi cậu ta chẳng có ích gì cả.</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="lallaSmileClose" position="right"/>
             <speak chara="_Lalla">Hehe... Jimmy thích nói chuyện lắm—— Nhưng em ấy chưa đủ tự tin trước cô. Đúng không?</speak>
@@ -179,7 +179,7 @@
             <speak chara="_Bianka">Hm. Cô cư xử và nói chuyện giống một diễn viên hơn là cướp biển.</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_ShakespeareBarbarossa">Trân thành cảm ơn lời khen ngợi 「King's Men」.</speak>
+            <speak chara="_ShakespeareBarbarossa">Trân thành cảm ơn lời khen ngợi dành cho 「King's Men」.</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">...?</speak>
@@ -190,7 +190,7 @@
             <speak chara="_ShakespeareBarbarossa">*Chỉ một và duy nhất.</speak>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_ShakespeareBarbarossa">Và trong vai thuyền trưởng cướp biển 「Barbarossa」 là——</speak>
-            <speak chara="_ShakespeareBarbarossa">——bản thân 「William Shakespeare」.</speak>
+            <speak chara="_ShakespeareBarbarossa">——chính 「William Shakespeare」.</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">...!?</speak>
@@ -232,7 +232,7 @@
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">...Hả?</speak>
-            <speak chara="_Bianka">*(Làm sao mà từ cuộc nói chuyện đó lại nhảy sang giới thiệu bản thân được vậy?)</speak>
+            <speak chara="_Bianka">(Làm sao mà từ cuộc nói chuyện đó lại nhảy sang giới thiệu bản thân được vậy?)</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="right"/>
             <speak chara="_Shakespeare">Tôi là Marian William Shakespeare từ thế kỷ XVI nước Anh, và là thuyền trưởng của「Caledonia」.</speak>
@@ -253,7 +253,7 @@
             <show chara="biankaAngryClose" position="right"/>
             <speak chara="_Bianka">(...James Watt? Người mà tạo ra động cơ hơi nước hiện đại đầu tiên? Nhưng cậu ta nhìn còn trẻ hơn cả mình...)</speak>
             <show chara="shakesConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">——「Nautilus」 không phải cái tên tệ, nhưng thủy thủ đoàn nhất quyết muốn dùng tên mới này để vinh danh câu bé Scottland vì đã hoàn thành xuất sắc việc sửa chữa tàu.</speak>
+            <speak chara="_Shakespeare">——「Nautilus」 không phải cái tên tệ, nhưng thủy thủ đoàn nhất quyết muốn dùng tên mới này để vinh danh câu bé người Scottland vì đã hoàn thành xuất sắc việc sửa chữa tàu.</speak>
             <show chara="shakesConfidentClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
             <speak chara="_Watt">Không phải chính chị là người muốn đổi tên à?</speak>
@@ -369,7 +369,7 @@
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">Phải. Một lời khuyên đơn giản nhưng lại là một trong những cái quan trọng nhất.</speak>
             <show chara="shakesConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">*Nghe đây—— Nếu muốn sống sót ở thế giới này, đừng phí đạn dược.</speak>
+            <speak chara="_Shakespeare">*Nghe đây—— Nếu muốn sống sót ở thế giới này, đừng phí năng lượng.</speak>
             <show chara="shakesConfidentClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>

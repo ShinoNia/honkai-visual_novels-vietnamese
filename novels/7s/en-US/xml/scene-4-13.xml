@@ -1,0 +1,322 @@
+<scene id="13" type="block" prev="12" title="悪い羅刹人2">
+  <text>The girl began rambling again:</text>
+  <motion chara="001" action="img_trans" img="奥托-标准-标准-中景（棺材）"></motion>
+  <motion chara="002" action="img_trans" img="素裳-元气-背手-中景"></motion>
+  <dialog chara="002">
+    <p>[You know those people up there are called the Golden Sand Gang right? </p>
+    <p>They’re a bunch of bad people who do everything evil that you can imagine.]</p>
+  </dialog>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-背手-中景"></motion>
+  <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景（棺材）"></motion>
+  <dialog chara="002">[By the orders of my master, I have come to eradicate these nuisances. Those who are heroes shall fight for the righteous and weed out evil to grant justice to the people and peace to this land… Uh, that’s what all those storytellers say, anyway.]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目前-背手-中景"></motion>
+  <text>She cleared her throat, looking shyly at the Raksha. She saw the latter staring at her intently, and she suddenly felt tiny sparks of joy inside her. She straightened her back, and her tone became more serious.</text>
+  <motion chara="002" action="img_trans" duration="1" img="素裳-愤怒-背手-中景"></motion>
+  <dialog chara="002">
+    <p>[The Golden Sand Gang was inconsequential, </p>
+    <p>but now, a man called “Eagle” has become their ringleader.]</p>
+  </dialog>
+  <dialog chara="002">[He is not someone to be taken lightly, as my master has informed me that he is a practitioner of the martial arts, a skilled one at that. Otherwise, my master would not have sent me here.]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-笑-背手-中景"></motion>
+  <dialog chara="002">
+    <p>[I’ve come here first to take care of an evil that’s been pestering the good folk of the Northern Desert; </p>
+    <p>Second, I’m here to test my mettle.]</p>
+  </dialog>
+  <motion chara="002" action="img_trans" img="素裳-欸真的吗-背手-中景"></motion>
+  <text>Sushang felt a bit guilty being so boastful, </text>
+  <text>but seeing as the Raksha was listening to her carefully with no other comments, the girl’s mood improved drastically. She believed the golden-haired stranger was an exceptional person to chat with.</text>
+  <motion chara="002" action="img_trans" img="素裳-标准-背手-中景"></motion>
+  <motion chara="001" action="img_trans" img="奥托-思索-中景（棺材）"></motion>
+  <dialog chara="002">[Our martial arts at the Wanderer’s House is called the [Edge of Taixuan], the one-of-a-kind martial arts belonging to the legendary Phoenix. It is the most complex martial arts across the lands.]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-小恶魔-背手-中景"></motion>
+  <dialog chara="002">[The Edge of Taixuan has five essences: Mantra, Form, Sanction, Ascension, and Eminence. </dialog>
+  <dialog chara="002" inline="true">To be honest with you, I’ve made progress in the Mantra, Form, and Ascension ~</dialog>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目下-背手-中景"></motion>
+  <dialog chara="002">
+    <p></p>
+    <p>... But I’ve been stuck at the Xuanyuan Sanction phase for a while now.]</p>
+  </dialog>
+  <motion chara="002" action="img_trans" img="素裳-嘟嘴-背手-中景"></motion>
+  <dialog chara="002">[Not even my master knows how to train the Sanction Essence, but my mom can; she said 【When you heart has connected with the Xuanyuan, the Sanction essence will come as naturally as night to day.】But it’s just a sword, what kind of thoughts does it even have? </dialog>
+  <dialog chara="002">I’ve talked to it for more than a decade, but it’s never done a thing, not even a yep. Aye, I really want to get it straight, but I haven’t been home for a while now…]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-背手-中景"></motion>
+  <dialog chara="002">[Ah, I haven’t told you yet, the Xuanyuan Sword is… Uh, never mind… </dialog>
+  <dialog chara="002">Those bandits stole my sword, but don’t worry, I’ll get it back in no time. As for how —]</dialog>
+  <motion chara="002" action="img_trans" duration="1" img="素裳-大笑潇洒-背手-中景"></motion>
+  <dialog chara="002">[I have my ways!]</dialog>
+  <text>
+    <p>The girl said with excitement, her eyes shining. [\s]</p>
+    <p>Although she seemed way too eccentric and all over the place, the Raksha enjoyed listening to her.</p>
+  </text>
+  <motion chara="002" action="img_trans" img="素裳-元气-背手-中景"></motion>
+  <dialog chara="002">
+    <p>[I’ve learnt the ways of the blade for ten years with my master now. </p>
+    <p>It’s kind of embarrassing to say this, but I haven’t fought any other experts besides my master. </p>
+  </dialog>
+  <dialog chara="002">Mom always said that practice is different from real life, but I don’t think it’s as mysterious as she likes to put it.]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-笑-背手-中景"></motion>
+  <dialog chara="002">[Don’t underestimate me just because I’m young, I’m actually pretty powerful. I’ll tell you this, I defeated four men just now with no blood shed at all. </dialog>
+  <dialog chara="002">It’s not that simple, you have to be really careful with how you control your strength~]</dialog>
+  <dialog chara="001">[How did you defeat the Golden Menace Gang if you didn’t kill anyone?]</dialog>
+  <text>The Raksha’s question seemed to come at just the right moment, even if his Shenzhounese wasn’t the most accurate, but Sushang didn’t mind.</text>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目下-背手-中景" duration="1"></motion>
+  <dialog chara="002">
+    <p>[Um, well, you do have to kill if you have to. </p>
+    <p>If you can save 100 by killing one, then that’s a good thing… I think.]</p>
+  </dialog>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目前-背手-中景"></motion>
+  <dialog chara="002">[But I haven’t killed anyone before, so there’s always this… Thought in the back of my mind. That’s a whole life! If I could, I’d rather not kill anyone…]</dialog>
+  <dialog chara="002">
+    <p>[So my hope is to defeat that “Eagle” guy. </p>
+    <p>With him gone, the gang will be no more. There’s no point in dealing with the rabble.]</p>
+  </dialog>
+  <dialog chara="001">[Mhm.]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-大笑-背手-中景"></motion>
+  <text>He answered, but Sushang mistook it for his desire for her to continue the conversation, so she became excited.</text>
+  <motion chara="002" action="img_trans" img="素裳-撒娇哭-背手-中景"></motion>
+  <dialog chara="002">[Let me tell you — Ow!]</dialog>
+  <motion chara="001" action="hide" duration="0"></motion>
+  <motion chara="002" action="hide" duration="0"></motion>
+  <text>She forgot that she was still cuffed, so her attempt to separate her arms only hurt her.</text>
+  <text>The [Ki Suppressant Pill] that the Golden Sand Gang had given her was quite the poison indeed. She could feel the Ki in her lower Dantian Sea, but it refused to flow into her veins. She had all the Ki she needed, but no way to use it.</text>
+  <text inline="true">— However, the girl had learned the [Edge of Taixuan]. </text>
+  <text>
+    <p></p>
+    <p>Phoenix’s martial arts were different from the thousands of others in these lands.</p>
+  </text>
+  <text>
+    <p>Normally, the arts would train the Dantian to store the Qi, </p>
+    <p>but the [Edge of Taixuan] wasn’t so strict about that.</p>
+  </text>
+  <text>
+    <p>The one who had learned the [Blade Mantra] </p>
+    <p>could see the world as their Dantian Sea and their body as the veins. </p>
+    <p>The [Ki] that was the origin point of martial arts had no need to be buried within oneself.</p>
+  </text>
+  <text>That’s why to Li Sushang, her lower Dantian Sea being blocked was a bit uncomfortable, but it was nothing too serious.</text>
+  <motion chara="002" action="show" duration="1" img="素裳-嘟嘴-背手-中景" pos="right"></motion>
+  <dialog chara="002">[Oh wait, it’s a hassle talking like this, so let me get these cuffs off first —]</dialog>
+  <motion chara="001" action="show" duration="1" img="奥托-微笑自信-单十字-中景（棺材）" pos="left"></motion>
+  <dialog chara="001">[Allow me.]</dialog>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <event action="hide_ui" duration="1.5"></event>
+  <se id="01-46铁镣铐撒地"></se>
+  <delay t="1"></delay>
+  <text>
+    <p>Sushang felt her limbs lighten as soon as his voice faded. The two pairs of thick steel cuffs had already shattered into pieces on the ground. [\s]</p>
+    <p>She was not injured in the slightest either.</p>
+  </text>
+  <motion chara="002" action="img_trans" duration="2" img="素裳-呆滞刺激-普通-中景"></motion>
+  <dialog chara="002">[You… You…]</dialog>
+  <text>Li Sushang couldn’t figure out what to say. She’d already seen so many strange things from the moment she laid eyes on this Raksha beauty. </text>
+  <text>
+    <p>If he could use his sorcery to disappear the chair and the glass cup, then it would be reasonable that he could shatter those steel cuffs… [\s]</p>
+    <p>...my ass!!!!</p>
+  </text>
+  <text>
+    <p>She began to reconsider the strange coffin carrying man standing in front of her. [\s]</p>
+    <p>Was [he] actually a master in disguise? </p>
+  </text>
+  <text>She didn’t believe it.</text>
+  <text>
+    <p>The experts and masters in her eyes were ones like her master, her mother, or herself in the future, </p>
+    <p>and the Raksha seemed way too far from what she thought of as an expert.</p>
+  </text>
+  <motion chara="002" action="img_trans" img="素裳-惊讶2-抱手-中景"></motion>
+  <text>[em italic]But he can do some pretty unnatural stuff….[/em]</text>
+  <text>She was lost in her thoughts when the Raksha suddenly spoke:</text>
+  <motion chara="001" action="img_trans" img="奥托-微笑奸-单空手-中景（棺材）"></motion>
+  <dialog chara="001">[What is this plan of yours?]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-惊讶-普通-中景"></motion>
+  <dialog chara="002">[Mmm, mmm… Hmm?]</dialog>
+  <dialog chara="001">[Your plan.]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目下-抱手-中景"></motion>
+  <dialog chara="002">[Oh, I…]</dialog>
+  <text>For some reason, she had a little less confidence in herself after the Raksha did his thing just now.</text>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目下-抱手-中景"></motion>
+  <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景（棺材）"></motion>
+  <dialog chara="002">[I… I was going to sneak into the bandit’s camp and find a chance to challenge “Eagle”.]</dialog>
+  <dialog chara="002">[But… Sigh, I lied, things weren’t going so well. I was trying to break out of my cuffs, go find my sword, and then… cross the bridge when I get to it. </dialog>
+  <dialog chara="002">There’s no elaborate scheme. I just don’t want to… I… I can’t say.]</dialog>
+  <text>The girl’s voice got quieter and quieter.</text>
+  <motion chara="001" action="img_trans" img="奥托-思索-中景（棺材）"></motion>
+  <dialog chara="001">[Can you win?]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-惊讶2-普通-中景"></motion>
+  <dialog chara="002">[Ha?]</dialog>
+  <motion chara="001" action="img_trans" img="奥托-标准-单空手-中景（棺材）"></motion>
+  <dialog chara="001">[You said you were going to challenge that eagle.]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-严肃-抱手-中景"></motion>
+  <dialog chara="002">[... Hmm, I think so.]</dialog>
+  <motion chara="001" action="img_trans" img="奥托-微笑自信-单空手-中景（棺材）"></motion>
+  <dialog chara="001">[Good, let’s go.]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-呆滞刺激-抱手-中景"></motion>
+  <dialog chara="002">[R-Right now?]</dialog>
+  <motion chara="001" action="img_trans" img="奥托-苦笑-摊手-中景（棺材）"></motion>
+  <dialog chara="001">[Wasn’t that your plan?]</dialog>
+  <dialog chara="002">[I mean, yeah, but…]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目下-抱手-中景"></motion>
+  <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景（棺材）"></motion>
+  <text>She lowered her head and spoke hurriedly and sadly:</text>
+  <dialog chara="002">[It’s midnight right now… What kind of hero challenges someone to a duel in the dark? That’s not righteous at all…]</dialog>
+  <motion chara="001" action="img_trans" img="奥托-思索-中景（棺材）"></motion>
+  <dialog chara="001">[Righteous…]</dialog>
+  <text>The Raksha considered that term.</text>
+  <dialog chara="001">[Are you talking about the day? You want to challenge that eagle when everyone’s present?]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-元气-普通-中景"></motion>
+  <dialog chara="002">[Yes!]</dialog>
+  <text>She answered with gusto.</text>
+  <dialog chara="001">[There’s one thing though.]</dialog>
+  <dialog chara="002">[Please.]</dialog>
+  <dialog chara="001">[During the day, that Eagle is going to have hundreds of his minions protecting him, will he actually accept your challenge?]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-欸真的吗-抱手-中景"></motion>
+  <dialog chara="002">[Of course he will! That’s the laws of the land! He…]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目下-抱手-中景"></motion>
+  <text>Li Sushang thought about it and sighed.</text>
+  <dialog chara="002">[You have a point.]</dialog>
+  <motion chara="001" action="img_trans" img="奥托-微笑奸-摊手-中景（棺材）"></motion>
+  <dialog chara="001">
+    <p>[So it’s impossible, in the day. </p>
+    <p>If you want to win, the night is your best chance.]</p>
+  </dialog>
+  <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景（棺材）"></motion>
+  <dialog chara="002">[Mhm…]</dialog>
+  <dialog chara="001">
+    <p>[I heard that Shenzhou has an ancient proverb:</p>
+    <p>【 I desire fish, yet I also desire a bear’s paw】. </p>
+    <p>That is to say that the two are conflicting things, and it's hard to pick between them.</p>
+  </dialog>
+  <motion chara="001" action="img_trans" img="奥托-微笑自信-摊手-中景（棺材）"></motion>
+  <dialog chara="001">
+    <p>[【Righteousness】is the fish. </p>
+    <p>【Exacting Justice】is the bear’s paw.]</p>
+  </dialog>
+  <dialog chara="001">
+    <p>[If you want to be righteous, then you won’t be able to exact justice. </p>
+    <p>【The two are mutually exclusive. Those who give up the fish will get the bear’s paw.】</p>
+    <p>You can’t have everything in this world. You will always lose something, so you have to choose.]</p>
+  </dialog>
+  <dialog chara="002">[....]</dialog>
+  <event action="hide_ui" duration="0.5"></event>
+  <se id="01-06痊愈"></se>
+  <motion chara="001" action="img_trans" img="奥托-微笑自信-单十字-中景（棺材）" duration="0.5"></motion>
+  <delay t="0.5"></delay>
+  <text>The Raksha’s hands danced across the air with elegance.</text>
+  <dialog chara="001">[Well let’s go then, milady?]</dialog>
+  <dialog chara="002" inline="true">[Oh… </dialog>
+  <motion chara="002" action="img_trans" img="素裳-嘟嘴-抱手-中景"></motion>
+  <dialog chara="002">Fine.]</dialog>
+  <bgm looptimes="0"></bgm>
+  <motion chara="002" action="hide"></motion>
+  <motion chara="001" action="hide"></motion>
+  <se id="01-47火熄灭"></se>
+  <bg img="牢房-暗" duration="2"></bg>
+  <text>
+    <p>The Raksha smiled lightly, and the fire suddenly disappeared from the air.[\s]</p>
+    <p>… No, the fire was still there. </p>
+  </text>
+  <text>
+    <p>That ball of fire seemed to have teleported beside the Raksha’s hand, burning brighter and brighter… [\s]</p>
+    <p>It was like…</p>
+  </text>
+  <text>A sword?</text>
+  <se id="01-48火燃烧"></se>
+  <transition mode="move" in="0.5" stop="1" out="0.5" color="#000000" direction="left" custom="default"></transition>
+  <bg img="牢房-亮"></bg>
+  <text>
+    <p>Sushang watched, dumbfounded by the Raksha’s [sorcery]. [\s]</p>
+    <p>By the time she snapped out of it, the fire was gone and the doors were open, leaving only a charred scent lingering around her nose.</p>
+  </text>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <motion chara="001" action="show" pos="center" duration="1.5" img="奥托-微笑奸-单空手-近景（棺材）"></motion>
+  <delay t="1"></delay>
+  <dialog chara="001">[Please.]</dialog>
+  <dialog chara="002">[....]</dialog>
+  <motion chara="001" action="img_trans" img="奥托-标准-标准-近景（棺材）"></motion>
+  <text>Li Sushang moved forward obediently but suddenly stopped after taking a few steps, turning her head and said with a pout:</text>
+  <dialog chara="002">[You just told me to do bad things. You… You’re a bad Raksha.]</dialog>
+  <dialog chara="001">[Oh,]</dialog>
+  <event action="hide_ui" duration="1"></event>
+  <se id="01-51奥托叹气2"></se>
+  <motion chara="001" action="show" pos="center" img="奥托-悲伤-标准-近景（棺材）"></motion>
+  <delay t="1"></delay>
+  <bg img="PureBlack" duration="5"></bg>
+  <motion chara="001" action="hide" duration="5"></motion>
+  <text>He sighed, not a hint of guilt in his voice.</text>
+  <dialog chara="001">[Perhaps.]</dialog>
+  <text>Sushang couldn’t make out his expression in the darkness, but she sensed that his voice had an intangible sadness to it.</text>
+  <dialog chara="001">[There is no right or wrong to what I do.]</dialog>
+  <transition mode="fade" in="3" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <mono>
+    <p></p>
+    <p>Earlier, there were two guards outside of the cell.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>One of them escorted the Raksha in the dungeon respectfully, then immediately called in sick; the other was delivering a meal when he was scared out of his mind and refused to reenter the dungeon.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>[Is that person even human? That’s a demon! Have you ever seen a talking lantern? I won’t go. You can’t make me.]</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>It’s almost as if the outlander in the cell was even scarier than “Eagle”.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>The even stranger thing was that “Eagle” was not angry at all, like he usually would be.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>[We’ll have plenty of people in a couple of days, so just send some more help.]</p>
+    <p></p>
+    <p>He sent about 10 people or so, all armed.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>The newcomers carefully entered the cell but came out fine, so their fear disappeared pretty quickly and instead began to mock the two guards before them.</p>
+    <p></p>
+    <p>But either way, the bandits didn’t underestimate the man and split into day and night guards to ensure that there would always be at least five people guarding the cell.</p>
+    <p></p>
+    <p>Of course, those five unlucky few hadn’t the slightest clue of what happened inside the dungeon.</p>
+  </mono>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="BGSky04"></bg>
+  <mono>
+    <p></p>
+    <p>It’s strange. There was no sound at all coming out of the cell that we threw the girl who angered our leader in.</p>
+    <p></p>
+    <p>An all-encompassing silence— A deathly calmness.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>No voices, no random noises, nothing.</p>
+  </mono>
+  <bg img="PureBlack"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>The guards didn’t hear anything strange, but they smelled something weird: something was burning.</p>
+    <p></p>
+    <p>That scent grew stronger and stronger as the five of them picked up their blades and gathered at the entrance.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>[You wanna go down there?]</p>
+    <p>A guard asked the others quietly.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>The door exploded before the others could answer.</p>
+  </mono>
+  <se id="01-52爆破"></se>
+  <motion chara="-5" action="show" pos="center" img="爆炸"></motion>
+  <mono>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>The last thing that the five of them saw was the crimson tendril of fire.</p>
+  </mono>
+  <transition mode="fade" in="1" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="14"></event>
+</scene>

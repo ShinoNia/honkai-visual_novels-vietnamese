@@ -1,0 +1,198 @@
+<scene id="21" prev="20" title="黒淵白花">
+  <transition mode="eye" in="0" stop="0.5" out="3" color="#000000"></transition>
+  <cg img="CG_第一折_黑渊白花1"></cg>
+  <bg img="BGSky03"></bg>
+  <bgm id="红颜近落霞（慢哀）"></bgm>
+  <text>
+    <p>Pain and exhaustion overwhelmed the girl’s body, reminding her that she was in control of her body once more.[\s]</p>
+    <p>… A rather cruel reminder, anyway.</p>
+  </text>
+  <dialog chara="002">[It hurts…]</dialog>
+  <mono>
+    <p></p>
+    <p>The salty tang of blood in her mouth caused the girl to contemplate her life.[\s]</p>
+    <p></p>
+    <p>Were her internals ruptured?</p>
+    <p>… Her slashed stomach continued to periodically send signals of pain.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>The way of the sword was no stranger to injuries, </p>
+    <p>but it was the first time the girl had suffered these kinds of injuries.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>[em italic color=#FAFAD2]If this is what victory tastes like… </p>
+    <p>then it’s so bitter.[/em][\s]</p>
+    <p></p>
+    <p>Li Sushang couldn’t help but let her mind run wild, even letting out a chuckle despite the resultant pain.</p>
+    <p>And once again, she grimaced in pain.</p>
+  </mono>
+  <dialog chara="002">[...Hey Raksha, you’re there, right?]</dialog>
+  <text>The girl tried her hardest to speak, asking the moon up above.</text>
+  <se id="01-68奥托脚步声"></se>
+  <text>
+    <p>Nobody answered her. However, she heard the pattering of footsteps-[\s]</p>
+    <p>Knock, knock.[\s]</p>
+    <p>-as someone neared her.</p>
+  </text>
+  <dialog chara="002">[Hehe… It’s you, right?]</dialog>
+  <se looptimes="0"></se>
+  <text>
+    <p>Li Sushang asked, </p>
+    <p>but her voice was too quiet, so much so that she couldn’t even hear it herself over the shifting sands.</p>
+  </text>
+  <dialog chara="002">[Did you help me?]</dialog>
+  <dialog chara="001">[Stop talking.]</dialog>
+  <event action="hide_ui" duration="2"></event>
+  <cg img="CG_第一折_黑渊白花空手" duration="2"></cg>
+  <delay t="2"></delay>
+  <text>The golden-haired green-eyed Raksha knelt down next to her.</text>
+  <dialog chara="001">[You’re very lucky. These aren’t serious injuries.]</dialog>
+  <text>
+    <p>[em italic color=#FAFAD2]Are you kidding?[/em]</p>
+    <p>Li Sushang wanted to ask, but she ended up not saying a word. </p>
+  </text>
+  <text>She laid there peacefully, waiting to see what other kinds of tricks were up the Raksha’s sleeve.</text>
+  <event action="hide_ui" duration="3.1"></event>
+  <se id="01-69黑渊白花效果音"></se>
+  <cg img="CG_第一折_黑渊白花空手特效" duration="3"></cg>
+  <delay t="3"></delay>
+  <text>Unsurprisingly, the Raksha opened his palm and allowed a golden-blue light to spill forth from the void, forming into an item.</text>
+  <event action="hide_ui" duration="3"></event>
+  <cg img="CG_第一折_黑渊白花4" duration="3"></cg>
+  <delay t="3"></delay>
+  <text>
+    <p>From Sushang’s perspective, it looked like a white umbrella with some strange crests. </p>
+    <p>Its body was elongated and its tip was sharp.</p>
+  </text>
+  <se looptimes="0"></se>
+  <dialog chara="002">[Are you going to poke me with that?]</dialog>
+  <dialog chara="001">[Stop talking.]</dialog>
+  <text>The Raksha repeated.</text>
+  <cg img="CG_第一折_黑渊白花6"></cg>
+  <text>His falling hair covered his eyes, and Sushang saw a drop of something, either sweat or a tear, drip from his face. [\s]The Raksha held the pitch black handle of the umbrella, placing its tip on Sushang’s injury, and said:</text>
+  <dialog chara="001">
+    <p>[It won’t hurt, but it’ll feel a bit strange… </p>
+    <p>Probably a little numb or sore, can you try not to move?]</p>
+  </dialog>
+  <text>Sushang wanted to nod, but the pain from her injuries caused her to blink in response instead.</text>
+  <dialog chara="002">[...I believe you.]</dialog>
+  <text>She didn’t even know if she was able to say that.</text>
+  <event action="hide_ui" duration="2"></event>
+  <cg duration="2" img="CG_第一折_黑渊白花5"></cg>
+  <delay t="2"></delay>
+  <text>The pain began to subside from the area the Raksha was touching with the tip of his umbrella. [\s]Using her Blade Mantra, Sushang could see that the Raksha was directing Ki into her injuries. </text>
+  <text>It was clearly a costly endeavor judging from the sweat pooling on his face.</text>
+  <text>
+    <p>[em italic color=#FAFAD2]Do golden-haired people sweat gold too?[/em]</p>
+    <p>Li Sushang thought, slightly embarrassed, excited, shy, and a little sorry for thinking that of him.</p>
+  </text>
+  <dialog chara="001">[There’s too much of a gap between the functionality of the simulated ones…]</dialog>
+  <text>The Raksha said to himself.</text>
+  <dialog chara="001">[It’ll need some time.]</dialog>
+  <dialog chara="002">[Ok.]</dialog>
+  <text>Both the Raksha and Li Sushang stopped talking.</text>
+  <bgm looptimes="0"></bgm>
+  <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <bg img="BGSky03"></bg>
+  <mono>
+    <p></p>
+    <p></p>
+    <p>The nightly breeze blew through the Raksha’s long golden locks. </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Li Sushang could feel a slight tickling sensation from where it brushed past on her face. </p>
+    <p>She wanted to say something, but didn’t in the end.</p>
+  </mono>
+  <bg img="PureBlack"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>She instead closed her eyes. [\s]</p>
+    <p></p>
+    <p>It was like what the Raksha said, she felt both numbness and soreness inside her. It was a strange feeling, but she could deal with it.</p>
+  </mono>
+  <bgm id="侠女之声（女抒情）"></bgm>
+  <dialog chara="002">[Sigh~]</dialog>
+  <text>She thought about the past day.</text>
+  <cg img="氛围_第一折_金沙帮众" duration="1"></cg>
+  <bg img="BGSky03"></bg>
+  <text>First, she defeated four desert bandits and got a taste of what being a prisoner was like.</text>
+  <cg img="CG_第一折_鹰李对峙_鹰惊李伸手" duration="1"></cg>
+  <text>Then, she had an honorable duel with the man named “Eagle”, though she won by a thread.</text>
+  <cg duration="1" img="CG_第一折_抢剑_鹰李"></cg>
+  <text>Despite seriously injuring the boss of the Golden Sand Gang, she was in pretty bad shape too.</text>
+  <cg img="CG_第一折_黑渊白花6"></cg>
+  <text>She also met this strange foreigner and was watching him heal her wounds with sorcery.</text>
+  <cg></cg>
+  <text>[em italic color=#FAFAD2]What a long day…[/em]</text>
+  <text>
+    <p>The life and death experience she had today was a great step for the girl. </p>
+    <p>It was as if a lifetime had passed since this morning.</p>
+  </text>
+  <text>
+    <p>Satisfaction and emptiness. Joy and sorrow. </p>
+    <p>Unknown feelings swarmed and mixed together in Li Sushang’s heart.</p>
+  </text>
+  <text>
+    <p>Slowly, the pain disappeared. [\s]</p>
+    <p>What replaced it was the small plant of pride taking root in the girl’s heart.</p>
+  </text>
+  <dialog chara="002">[Haha, you… You’re going to suffer later if you don’t know the ways of Shenzhou.]</dialog>
+  <text>Li Sushang quietly said, looking at the silver moon hanging in the sky.</text>
+  <dialog chara="002">[We’re not supposed to have outside help during a duel. [\s]There were a lot of spectators just now, and they’ll be sure to call you a weasel or evil. You’re a foreigner, so it’s best to not stir up too much trouble here.]</dialog>
+  <dialog chara="001">[Fine. I could’ve just watched you die on the sidelines then.]</dialog>
+  <dialog chara="002">[Hehe…]</dialog>
+  <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <event action="hide_ui" duration="2"></event>
+  <cg img="CG_第一折_黑渊白花6" duration="2"></cg>
+  <delay t="2"></delay>
+  <dialog chara="002">[Thanks. You’re not a bad Raksha. You, you're good…]</dialog>
+  <dialog chara="001">[Ha.]</dialog>
+  <text>The Raksha didn’t look at her. Instead, he was still focusing on transferring his Ki through that white umbrella to heal her wounds.</text>
+  <dialog chara="001">[No need to thank me. I have something to ask of you too.]</dialog>
+  <dialog chara="002">[Hmm? What?]</dialog>
+  <text>The girl was suddenly curious.</text>
+  <dialog chara="002">[Well let’s hear it. You saved my life, so no matter what it is that you need, I’ll give it my all.]</dialog>
+  <dialog chara="001">[Just now underground, you said that your martial art was called the Edge of Taixuan? The exclusive teachings of the Celestial Phoenix?]</dialog>
+  <text>The Raksha said casually.</text>
+  <dialog chara="001">[Who’s that? And why do you call her a Celestial?]</dialog>
+  <dialog chara="002">[Because she’s truly a Celestial, an incredibly powerful one too. They say that she’s immortal since she still looks like a maiden even after thousands of years.]</dialog>
+  <event action="hide_ui" duration="2.1"></event>
+  <cg img="CG_第一折_黑渊白花空手特效" duration="0.9"></cg>
+  <delay t="1"></delay>
+  <cg img="CG_第一折_黑渊白花空手" duration="0.9"></cg>
+  <text>The Raksha blinked, and the white umbrella disappeared into thin air.</text>
+  <dialog chara="001">[Do you know where she is?]</dialog>
+  <dialog chara="002">[Me? No idea.]</dialog>
+  <text>Li Sushang bit her lips to hide her excitement.</text>
+  <dialog chara="002">[But you’ve asked the right person. If there’s anyone who knows the whereabouts of the Celestial, then it has to be my master. </dialog>
+  <dialog chara="002">Did you know that the Celestial took in seven disciples? Both my mom and my master were her disciples…]</dialog>
+  <dialog chara="002">[Wait, do you want to see the Celestial?]</dialog>
+  <dialog chara="001">[...]</dialog>
+  <text>The Raksha stared at her and cracked a smile:</text>
+  <cg img="CG_第一折_黑渊白花空手笑"></cg>
+  <dialog chara="001">[I do.]</dialog>
+  <text>Perhaps he didn’t realize that this was the first time he’d smiled so freely and joyfully after leaving the west on his journey to Shenzhou.</text>
+  <text>Li Sushang didn’t know his past nor his pain, but she knew just how big his smile was right now. [\s]An impulse claimed the girl’s instincts as she leapt up: </text>
+  <event action="hide_ui" duration="2"></event>
+  <bg img="废弃驿站"></bg>
+  <cg></cg>
+  <motion chara="002" action="show" pos="right" img="素裳-龇牙-普通-中景" duration="1"></motion>
+  <motion chara="001" action="show" pos="left" img="奥托-微笑释然-标准-中景" duration="1"></motion>
+  <delay t="1.5"></delay>
+  <dialog chara="002">[Then come with me! We’ll go back and get my master to take us to see the Celestial!]</dialog>
+  <motion chara="001" action="img_trans" img="奥托-笑容释然-标准-中景"></motion>
+  <event action="achievement" aid="0587835ecd47f23d"></event>
+  <notification>伝記更新：「羅刹人」</notification>
+  <motion chara="001" action="hide" duration="3"></motion>
+  <motion chara="002" action="hide" duration="3"></motion>
+  <transition mode="fade" in="3" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="Chapter01end"></bg>
+  <delay t="4"></delay>
+  <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="22"></event>
+</scene>

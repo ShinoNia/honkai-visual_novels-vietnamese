@@ -1,0 +1,201 @@
+<scene id="00" title="序">
+  <transition mode="fade" in="0" stop="0.5" out="3" color="#000000"></transition>
+  <bg img="拂云观-侧面"></bg>
+  <bgm id="秋恋古道（慢抒情）"></bgm>
+  <delay t="3"></delay>
+  <dialog chara="012">「Phew...」</dialog>
+  <motion chara="012" action="show" img="枕玉-闭眼张嘴-敲门-中景（汗）" pos="center" duration="1"></motion>
+  <text>
+    <p>The boy took a deep breath.</p>
+    <p>He reached out to knock on the door, but stopped just before his fist hit it.</p>
+  </text>
+  <motion chara="012" action="img_trans" img="枕玉-标准-敲门-中景（汗）"></motion>
+  <dialog chara="012">「Why me...?」</dialog>
+  <text>Discontent and helplessness swirled in the boy’s heart.</text>
+  <transition mode="shutter" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <text>The boy’s name was Zhenyu. He had been her disciple for less than three months since he first joined the Edge of Taixuanpai faction, but she sent him to his room on top of Heavensky Peak so that they could get a good scolding from their family head</text>
+  <motion chara="012" action="img_trans" img="枕玉-闭眼张嘴-敲门-中景（汗）"></motion>
+  <dialog chara="012">（Pushing the role of being scolded by a family head onto me? Both my older sister and apprentice are terrible...）</dialog>
+  <text>The boy imagined the headman’s angry appearance, feeling uneasy and restless.</text>
+  <motion chara="012" action="hide"></motion>
+  <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="拂云观-亮"></bg>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="003" action="show" pos="right" img="林朝雨-标准-标准-中景" duration="1"></motion>
+  <delay t="1"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p>The head of the Taixuan Faction—『Willowfoil』, also known as Lin Zhaoyu.</p>
+    <p>She’d turned fifty-six this year, and she was past the age of knowing Celestial</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>The elite Celestial ascended to the heavens engulfing in golden light, and Mount Taixuan was consumed by flame.</p>
+    <p>After that, she and her six brother apprentices—who had been the first disciples of a Celestial — remained here at Tensomine</p>
+    <p>He rebuilt the Taixuan school.</p>
+    <p></p>
+    <p>After a little over ten years, the Taixuan Faction came back to life splendidly</p>
+    <p>He was one of the six great schools in Shinshu martial arts.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Because of that, Lin Zhaoyu's fame was also very high and her husband 『Tsukkomaken』.</p>
+    <p>Together with Ma Feima, they had become a married couple of martial artists that everyone in the world envied</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>As the master of his family, Lin Zhaoyu was by no means an eccentric person.</p>
+    <p>Quite the opposite, she was kind and gentle to everyone</p>
+    <p>We treat each other equally.</p>
+    <p></p>
+    <p>Except for a few exceptions.[\s]</p>
+    <p></p>
+    <p>Whenever I interacted with those exceptions, Lin Zhaoyu was always there</p>
+    <p>She went mad with rage, as if someone had changed.</p>
+  </mono>
+  <motion chara="003" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="入云阶" pos="0,-600"></bg>
+  <text>When the boy first came to Tianqiu Peak, his caring older brothers told him all about it.</text>
+  <bg img="入云阶" duration="60" pos="0,0"></bg>
+  <dialog chara="-1">
+    <p>「You just got here, Zhenyu. I'll teach you the rules of this place!</p>
+    <p>In front of the family head, I absolutely mustn't mention a certain topic and their names.」</p>
+  </dialog>
+  <dialog chara="-1">
+    <p>「By a certain topic, she meant the vice-head.</p>
+    <p>No matter what you ask, don't tell the head of a family about your vice-head being out there. There is no need for me to interfere with these two」</p>
+  </dialog>
+  <dialog chara="012">「That'll be fine.」</dialog>
+  <text>
+    <p>Zhenyu nodded hastily. An outsider shouldn't be interfering with the problem of a married couple</p>
+    <p>He is not the talkative type. Therefore, he will never make such a mistake</p>
+  </text>
+  <dialog chara="012">「I found out about a certain topic. And what's their names?」</dialog>
+  <dialog chara="-1">「One of them is our master’s teacher—in other words, Master Phoenix...」</dialog>
+  <text>The siblings suddenly lowered their voices and looked around.</text>
+  <dialog chara="-1">「You may not have heard this name before, since you're all so young. But once upon a time the Great Teacher was very famous—a god who hasn’t aged even for one thousand years after he went down to Gekai」</dialog>
+  <dialog chara="-1">「Phoenix returned to the Celestial world twenty years ago. But don't provoke him by saying that out loud, okay? He never took you away when Master Daishi ascended into heaven... so I have been worried about it for some time now!」</dialog>
+  <dialog chara="012">「Yeah, yeah.」</dialog>
+  <text>Phoenix’s name faded over time, but the boy had heard a lot of stories about her. In fact it was precisely because 『The only true Celestial』 existed that he traveled all this way to Tensomine and became an apprentice in Taixuan Faction</text>
+  <dialog chara="-1">「The other name is 『Musou』, also known as Su Mei. She's a younger sister apprentice of the family head but their relationship has water and oil...」</dialog>
+  <dialog chara="-1">「Don't say this name out loud, or even hear it in your ears. If you run into anyone from the Musoumon Gate and find them hiding somewhere far away... You can never have anything to do with 'em!」</dialog>
+  <dialog chara="012">「Huh?」</dialog>
+  <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <event action="hide_ui" duration="1.5"></event>
+  <bg img="BGDarkRoom"></bg>
+  <motion chara="004" action="show" pos="right" duration="2" img="苏湄-自信-标准-中景"></motion>
+  <mono>
+    <p></p>
+    <p>Musoumon—it was almost twenty years ago, with the new Taixuan Faction</p>
+    <p>It was founded around the same time, but on a completely different scale.</p>
+    <p></p>
+    <p>Right now, the Taixuan Faction is one of those six great factions</p>
+    <p>Musoumon is still a small sect.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>However, no one dared lay a hand on the disciples of Musoumon.</p>
+    <p>The reason for that was the head of family, 『Saishoku Kanebi』’s Su Mei.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>A woman with peerless beauty and superior intelligence.</p>
+    <p></p>
+    <p>Su Mei was Phoenix’s second disciple, but in the martial arts world</p>
+    <p>He was considered to be the most fearsome of The Seven Great Void Swords, and he revered him with awe</p>
+    <p>It was called 『Onna Zhuge』 or『Musousennin』.</p>
+  </mono>
+  <motion chara="004" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="入云阶"></bg>
+  <dialog chara="012">「...Is it really that scary?」</dialog>
+  <text>The brothers looked at each other and nodded in unison.</text>
+  <dialog chara="-1">「It's terrifying.」</dialog>
+  <event action="hide_ui" duration="2.1"></event>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="拂云观-侧面（开门）" duration="2"></bg>
+  <motion chara="012" action="show" img="枕玉-闭眼张嘴-敲门-中景（汗）" pos="center"></motion>
+  <dialog chara="012">「......」</dialog>
+  <text>As he stood there in a daze, the headman’s voice came from inside his room.</text>
+  <motion chara="012" action="img_trans" img="枕玉-吃惊-敲门-中景（汗）"></motion>
+  <dialog chara="003">「What are you spacing out for outside, Zhenyu?」</dialog>
+  <motion chara="012" action="img_trans" img="枕玉-吃惊张嘴-标准-中景"></motion>
+  <dialog chara="012">「Ah... Yes! My apprentice, Zhenyu. I'm coming in」</dialog>
+  <text>The boy was nervous, but at the same time excited.</text>
+  <motion chara="012" action="img_trans" img="枕玉-吃惊张嘴-标准-中景（多汗）"></motion>
+  <dialog chara="012">「Master... How do you know me?」</dialog>
+  <dialog chara="003">「Why? I'm not old enough to even remember the names of my disciples.」</dialog>
+  <text>
+    <p>The head of the family answered.</p>
+    <p>There was a hint of self-derision in her voice rather than condemnation.</p>
+  </text>
+  <dialog chara="003">「217 members of the gate faction remember everyone.[\s]His internal breathing is ragged, and his steps are unsteady. He clearly hasn't built up the basics yet—the only one who can do that would be someone like you just introduced to this school」</dialog>
+  <motion chara="012" action="img_trans" img="枕玉-标准-标准-中景"></motion>
+  <dialog chara="012">「...Ah, y-yes. I'll keep training from now on!」</dialog>
+  <text>Zhenyu instantly broke out in a cold sweat.[\s]It had only been three months since he became a pupil, and 『Tai Yijing』 was still learning how to become an introductory student at『Edge of Taixuan』. That's why just climbing the Irimo Floor made him out of breath</text>
+  <text>My master’s words were indifferent, but Zhenyu sounded like she had pointed out my lack of training and I suddenly felt embarrassed.</text>
+  <dialog chara="004">「Climbing up to the top of this cloud floor is pretty impressive. Don't scare her like that, okay?」</dialog>
+  <text>Zhenyu felt a little strange. That voice didn't sound like it belonged to the head of our family just now</text>
+  <event action="hide_ui" duration="3.1"></event>
+  <motion chara="012" action="hide"></motion>
+  <se id="01-71开门声"></se>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="拂云观-亮"></bg>
+  <motion action="show" pos="800,0" chara="004" img="苏湄-自信-标准-远景"></motion>
+  <motion chara="004" action="move" pos="right" duration="2"></motion>
+  <text>The door suddenly opened. Inside stood a woman more beautiful than the boy had ever seen before, smiling faintly</text>
+  <dialog chara="003">「......」</dialog>
+  <motion chara="003" action="show" pos="left" img="林朝雨-愤恨-标准-远景" duration="1"></motion>
+  <motion chara="004" action="show" pos="right" img="苏湄-自信-标准-远景" duration="1"></motion>
+  <text>The head of the family behind her, Lin Zhaoyu—had a dark look on his face.</text>
+  <dialog chara="003">「Su Mei... Since you're a Musoumon, how long has it been since I started appraising my disciples?」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-远景"></motion>
+  <dialog chara="004">「Oh, did I say something unnecessary?」</dialog>
+  <text>The stunningly beautiful woman turned toward Zhenyu and blinked.</text>
+  <text>At that point, Lin Zhaoyu finally turned to look at the boy.</text>
+  <motion action="img_trans" chara="003" img="林朝雨-微笑-标准-远景"></motion>
+  <motion chara="004" action="img_trans" img="苏湄-自信-标准-远景"></motion>
+  <dialog chara="003">「What do you want, Zhenyu? Tell me.」</dialog>
+  <motion chara="003" action="hide"></motion>
+  <motion chara="004" action="hide"></motion>
+  <motion chara="012" action="show" pos="center" duration="1" img="枕玉-吃惊张嘴-标准-中景（汗）"></motion>
+  <dialog chara="012">「Ah...」</dialog>
+  <text>The boy couldn't help but hesitate. He had come to apologize for his master in place of a disciple and older sister</text>
+  <mono pageend="true">
+    <p></p>
+    <p>It's early morning. 『Musousennin』, also known as Su Mei suddenly came to Tensomine...</p>
+    <p>He’d said he needed to tell the headman what his vice-head had told him.</p>
+    <p></p>
+    <p>The older disciples and elder brothers were afraid of incurring their master’s wrath</p>
+    <p>No one tried to climb the mountain with Su Mei.</p>
+    <p></p>
+    <p>While we were doing that, the head of Musoumon Gate was gone...</p>
+    <p>...No one would have thought he was already in the cloud of dust.</p>
+  </mono>
+  <text>Not knowing what to do, the boy decided he should just tell her as it was.</text>
+  <motion chara="012" action="img_trans" img="枕玉-闭眼张嘴-标准-中景（汗）"></motion>
+  <dialog chara="012">「Yes, Master. The head of the Musou Gate Resurrection would like to meet with you again! My second disciple Nee-san and Brother Xuanli can't decide on their own so I was told that they should go up a mountain for my report...」</dialog>
+  <motion chara="012" action="hide" duration="0"></motion>
+  <motion chara="004" action="show" pos="right" img="苏湄-甜笑-标准-远景"></motion>
+  <motion chara="003" action="show" pos="left" img="林朝雨-惊讶-标准-远景"></motion>
+  <dialog chara="004">「Hehe.」</dialog>
+  <text>Su Mei, who was off to the side of it all, laughed out loud without thinking.</text>
+  <motion chara="003" action="img_trans" img="林朝雨-不悦-标准-远景"></motion>
+  <text>The head of the family made a clearly unamused face as he spoke coldly.</text>
+  <dialog chara="003">「Why would you report something like that when she's right here? Go back.」</dialog>
+  <dialog chara="012">「Yes... Excuse me.」</dialog>
+  <text>Zhenyu hung its head and bowed.</text>
+  <motion action="img_trans" chara="003" img="林朝雨-认真-标准-远景"></motion>
+  <dialog chara="003">「And then...」</dialog>
+  <text>The head of the family sighed and spoke in a gentle voice</text>
+  <motion chara="003" action="img_trans" img="林朝雨-微笑-标准-远景"></motion>
+  <dialog chara="003">「You don't have to come here on errands anymore. Genri will teach you the secrets of Taixuan, and make sure that your foundation is solid enough for both tai-chiehyun (Taixuanitsuyuu Tingling), as well! That way climbing up a mountain should not be too tiring after all...」</dialog>
+  <dialog chara="012">「Understood.」</dialog>
+  <text>The head of the family was thinking about him—Zhenyu moved from his heart, but he didn’t know what to say. He just bowed and said:</text>
+  <dialog chara="012">「Thank you very much.」</dialog>
+  <dialog chara="003">「Go.」</dialog>
+  <bgm looptimes="0"></bgm>
+  <event action="goto" to="01"></event>
+</scene>

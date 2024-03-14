@@ -1,0 +1,273 @@
+<scene id="000" title="回忆篇1" root="true">
+  <transition mode="fade" in="0" stop="0.5" out="2" color="#000000"></transition>
+  <bgm id="秋恋古道（慢抒情）"></bgm>
+  <bg img="PureBlack"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>Qin Suyi’s first memory was a sliver of blue.</p>
+  </mono>
+  <se id="02-22海浪loop" looptimes="-1"></se>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="海边"></bg>
+  <event action="hide_ui" duration="1.5"></event>
+  <delay t="1.5"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p>The blue sea made a sound as the waves brushed against her feet. A young Hata Sougoromo was standing by water's edge</p>
+    <p></p>
+    <p>I don't know why, but every time she remembers the sight makes her happy.</p>
+  </mono>
+  <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <mono>
+    <p></p>
+    <p>I lower my head to see soft sand and white waves. Looking up, there's a blue sky with clouds in the distance...</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Someone seemed to be talking nearby, and I could hear their voices. But Qin Suyi didn't turn around</p>
+  </mono>
+  <text>
+    <p>Sha----</p>
+    <p></p>
+    <p>Ya-ka ka...</p>
+  </text>
+  <mono>
+    <p></p>
+    <p>A strange sound surprised the seagulls, and their wings slowly fell.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>My master came up behind me, lifted her to my feet and took us home.</p>
+  </mono>
+  <se looptimes="0"></se>
+  <event action="hide_ui"></event>
+  <cg img="CG_回忆篇_秦素衣" duration="2"></cg>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <mono>
+    <p></p>
+    <p>Master’s sleeve was dyed red, but his arm felt very warm.</p>
+    <p>Being in this person's arms makes me feel calm.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Qin Suyi no longer remembers what happened before that.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>That year, the Sacred Ancestor exterminated an unearthly beast from Liyue in Tokai.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>In the same year, Qin Suyi who was eight years old became a disciple of Taixuanzan and Celestial Phoenix to become his seventh apprentice.</p>
+  </mono>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <bg img="太虚山"></bg>
+  <event action="hide_ui" duration="2"></event>
+  <delay t="2"></delay>
+  <mono>
+    <p></p>
+    <p>His first disciple, Lin Zhaoyu was by Suyi’s side when he came to a place she didn't know and felt uneasy about it. He cleaned up the room in her stead so that they could get their daily necessities together</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>At first, Qin Suyi had forgotten to say a word. But Lin Zhaoyu went along with each and every one of them</p>
+  </mono>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="太虚山3"></bg>
+  <motion chara="003" action="show" pos="left" img="朝雨-标准-标准-中景"></motion>
+  <motion chara="009" action="show" pos="right" img="秦素衣-标准-幼年-中景"></motion>
+  <dialog chara="003">「Home.」</dialog>
+  <dialog chara="009">「...Home...」</dialog>
+  <dialog chara="003">「That's right.」</dialog>
+  <text>The first disciple speaks gently.</text>
+  <dialog chara="003">「This is your home now.」</dialog>
+  <dialog chara="009">「My house...」</dialog>
+  <text>Qin Suyi repeated slowly.</text>
+  <dialog chara="009">「Thank you, Miss Zhaoyu...」</dialog>
+  <motion chara="003" action="img_trans" img="朝雨-傻笑-标准-中景"></motion>
+  <dialog chara="003">「Yes, you're welcome.」</dialog>
+  <text>Lin Zhaoyu applauded happily and smiled like a child.</text>
+  <text>Qin Suyi clapped and laughed just like she did.</text>
+  <motion chara="003" action="hide"></motion>
+  <motion chara="009" action="hide"></motion>
+  <mono pageend="true">
+    <p></p>
+    <p>To her, it was the most fun time she had since being able to remember. Even after years of suffering and despairing more than anything else in life—she would often think back on those days</p>
+  </mono>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="太虚山"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>After spending three days with her, Lin Zhaoyu said he would return to take care of his sixth disciple Lord UmaYanqing.</p>
+  </mono>
+  <dialog chara="003">「I can't be with him anymore. Lord Yanqing is still young, so if we stay this far away from each other for too long he will probably cry and go on a rampage—the second disciple cannot stop the boy」</dialog>
+  <mono pageend="true">
+    <p></p>
+    <p>A disciple of the Taixuan school is determined by when he or she enters. Qin Suyi may have become his apprentice at last, but it's not as if they are youngest</p>
+    <p>She was the same age as his fifth disciple, and three years older than him.</p>
+  </mono>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="太虚山1"></bg>
+  <event action="hide_ui" duration="3"></event>
+  <motion chara="003" action="show" pos="200,0" img="朝雨-温柔-标准-远景" duration="3"></motion>
+  <motion chara="011" action="show" pos="390,0" img="马彦卿-标准-幼年-远景" duration="1.6"></motion>
+  <delay t="3"></delay>
+  <event action="show_ui"></event>
+  <mono>
+    <p></p>
+    <p>She knows about the sixth disciple. When she brought her to a mountain, six disciples—five women and five men — came out for one man: The oldest of them was not much older than him; there were children with lost expressions on their faces in his arms</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Qin Suyi had seen the child many times out of curiosity, but he couldn’t tell if it was a man or woman.</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <motion chara="006" action="show" pos="-300,0" duration="3" img="江婉如-标准-幼年-远景"></motion>
+  <motion chara="005" action="show" pos="-100,0" duration="3" img="江婉兮-标准-幼年-远景"></motion>
+  <delay t="3"></delay>
+  <event action="show_ui"></event>
+  <mono>
+    <p></p>
+    <p>Beside her were two girls with the same face. One was observing their bare robes, while another turned his eyes to one side and seemed hidden from something</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <motion chara="004" action="show" pos="-600,0" duration="3" img="苏湄-笑容-幼年-远景"></motion>
+  <delay t="3"></delay>
+  <event action="show_ui"></event>
+  <mono>
+    <p></p>
+    <p>To the left of it was a red-haired girl. She put some sugary fruit in her mouth and closed one eye to face Suyi—a beautiful smile</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <motion chara="007" action="show" pos="700,0" duration="3" img="凌霜-标准-幼年-远景"></motion>
+  <delay t="3"></delay>
+  <event action="show_ui"></event>
+  <mono pageend="true">
+    <p></p>
+    <p>I looked to the right and saw a girl standing behind everyone. She was holding her golden sword, expressionless</p>
+  </mono>
+  <dialog chara="093">「From now on, this will be your home. They'll become part of you family」</dialog>
+  <text>Master spoke in a low voice.</text>
+  <dialog chara="000">「Bad beasts have appeared in the North Wild, so we'll need to leave for a few months. Lin Zhaoyu! Please keep your empty rooms tidied up just as you will be wearing nothing but clothes...」</dialog>
+  <dialog chara="000">「I don't mind if you teach her the shape of a sword first, but do not read into it before your robes. When she gets back to me...」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-眨眼-幼年-远景"></motion>
+  <text>My first disciple and five children nod in unison. The red-haired girl turns to her bare robes again, closing one eye</text>
+  <motion chara="003" action="hide"></motion>
+  <motion chara="004" action="hide"></motion>
+  <motion chara="005" action="hide"></motion>
+  <motion chara="006" action="hide"></motion>
+  <motion chara="007" action="hide"></motion>
+  <motion chara="011" action="hide"></motion>
+  <text>After telling her a few more things, the master hurried off. The children disbanded and his first apprentice handed over an attractive young man in their arms to one of them with red hair; then he took Suyi’s hands as they talked while guiding him into our backyard</text>
+  <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="太虚山4"></bg>
+  <mono>
+    <p></p>
+    <p>Three days passed in the blink of an eye, but my first disciple didn’t return.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Perhaps because his body was weak or perhaps due to the lack of environment, Hata Sougoromo had fallen ill. At first he felt chills all over him but then came down with a fever so bad that it would burn up afterward—Lin Zhaoyu changed her clothes and took medicine; she spent an entire night taking care</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>Hata Sougoromo didn't sleep all night, either. His high fever had left him hazy and his memory was fuzzy</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>For some reason, she remembered that the red-haired girl had come to visit her with a pretty boy. She felt like they’d put something round under his pillow when he said it would exorcise evil spirits—but nothing happened after waking up</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>I felt like those twin sisters had come, too. One of them was by my first apprentice's side and changed his hand towel for me; the other grabbed her hands as she wept sadly</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>I was also curious about the expressionless girl with her golden sword, but didn’t know if she had come or not.</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <bg img="太虚山3" duration="3"></bg>
+  <delay t="3"></delay>
+  <mono>
+    <p></p>
+    <p>It was noon the next day, and strong sunlight poured down on them. The heat of Hata Sougoromo had dropped; it felt as if he'd been reborn</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <motion chara="099" action="show" pos="center" img="苏湄-认真-幼年-中景" duration="3"></motion>
+  <delay t="3"></delay>
+  <event action="show_ui"></event>
+  <mono pageend="true">
+    <p></p>
+    <p>When Sougoromo sat up and looked around, he saw not the first disciple but a red-haired girl. She walked into her room with light steps unlike that of calm First Disciple; she circled about his robes before pulling candy out from underwear</p>
+  </mono>
+  <motion chara="099" action="img_trans" img="苏湄-吃糖-幼年-中景"></motion>
+  <dialog chara="099">「Yes.」</dialog>
+  <text>I didn't take her clothes.</text>
+  <dialog chara="099">「Now, now. It's not poisoned at all!」</dialog>
+  <motion chara="099" action="img_trans" img="苏湄-笑-幼年-中景"></motion>
+  <text>The red-haired girl forcibly handed over the candy, took a step back and smiled.</text>
+  <dialog chara="099">「You've already cheered up. I get it!」</dialog>
+  <text>Qin Suyi nodded and unconsciously looked toward the door. He searched for Lin Zhaoyu</text>
+  <motion chara="099" action="img_trans" img="苏湄-遗憾-幼年-中景"></motion>
+  <dialog chara="099">「There's no point in looking for her. She went back with Little Ma, after all!」</dialog>
+  <text>The red-haired girl laughed.</text>
+  <dialog chara="099">「Master entrusted you to Miss Zhaoyu, and Ms. Asatake left the rest of your life in my hands!」</dialog>
+  <motion chara="099" action="img_trans" img="苏湄-环视-幼年-中景"></motion>
+  <text>She spoke at a speed that made it sound like she was speaking quickly.</text>
+  <dialog chara="099">「Little Ma can't leave me, but Zhaoyu neesan cannot. But what about myself?」</dialog>
+  <text>The red-haired girl thought for a moment, then smiled as if she couldn’t tell whether it was regret or satisfaction.</text>
+  <motion chara="099" action="img_trans" img="苏湄-遗憾-幼年-中景"></motion>
+  <dialog chara="099">「Looks like I don't have anyone who can leave me.」</dialog>
+  <dialog chara="099">「What about you? Is there someone like that in your life...」</dialog>
+  <dialog chara="009">「...I... don't have one.」</dialog>
+  <text>Qin Suyi answers slowly.</text>
+  <motion chara="099" action="img_trans" img="苏湄-哀伤-幼年-中景"></motion>
+  <dialog chara="099">「I heard you forgot about the past.」</dialog>
+  <motion chara="099" action="img_trans" img="苏湄-凝视-幼年-中景"></motion>
+  <text>The red-haired girl approached her bare robe and looked into his eyes as she spoke.</text>
+  <dialog chara="099">「What does it feel like to forget everything? Unfettered and free, I suppose.」</dialog>
+  <text>Suyi also turned to look at the girl.</text>
+  <dialog chara="009">
+    <p>「...I forgot...everything.</p>
+    <p>...It's so... sad.」</p>
+  </dialog>
+  <dialog chara="009">「I'm... not free. My freedom is gone!」</dialog>
+  <dialog chara="009">「...I... want to remember it.」</dialog>
+  <text>She says each word with difficulty.</text>
+  <text>The red-haired girl didn't rush, nor did she urge him on. She was just looking at her quietly and calmly</text>
+  <dialog chara="009">「...I... want to remember it.」</dialog>
+  <motion chara="099" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#ffffff"></transition>
+  <bg img="BGPureWhite00"></bg>
+  <text>Tears fell from her eyes, and everything in front of Suyi turned white.</text>
+  <bg img="BGIntel3" duration="3"></bg>
+  <mono>And then, something unexpected happened.</mono>
+  <mono>
+    <p></p>
+    <p>The red-haired girl held her shoulders. She felt as if something had fallen into their clothes</p>
+  </mono>
+  <bg img="BGIntel1" duration="3"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>This was the second time Qin Suyi had been embraced by someone. Unlike her master's warm warmth, she felt cold on his arm—as if crushing him until he became a dot of nothingness</p>
+  </mono>
+  <motion chara="099" action="show" img="苏湄-宿命-幼年-近景" pos="center"></motion>
+  <dialog chara="099">「Master never does meaningless things. So you don't have to remember it, and do not」</dialog>
+  <text>The red-haired girl whispers into my ear.</text>
+  <motion chara="099" action="img_trans" img="苏湄-哀伤-幼年-近景"></motion>
+  <dialog chara="099">「I just have to remember. What happened now, and what will happen from here on out... Take good care of your memories so that you won't forget them forever」</dialog>
+  <dialog chara="009">「...I'll remember... I won’t forget.」</dialog>
+  <motion chara="099" action="img_trans" img="苏湄-笑-幼年-近景"></motion>
+  <dialog chara="099">「That's right.」</dialog>
+  <bg img="太虚山3"></bg>
+  <text>The girl gently pulled away and wiped her tears.</text>
+  <dialog chara="099" inline="true">「From now on, let's remember our memories. Start with my name—</dialog>
+  <motion chara="099" action="img_trans" img="苏湄-认真-幼年-近景"></motion>
+  <dialog chara="004">I'm Su Mei.」</dialog>
+  <delay t="2"></delay>
+  <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <event action="callback" name="end"></event>
+</scene>
+scripts>

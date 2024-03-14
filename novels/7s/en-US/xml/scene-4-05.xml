@@ -1,0 +1,237 @@
+<scene id="05" type="block" prev="04" title="戦闘3">
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bgm id="原始武士"></bgm>
+  <bg img="BGDesert02"></bg>
+  <motion chara="002" action="show" pos="center" img="素裳-笑-普通-远景"></motion>
+  <text>Because of this, when the three of them faced the strange girl in front of them, they didn’t even look down on her.</text>
+  <motion chara="002" action="hide" delay="1"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <motion chara="015" action="show" pos="center" img="老鹰-普通-单举刀-远景"></motion>
+  <dialog chara="015">[The enemy is the enemy. There is no distinction between men and women, old or young, only you. Anyone can take your life. Treat the target as the last opponent in your life and use all means to kill them.]  </dialog>
+  <text>Eagle warned them repeatedly.</text>
+  <motion chara="015" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="BGDesert02"></bg>
+  <motion chara="002" action="show" pos="center" img="素裳-笑-普通-远景"></motion>
+  <text>Therefore, the three of them didn’t panic at all when they saw that their companion was knocked out.</text>
+  <motion chara="002" action="hide" delay="1"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <motion chara="015" action="show" pos="center" img="老鹰-普通-抱胸有刀-远景"></motion>
+  <dialog chara="015">[You must protect your companions on the battlefield, but fallen companions are not comrades in arms, but burdens. Don’t treat them as standing people. Only soldiers who know when to give them up can live longer.] </dialog>
+  <text>Eagle reminded them repeatedly.</text>
+  <motion chara="015" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="BGDesert02"></bg>
+  <motion chara="002" action="show" pos="center" img="素裳-笑-普通-远景"></motion>
+  <text>Similarly, the three of them didn’t hesitate after seeing Sushang had kicked up a sand storm into the sky.</text>
+  <motion chara="002" action="hide" delay="1"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <motion chara="015" action="show" pos="center" img="老鹰-微笑-持刀-远景"></motion>
+  <dialog chara="015">[Follow my plan, and everything will be fine.]</dialog>
+  <text>
+    <p>This was the guarantee of "Eagle". </p>
+    <p>They believe in "Eagle".</p>
+  </text>
+  <text>After all, for five years, "Eagle"’s instructions have never been wrong.</text>
+  <motion chara="015" action="hide"></motion>
+  <text>Not once.</text>
+  <bgm looptimes="0"></bgm>
+  <mono>
+    <p></p>
+    <p>The three quickly closed their eyes.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>Compared with the loss of vision, the pain and conditioned reflexes caused by sand in the eyes were more dangerous.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>The moment they closed their eyes, the three had already memorized each other's and the enemy's location.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>The steps they took next and the direction of their swords strictly followed the “Cormorant Wings Formation”. </p>
+  </mono>
+  <se id="01-26大刀向下挥"></se>
+  <motion chara="-5" action="show" pos="center" img="竖劈"></motion>
+  <motion chara="-5" action="hide" delay="0.4"></motion>
+  <bg img="竖劈1-黑底"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>The bandit in the center took the lead with a greatsword, launching a heavy strike from above.</p>
+  </mono>
+  <se id="01-27大刀横挥"></se>
+  <motion chara="-5" action="show" pos="center" img="横劈"></motion>
+  <motion chara="-5" action="hide" delay="0.2"></motion>
+  <bg img="横劈1-黑底"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>The bandit on the left took a step, slashed horizontally, and attacked the target’s lower half.</p>
+  </mono>
+  <bg img="PureBlack"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>The intention of these two swords was not to kill the enemy, but to bait the enemy.</p>
+  </mono>
+  <se id="01-26大刀向下挥"></se>
+  <se id="01-27大刀横挥"></se>
+  <bg img="叠加1-黑底"></bg>
+  <mono>
+    <p></p>
+    <p>"Eagle" carefully designed formations and swordsmanship to guide the enemy to dodge according to a pre-established route.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>If the target can dodge these two blades, then she must be in the pre-calculated position at this moment.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>At this time, it was the turn of the bandit on the right to execute a mortal blow.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>They're confident that even if they couldn’t see the enemy, they could kill the enemy with this three-man formation!</p>
+  </mono>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <mono>
+    <p></p>
+    <p>There was nothing wrong with the formation, but the Sands bandits underestimated Sushang.</p>
+  </mono>
+  <mono pageend="true">Underestimated her odd speed.</mono>
+  <se id="01-25沙子飞溅"></se>
+  <bg img="飞沙走石2"></bg>
+  <bgm id="火燃"></bgm>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>As soon as the sand specks flew up, Sushang had already sprung forward.</p>
+  </mono>
+  <cg img="CG_通用_李素裳战斗-2"></cg>
+  <mono>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>Just as the Sand bandits were convinced of Eagle's formation, she also had absolute confidence in her martial arts.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>With a clear Blade Heart, she didn’t feel that the slow sword technique of the big man was necessary to dodge.</p>
+  </mono>
+  <bg img="PureBlack"></bg>
+  <cg></cg>
+  <event action="hide_ui" duration="1.5"></event>
+  <motion chara="-5" action="show" pos="center" img="撞向胸口"></motion>
+  <motion chara="-5" action="hide" delay="1"></motion>
+  <delay t="1"></delay>
+  <se id="01-28胸口命中"></se>
+  <delay t="0.4"></delay>
+  <event action="show_ui"></event>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>When the middle swordsman raised the greatsword, the girl was already within arms reach.</p>
+  </mono>
+  <event action="hide_ui" duration="1.2"></event>
+  <motion chara="-5" action="show" pos="center" img="击打下颚"></motion>
+  <motion chara="-4" action="shake" duration="0.1" range="40" direction="vertical" delay="0.2"></motion>
+  <motion chara="-5" action="hide" delay="1"></motion>
+  <delay t="0.6"></delay>
+  <se id="01-29下颚命中"></se>
+  <delay t="0.5"></delay>
+  <event action="show_ui"></event>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>Before he even had time to react, he received a heavy blow on the lower jaw.</p>
+    <p></p>
+    <p>The impact passed through his skull directly to the brain. The violent concussion immediately made him faint.</p>
+  </mono>
+  <motion chara="-4" action="shake" duration="0.1" range="30" direction="default"></motion>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>Therefore, the swordsman failed to feel the heavy kick that hit his knee afterwards, and collapsed to the ground.</p>
+  </mono>
+  <event action="hide_ui" duration="2"></event>
+  <motion chara="-5" action="show" pos="center" img="飞燕归巢"></motion>
+  <delay t="0.2"></delay>
+  <se id="01-30女孩轻功whoosh_02"></se>
+  <delay t="0.9"></delay>
+  <event action="show_ui"></event>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>With the help of a kick, Sushang made a beautiful "Swallow’s Return", and in a flash, she landed behind the big man on the left.</p>
+  </mono>
+  <motion chara="-5" action="hide"></motion>
+  <transition mode="fade" in="0.1" stop="0.1" out="0.1" color="#000000"></transition>
+  <motion chara="-4" action="shake" duration="0.1" range="49" direction="default"></motion>
+  <bg img="PureBlack"></bg>
+  <motion chara="-5" action="show" pos="center" img="击打后颈"></motion>
+  <se id="01-31颈部命中"></se>
+  <motion chara="-4" action="shake" duration="0.1" range="50" direction="default" delay="0.2"></motion>
+  <mono inline="true">
+    <p></p>
+    <p></p>
+    <p>She hit the back of the big man with her palm,</p>
+  </mono>
+  <se id="01-32铁剑掷出"></se>
+  <motion chara="-5" action="hide"></motion>
+  <motion chara="-5" action="show" img="速度线左右1" pos="center"></motion>
+  <mono pageend="true">grabbed the sword with the other hand, and threw it at the last enemy.</mono>
+  <mono>
+    <p></p>
+    <p></p>
+    <p>In an instant, she calculated the strength and speed to the right, and put it into action correctly.</p>
+  </mono>
+  <bgm looptimes="0"></bgm>
+  <mono pageend="true">
+    <p></p>
+    <p>The "Blade Mantra" of Taixuan’s Five Essences</p>
+    <p>It was just such a profound mental method that maximizes the potential of the brain.</p>
+  </mono>
+  <motion chara="-5" action="hide"></motion>
+  <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="氛围_第一折_烈阳"></bg>
+  <se id="01-33男气声受击"></se>
+  <remark>
+    <p>ㅤ</p>
+    <p>『Swordsmanship』:</p>
+    <p>ㅤ</p>
+    <p>It was one of the parts that made up swords.</p>
+    <p>ㅤ</p>
+    <p>The core of the sword was a kensen (sword spinal cord) at its center, and on either side were two sides.</p>
+    <p>ㅤ</p>
+    <p>Sword spinal cord and sword back are combined to form a kenja.</p>
+  </remark>
+  <text>Sushang accurately hit the man's abdominal cavity with the sword, the sudden pain made him open his mouth and let out a short hiss.</text>
+  <bg img="氛围_第一折_烈阳2" duration="0.3"></bg>
+  <text>At this moment, the world was spinning, and the sense of balance disappeared instantly.</text>
+  <se id="01-34男沙地重摔"></se>
+  <transition mode="eye" in="1" stop="0.5" out="3" color="#000000"></transition>
+  <bgm id="佛心禅悟"></bgm>
+  <cg img="CG_第一折_李素裳1"></cg>
+  <text>Something hot was on his right cheek and it was too hot for him to bear.</text>
+  <text>The man opened his eyes and saw the hot sand that was almost jet black.</text>
+  <text>It turned out that something was not pressing against his cheeks, but his face was pressed tightly against the ground.</text>
+  <dialog chara="002">[...You guys are a little bit scarce.]</dialog>
+  <text>Sushang sat on his back, tapping the back of his head with her slender fingers:</text>
+  <dialog chara="002">[Why are there only four of you? Where did the others go?]</dialog>
+  <text>Her voice was clear and crisp, very nice, like an innocent girl.</text>
+  <cg img="CG_第一折_李素裳2" duration="1"></cg>
+  <dialog chara="002">[I want to hear the truth.]</dialog>
+  <event action="hide_ui" duration="4"></event>
+  <delay t="1"></delay>
+  <bgm looptimes="0"></bgm>
+  <transition mode="fade" in="3" stop="0.6" out="0" color="#000000"></transition>
+  <event action="goto" to="06"></event>
+</scene>

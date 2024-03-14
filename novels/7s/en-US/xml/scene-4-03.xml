@@ -1,0 +1,216 @@
+<scene id="03" type="block" prev="02" title="戦闘1">
+  <transition mode="fade" in="0" stop="0.5" out="2" color="#000000"></transition>
+  <bgm id="竹林伏兵"></bgm>
+  <bg img="BGDesert00"></bg>
+  <text>(One)</text>
+  <se id="01-18男性沙漠疾行_01"></se>
+  <event action="hide_ui" duration="2"></event>
+  <motion chara="099" action="show" pos="right" img="山贼3号远景" duration="3"></motion>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <text>The girl counted silently in her head.</text>
+  <text>(Two)</text>
+  <event action="hide_ui" duration="2"></event>
+  <se id="01-19男性沙漠疾行_02"></se>
+  <motion chara="095" action="show" pos="left" img="砂匪2-远-微笑" duration="3" reversex="true"></motion>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <text>
+    <p>Two brutish men approached from the left. </p>
+    <p>One of them was the man who first discovered the girl and gave the warning.</p>
+  </text>
+  <text>
+    <p>He was holding a sword in his hand and was beaming.</p>
+    <p>Just like a hunter watching its prey falling into a trap, his smile was telling death. </p>
+  </text>
+  <text>But the girl wasn’t afraid. </text>
+  <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="left" custom="thick"></transition>
+  <motion chara="099" action="hide"></motion>
+  <motion chara="095" action="hide"></motion>
+  <text>She gazed towards her right.</text>
+  <text>(Three)</text>
+  <event action="hide_ui" duration="2"></event>
+  <se id="01-19男性沙漠疾行_03"></se>
+  <motion chara="099" action="show" pos="right" duration="3" img="山贼4号中景"></motion>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <text>
+    <p>The big guy on the right side wasn't in the girl’s line of sight at all.</p>
+    <p>He ran in after hearing the warning sound.</p>
+  </text>
+  <text>(Four)</text>
+  <event action="hide_ui" duration="2"></event>
+  <motion chara="094" action="show" pos="-200,0" duration="3" img="砂匪1-近-坏笑" reversex="true"></motion>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <text>The nearest bandit was only about five steps away from Sushang.</text>
+  <text>He was a muscular man with a greatsword. Among the four, he was the eldest and the most experienced in martial arts.</text>
+  <motion chara="099" action="hide"></motion>
+  <motion chara="094" action="hide"></motion>
+  <transition mode="move" in="0.3" stop="0.5" out="0.5" color="#000000" direction="right" custom="default"></transition>
+  <bg img="BGDesert01"></bg>
+  <motion chara="002" action="show" pos="center" img="素裳-专注-持剑-远景"></motion>
+  <text>...the girl had only trained against her master, and had no actual combat experience.</text>
+  <text>If she did, she would’ve known that no matter how strong martial artists are, they should try their best to avoid a situation where there’s more than one enemy. </text>
+  <text>And fighting alone against four well trained sand bandits is no different from cutting one's own throat.</text>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-持剑-远景"></motion>
+  <text>Unfortunately, the girl didn’t know this common knowledge, and her reclusive Master would be even more clueless. </text>
+  <text>Thus she wasn’t afraid, but excited.</text>
+  <bgm looptimes="0"></bgm>
+  <motion chara="002" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bgm id="传奇诞生"></bgm>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>——The sand bandits were only five steps away from her.</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <transition mode="fade" in="0.1" stop="0.1" out="0.1" color="#FFFFFF"></transition>
+  <se id="01-20拿出轩辕剑"></se>
+  <motion chara="-4" action="shake" duration="0.2" range="20" direction="horizontal"></motion>
+  <motion chara="002" action="show" img="素裳-浅笑-背剑-远景" duration="0.6" pos="center"></motion>
+  <delay t="0.2"></delay>
+  <event action="show_ui"></event>
+  <mono inline="true">
+    <p></p>
+    <p>The girl shook her cloth bag, and drew the ancient sword 『Xuanyuan』 from behind her back.</p>
+  </mono>
+  <motion chara="002" action="hide"></motion>
+  <cg scale="2.7" origin="75%,10%" img="CG_通用_李素裳战斗-1"></cg>
+  <delay t="0.1"></delay>
+  <cg img="CG_通用_李素裳战斗-1" scale="2.7" origin="75%,10%" duration="5" pos="260,0"></cg>
+  <delay t="3"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>The feeling of having a sword in hand always made her feel at ease.</p>
+  </mono>
+  <delay t="0.1"></delay>
+  <event action="hide_ui" duration="1"></event>
+  <cg pos="260,0" scale="2.7" origin="75%,10%" img="CG_通用_李素裳战斗-2" duration="1"></cg>
+  <delay t="1"></delay>
+  <event action="show_ui"></event>
+  <mono pageend="true">
+    <p>What happened next,</p>
+    <p></p>
+    <p>was supposed to be like this:</p>
+  </mono>
+  <transition mode="move" in="0.2" stop="1" out="1" color="#000000" direction="right" custom="default"></transition>
+  <cg></cg>
+  <bg img="PureBlack"></bg>
+  <se id="01-22女孩轻功whoosh_01"></se>
+  <motion chara="-5" action="show" pos="center" img="速度线左右1"></motion>
+  <mono pageend="true">
+    <p></p>
+    <p>The girl leaped forward, her body astonishingly graceful.</p>
+  </mono>
+  <motion chara="-5" action="hide"></motion>
+  <delay t="0.1"></delay>
+  <transition mode="dissolve" in="0.1" stop="0.1" out="0.1" color="#000000"></transition>
+  <bg img="BGBlood1"></bg>
+  <se id="01-02大剑命中"></se>
+  <motion chara="-4" action="shake" duration="0.1" range="60" direction="default"></motion>
+  <delay t="0.1"></delay>
+  <mono>
+    <p></p>
+    <p>When she landed, she thrusted her sword into the brute's chest. </p>
+  </mono>
+  <mono inline="true">
+    <p></p>
+    <p></p>
+    <p>She drew out the sword and turned around —— the movement was so fast that the blood hadn't gushed out yet.</p>
+  </mono>
+  <se id="01-02大剑命中"></se>
+  <motion chara="-4" action="shake" duration="0.1" range="60" direction="vertical"></motion>
+  <delay t="0.1"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>Then she held out the sword and watched the ferocious smile forming on the man's face.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>There were only two of the four enemies left —— easy.</p>
+  </mono>
+  <transition mode="dissolve" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <motion chara="002" action="show" pos="center" img="素裳-标准-持剑-远景"></motion>
+  <transition mode="fade" in="0" stop="0.5" out="1" color="#000000"></transition>
+  <text>… The girl had conceived this script in an instant.</text>
+  <text>
+    <p>With her martial arts accomplishments and the benefits of the ancient sword, Xuanyuan——</p>
+    <p>——Turning this scenario from fantasy to reality would be too easy. </p>
+  </text>
+  <bgm looptimes="0"></bgm>
+  <motion chara="002" action="hide"></motion>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>——The Sand bandits were only four steps away.</p>
+  </mono>
+  <motion chara="002" action="show" pos="center" img="素裳-专注-持剑-远景"></motion>
+  <text>But the girl didn’t move.</text>
+  <text>… Not worth it.</text>
+  <motion chara="002" action="hide"></motion>
+  <se id="01-21轩辕剑氛围声" looptimes="-1"></se>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <text inline="true">The ancient Xuanyuan Sword wasn’t a weapon used for dealing with these foes. </text>
+  <text>
+    <p></p>
+    <p>The four people in front of her, didn’t even deserve to lay their eyes on the true face of the sword. </p>
+  </text>
+  <cg img="氛围_通用_轩辕剑"></cg>
+  <text>
+    <p>This sword had been handed down since ancient times when the human and gods crossed the heavens, and it had gone through tens of thousands of years.</p>
+  </text>
+  <text>
+    <p>Its owner was the legend of martial arts, the only true Celestial and the Guardian of Shenzhou, 『Empyrea Phoenix』.</p>
+  </text>
+  <text>Twenty-nine years ago, Empyrea Phoenix received an orphan girl as her last disciple in the East Seas, and gifted her this sword.</text>
+  <text>
+    <p>The Seventh Sword of Taixuan, 『Ebonstyle』 Qin Suyi, shook the Jianghu society.</p>
+  </text>
+  <text>
+    <p>After the real Celestial returned to the heavens, Qin Suyi disappeared, and resurfaced to the Jianghu Society three years later. The romantic love story between her and Li Shen, "Young Marquis of Sichuan", had been passed down for a while.</p>
+  </text>
+  <text>
+    <p>Ten years ago, her mother who had retired from the Jianghu Society gave『Ebonstyle』to the young Sushang, along with「the expectations of realizing the Five Essences of Taixuan and becoming 『#1 in the Martial world』.」</p>
+  </text>
+  <text inline="true">This was an unparalleled magic weapon, its blade was only for the strong.</text>
+  <text>
+    <p></p>
+    <p>How could she let the blood of the mediocre group of people in front of her contaminate the prestige of this sword?</p>
+  </text>
+  <se looptimes="0" id="01-21轩辕剑氛围声"></se>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>——The Sand bandits were only three steps away.</p>
+  </mono>
+  <bgm id="传奇诞生"></bgm>
+  <motion chara="002" action="show" pos="center" img="素裳-专注-持剑-远景"></motion>
+  <text>Small pride and contentment filled the girl’s heart.</text>
+  <motion chara="002" action="img_trans" img="素裳-算计-持剑-远景"></motion>
+  <text>Ha, These guys——</text>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>——Only two steps away.</p>
+  </mono>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-持剑-远景"></motion>
+  <text>——Aren’t even worthy of being my trial opponents!</text>
+  <motion chara="002" action="hide"></motion>
+  <event action="goto" to="04"></event>
+</scene>

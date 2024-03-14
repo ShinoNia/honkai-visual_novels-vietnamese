@@ -1,0 +1,218 @@
+<scene id="19" prev="18" title="消えた炎">
+  <bg img="BGIntel3"></bg>
+  <transition mode="fade" in="0" stop="0.5" out="2" color="#000000"></transition>
+  <event action="hide_ui" duration="2"></event>
+  <bgm id="余烬"></bgm>
+  <motion chara="008" action="show" pos="0,200" img="马非马-震惊-标准-近景"></motion>
+  <delay t="2"></delay>
+  <mono>
+    <p></p>
+    <p>Ma Feima’s smile froze.</p>
+  </mono>
+  <mono>His eyes opened slowly, and his mouth opened unconsciously.</mono>
+  <mono pageend="true">This is the exact expression of someone completely bewildered.</mono>
+  <mono>
+    <p></p>
+    <p>[em italic]Why?[/em]</p>
+    <p>He hasn’t experienced a shock like this for many years.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>[em italic]How could it be possible?[/em]</p>
+    <p>Certain feelings that had been buried for a long time surged once again.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>There was envy,</p>
+    <p>Jealousy,</p>
+    <p>Self hatred,</p>
+    <p>Ecstasy,</p>
+    <p>Regret…</p>
+    <p>…And also nostalgia.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>[em italic]How… could it be possible?[/em]</p>
+    <p>All kinds of emotions, as a flaming sword materialized in the Raksha’s hand rushed into his heart, shattering his Blade Mantra of Still Water and Dustless. </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Ma Feima couldn’t believe his eyes:</p>
+    <p>What was happening everywhere in his vision, was definitely not like one of [Redsweord]’s illusions.</p>
+  </mono>
+  <motion chara="008" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <event action="hide_ui" duration="2"></event>
+  <bg img="天火圣裁-出鞘"></bg>
+  <delay t="2"></delay>
+  <mono>
+    <p></p>
+    <p>A sword of flames.</p>
+  </mono>
+  <mono pageend="true">
+    <p>A few moments ago, there was definitely nothing in the Raksha’s hands, definitely!</p>
+    <p>If so… where did this flaming sword condensed by Ki come from?</p>
+  </mono>
+  <mono chara="008">
+    <p></p>
+    <p>[Eminence…]</p>
+  </mono>
+  <mono pageend="true">
+    <p>Ma Feima murmured,</p>
+    <p>Such martial arts, Ma Feima only knew one such technique in his life.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>Edge of Taixuan’s Fifth Essence: Eminence.</p>
+    <p>Creating a blade with one’s spirit, with Ki born from themself.</p>
+    <p>Only Master Phoenix and Fifth Senior Sister mastered such peerless sword skills.</p>
+    <p>At this moment, it appeared in the hands of the blond Raksha.</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <bg img="心湖（1）止水" duration="1"></bg>
+  <delay t="1"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p>Absolute shock shattered Ma Feima’s Blade Mantra. </p>
+    <p>Then his boiling fighting spirit reforged another Blade Mantra.</p>
+  </mono>
+  <event action="hide_ui" duration="2"></event>
+  <bg img="心湖（5）止水" duration="2"></bg>
+  <delay t="2"></delay>
+  <mono>
+    <p></p>
+    <p>Water no longer stilled, dust no longer settled. </p>
+    <p>It is called</p>
+  </mono>
+  <mono pageend="true">
+    <p>Joy</p>
+    <p>Excitement</p>
+    <p>Happiness</p>
+    <p>Satisfaction </p>
+    <p>Longing</p>
+    <p>Yearning</p>
+    <p>Pleasure…</p>
+  </mono>
+  <mono chara="001">
+    <p></p>
+    <p>[You, are you ready?]</p>
+  </mono>
+  <mono pageend="true">
+    <p>The Raksha asked.</p>
+    <p></p>
+    <p>The blond man held a scarlet sword in his hand, the sword blazing with flames. </p>
+    <p>The hand holding the sword was engulfed by flames, completely scorched to a black color.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>[You, are you ready?]</p>
+    <p>——This man, he’s like an apostle from the underworld.</p>
+    <p></p>
+    <p>Ma Feima nodded, he had forgotten how to speak.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>How long has it been? Since Master Phoenix left that sword wound on his face, just how long has it been?[\s]</p>
+    <p></p>
+    <p>He had never faced any scarier threat, and he had never been any closer to the underworld![\s]</p>
+    <p></p>
+    <p>Never again, he had faced such a desperate situation whilst on the verge of exhaustion!</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Come on, come on!</p>
+    <p>Come on, Raksha demon!</p>
+    <p>I’ll use all my strength to take this blade!</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>The Ki surrounding Ma Feima poured into every major orifice of his body, </p>
+    <p>Not caring whether his body could bear the corruption, not caring about about the physical damage, </p>
+    <p>Just waiting for this sword to come, a sword coming!</p>
+  </mono>
+  <transition mode="halo" in="1" stop="0.5" out="1" color="#ffffff"></transition>
+  <event action="hide_ui" duration="2"></event>
+  <se id="01-27大刀横挥"></se>
+  <cg img="氛围_第二折_红光"></cg>
+  <delay t="2.5"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p>The Raksha swung the sword, the light of his sword slashed the air, sizzling.[\s]</p>
+    <p></p>
+    <p>Guard Form, Switch Form… Edge of Taixuan’s strongest defensive moves passed one by one through Ma Feima’s mind. </p>
+    <p></p>
+    <p>Then, unsurprisingly, </p>
+    <p>Ma Feima knew that this sword of unstoppable might, this force of absolute destructive power, </p>
+    <p>All forms of defense are meaningless.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>It turns out, the sword is such a terrible object,</p>
+    <p>Just like a crimson reaper.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>It turns out, life is such a fragile thing, </p>
+    <p>just like a spark.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>It turns out, today’s the day of death, not too late nor too soon.</p>
+    <p>However, being defeated by Eminence’s hands, what regrets would there be?</p>
+  </mono>
+  <transition mode="fade" in="2" stop="1" out="2" color="#000000"></transition>
+  <event action="hide_ui" duration="2"></event>
+  <cg img="氛围_第二折_苏湄"></cg>
+  <delay t="2"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>————</p>
+    <p>Little Ma</p>
+    <p>————</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>Su Mei’s smile flashed before Ma Feima’s eyes.</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="氛围_第二折_余火" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono>
+    <p></p>
+    <p>And then came the fire, the burning fire.[\s]</p>
+    <p>It burned, then burned, then burned.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>——————————————And then,</p>
+  </mono>
+  <mono pageend="true">
+    <p>————————————</p>
+    <p>————</p>
+    <p>————————</p>
+  </mono>
+  <event action="hide_ui"></event>
+  <bgm looptimes="0"></bgm>
+  <cg img="氛围_第二折_残烟" duration="3"></cg>
+  <delay t="3"></delay>
+  <event action="show_ui"></event>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>The fire went out, the flame extinguished.</p>
+  </mono>
+  <transition mode="fade" in="3" stop="0.5" out="0" color="#ffffff"></transition>
+  <event action="goto" to="20"></event>
+</scene>

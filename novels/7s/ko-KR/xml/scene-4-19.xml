@@ -1,0 +1,182 @@
+<scene id="19" type="block" prev="18" title="帰還2">
+  <bg></bg>
+  <cg img="CG_第一折_夺剑_SWORD" duration="10"></cg>
+  <text>보검이 「노응」의 손을 벗어나, 하늘 높이 솟았다.</text>
+  <event action="hide_ui" duration="2"></event>
+  <motion action="show" pos="center" chara="096" img="老鹰-特写-惊讶"></motion>
+  <cg></cg>
+  <delay t="0.5"></delay>
+  <motion chara="-4" action="shake" duration="0.3" range="95" direction="default"></motion>
+  <bg img="BGBlood1"></bg>
+  <se id="01-28胸口命中"></se>
+  <delay t="1"></delay>
+  <text>「노응」은 격노하며, 소상을 손바닥으로 밀쳐 날려버리고, 검을 받기 위해 달려갔다.</text>
+  <motion chara="096" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg img="CG_第一折_夺剑_SWORD"></cg>
+  <bg img="废弃驿站"></bg>
+  <motion chara="096" action="show" img="老鹰-动作-夺剑" pos="-250,0"></motion>
+  <delay t="0.1"></delay>
+  <motion chara="096" action="move" pos="0,0" duration="30"></motion>
+  <text>그는 소녀의 비연공을 과소평가했다.</text>
+  <event action="hide_ui" duration="2.5"></event>
+  <motion chara="096" action="hide"></motion>
+  <cg></cg>
+  <motion chara="-4" action="shake" duration="0.5" range="25" direction="default"></motion>
+  <se id="01-34男沙地重摔"></se>
+  <delay t="1"></delay>
+  <motion chara="002" action="show" pos="right" img="素裳-战损无血-振作-单手-近景"></motion>
+  <delay t="0.5"></delay>
+  <se id="01-60吐血小"></se>
+  <delay t="1"></delay>
+  <text>소녀는 청석 위로 떨어지며, 피를 토했지만, 부딪힐 때의 반동을 이용해 곧 몸을 다시 일으켰다.</text>
+  <event action="hide_ui" duration="2"></event>
+  <motion chara="002" action="hide"></motion>
+  <se id="01-22女孩轻功whoosh_01"></se>
+  <motion chara="100" action="show" pos="center" img="轩辕剑-剑柄朝上"></motion>
+  <motion chara="096" action="show" pos="-250,0" img="老鹰-动作-夺剑"></motion>
+  <bg img="CG_第一折_夺剑_BG"></bg>
+  <delay t="1"></delay>
+  <motion chara="097" action="show" pos="300,0" duration="1" img="素裳-动作-夺剑"></motion>
+  <text>그리고 즉시 공중으로 다시 뛰어올랐다.</text>
+  <bgm looptimes="0"></bgm>
+  <event action="hide_ui" duration="2"></event>
+  <se id="01-30女孩轻功whoosh_02"></se>
+  <motion chara="096" action="move" pos="0,0" duration="30"></motion>
+  <motion chara="097" action="move" pos="120,0" duration="30"></motion>
+  <motion chara="100" action="move" pos="0,-50" duration="30"></motion>
+  <delay t="1"></delay>
+  <text>
+    <p>두 사람의 목표는 고대검 「헌원」.[\s]</p>
+    <p>얻는 자는 승리할 것이고, 그렇지 못한 자는 죽게 될 것이다.</p>
+  </text>
+  <mono chara="002">
+    <p></p>
+    <p>(……날 도와줄 거지?)</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>몸은 이미 본능에 맡겨진 채,</p>
+    <p>「소녀」의, 이소상의 의식이 중얼거렸다.</p>
+  </mono>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p>「너는 내 검이잖아……」</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <motion chara="100" action="move" pos="-25,100" duration="30"></motion>
+  <motion chara="096" action="move" pos="-100,0" duration="30"></motion>
+  <motion chara="097" action="move" pos="50,0" duration="30"></motion>
+  <delay t="3"></delay>
+  <mono>
+    <p></p>
+    <p>헌원이 가장 높은 곳에 이르자, 잠깐 움직임을 멈춘 듯하더니, 곧 다시 떨어져온다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>이소상은 어딘가 익숙한 느낌이 들었다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>이 모습, 어디서 봤더라?[\s]</p>
+    <p></p>
+    <p>눈앞에서 떨어지는 이 검이, 왜 이렇게 친숙한 걸까?[\s]</p>
+    <p></p>
+    <p>…………</p>
+    <p>수년 전</p>
+    <p>…………</p>
+  </mono>
+  <motion chara="096" action="hide"></motion>
+  <motion chara="097" action="hide"></motion>
+  <motion chara="100" action="hide"></motion>
+  <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg img="CG_第一折_抢剑_李ONLY" scale="2" pos="-200,200"></cg>
+  <delay t="1"></delay>
+  <cg img="CG_第一折_抢剑_李ONLY" scale="3" pos="-50,200" duration="20"></cg>
+  <delay t="1"></delay>
+  <text>
+    <p>손가락이 칼자루에 점점 가까워진다.</p>
+    <p>검의 쇳소리가, 소녀의 머릿속에 울리는 듯하다.</p>
+    <p>그 순간, 이소상은 자신이 「검의(劍意)」를 깨달았다고 확신했다.</p>
+  </text>
+  <transition mode="dissolve" in="0.5" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <bg img="PureBlack"></bg>
+  <se id="01-21轩辕剑氛围声"></se>
+  <text>우우우우웅——————</text>
+  <se id="01-21轩辕剑氛围声" looptimes="0"></se>
+  <event action="hide_ui" duration="7"></event>
+  <cg img="CG_第一折_抢剑_鹰WIN" scale="3" pos="100,150"></cg>
+  <se id="01-57接住剑柄"></se>
+  <delay t="1"></delay>
+  <cg></cg>
+  <bg img="PureBlack"></bg>
+  <delay t="2"></delay>
+  <motion chara="096" action="show" img="老鹰-特写-狞笑" pos="center"></motion>
+  <motion chara="097" action="show" img="李素裳-特写-惊讶" pos="center"></motion>
+  <delay t="2"></delay>
+  <cg img="CG_第一折_抢剑_鹰挥刀" duration="2" scale="2" origin="20%,0"></cg>
+  <motion chara="096" action="hide"></motion>
+  <motion chara="097" action="hide"></motion>
+  <delay t="2"></delay>
+  <text>하지만, 칼자루를 쥔 건 그녀가 아니었다.</text>
+  <event action="hide_ui" duration="0.8"></event>
+  <motion chara="096" action="show" pos="0,-1080" img="老鹰-特写-狞笑（带血）"></motion>
+  <delay t="0.1"></delay>
+  <motion chara="096" action="move" pos="center" duration="0.3"></motion>
+  <delay t="0.3"></delay>
+  <dialog chara="015">「이겼다!」</dialog>
+  <text>귓가로 죽음을 선고하는 말이 들려온다.</text>
+  <dialog chara="015">「죽어라, 애송이——」</dialog>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="097" action="show" pos="center" img="李素裳-特写-濒死" duration="1"></motion>
+  <delay t="1"></delay>
+  <dialog chara="002">「…………」</dialog>
+  <event action="hide_ui" duration="2"></event>
+  <cg duration="2"></cg>
+  <delay t="2"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p>지금 느끼는 절망과 실망은 이전 그 어느 때보다도 더욱 컸다.[\s]</p>
+    <p></p>
+    <p>소녀는 죽음을 두려워하지 않았다.[\s]</p>
+    <p></p>
+    <p>하지만 희망을 얻은듯 싶더니 다시 잃고, 정상에 도달한 듯 하더니 다시 추락하는 괴로움이,</p>
+    <p>몸에 스며드는 거대한 회한과 함께,</p>
+    <p>비명과 떨림을 참을 수 없게 하였다.</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="097" action="img_trans" img="李素裳-特写-坚定" duration="1"></motion>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>「——아냐!」</p>
+  </mono>
+  <transition mode="fade" in="0.5" stop="0.2" out="0.5" color="#FFFFFF"></transition>
+  <bgm id="传奇诞生"></bgm>
+  <bg img="BGPureWhite00" duration="0"></bg>
+  <motion chara="096" action="hide" duration="0"></motion>
+  <motion chara="097" action="hide" duration="0"></motion>
+  <cg img="CG_第一折_抢剑_鹰挥刀" scale="4" origin="99%,10%"></cg>
+  <text>
+    <p>다음 순간, 곧 몸이 반으로 갈라질 처지가 되었지만,</p>
+    <p>본능은 여전히 패배를 인정하지 않았다.</p>
+  </text>
+  <event action="hide_ui" duration="1"></event>
+  <cg duration="0.5" origin="99%,10%" img="CG_第一折_抢剑_鹰挥刀"></cg>
+  <delay t="0.5"></delay>
+  <text>
+    <p>극도로 아득해진 의식이 소상으로 하여금 수도를 꺼내도록 이끈다.</p>
+    <p>소상은 동귀어진의 각오로 적을 공격했다.</p>
+  </text>
+  <cg duration="5"></cg>
+  <text>
+    <p>이 순간, 「죽음」을 받아들인 소녀가,</p>
+    <p>뒤늦게 손에 넣은 건……</p>
+  </text>
+  <text>바로 「각오」였다.</text>
+  <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="20"></event>
+</scene>

@@ -1,0 +1,155 @@
+<scene id="22" prev="21" title="刃不破">
+  <transition mode="fade" stop="0.5" out="3" color="#000000"></transition>
+  <bgm id="秋恋古道（慢抒情）"></bgm>
+  <bg img="BGSky00"></bg>
+  <text>The sun has set, the last vestiges of its light setting westward.</text>
+  <bg img="BGSky02" duration="8"></bg>
+  <text>Ma Feima looked at the sky.</text>
+  <dialog chara="008">[...]</dialog>
+  <mono>
+    <p></p>
+    <p>There were only clouds and the afterglow in the sky. There was nothing special about the clouds or the afterglow, </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>but Ma Feima watched them intently nonetheless.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>It didn’t matter what he was looking at, but that he was waiting.</p>
+    <p></p>
+    <p>He didn’t like to wait, but he was very good at it.</p>
+    <p></p>
+    <p>He’d been a faithful companion to waiting for these past 10 years.</p>
+  </mono>
+  <event action="hide_ui"></event>
+  <bg img="BGDesertWU" duration="3"></bg>
+  <se id="01-71开门声"></se>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <text>Creak—</text>
+  <text>A quiet squeaky noise sounded behind him.</text>
+  <motion chara="007" action="show" pos="right" img="凌霜-标准-标准-远景" duration="2"></motion>
+  <delay t="1"></delay>
+  <text>Ma Feima turned around to see a girl leaning by the door, scowling at him:</text>
+  <motion chara="007" action="img_trans" img="凌霜-嫌弃-标准-远景"></motion>
+  <dialog chara="007">[Old Sixth. You’ve aged so much.]</dialog>
+  <motion chara="008" action="show" pos="left" img="马非马-笑-标准-远景"></motion>
+  <dialog chara="008">[Heh, I can always count on Senior Sister’s brutal honesty. It’s been twenty years, that’s bound to happen.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-微笑-标准-远景"></motion>
+  <text>Ma Feima couldn’t help but laugh. All these years, and his Fifth Senior Sister was still just as she was then. How was that not something to be happy about?</text>
+  <dialog chara="007">[Looks like age hasn’t matured you one bit.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
+  <text>Lingshuang glanced inside the room and said coldly:</text>
+  <dialog chara="007">
+    <p>[You’ve always been a pretty good kid, and now you pick up fights whenever you want. </p>
+    <p>Who gave you the right to hurt my disciple?]</p>
+  </dialog>
+  <motion chara="008" action="img_trans" img="马非马-微惊-标准-远景"></motion>
+  <text>
+    <p>Ma Feima stood there for a second. Even if he knew that his Fifth Senior Sister had taken in a disciple, he never actually associated the bonds of a master and a disciple with her. </p>
+    <p>To him, she’d always been cold and emotionless.</p>
+  </text>
+  <motion chara="008" action="img_trans" img="马非马-沉思-标准-远景"></motion>
+  <dialog chara="008">[Who’s… That little girl?]</dialog>
+  <dialog chara="007">[She’s Seventh Sister’s daughter.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-微惊-标准-远景"></motion>
+  <dialog chara="008" inline="true">[No wonder she looked familiar, she’s Suyi’s — </dialog>
+  <motion chara="008" action="img_trans" img="马非马-标准-标准-远景"></motion>
+  <dialog chara="008">What’s her name again?]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-厌烦-标准-远景"></motion>
+  <dialog chara="007">[Sushang.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-苦笑-标准-远景"></motion>
+  <dialog chara="008">[Oh, kind of sounds like her mom’s name.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-标准-标准-远景"></motion>
+  <dialog chara="007">[...]</dialog>
+  <text>[...]</text>
+  <motion chara="008" action="img_trans" img="马非马-微笑-标准-远景"></motion>
+  <dialog chara="008">The woman showed no reaction to his statement.</dialog>
+  <text>[Fine… Let’s cut the pleasantries.]</text>
+  <motion chara="008" action="img_trans" img="马非马-闭目-收剑"></motion>
+  <text>Ma Feima said, smiling.</text>
+  <motion chara="008" action="img_trans" img="马非马-沉思-握剑"></motion>
+  <se id="01-20拿出轩辕剑"></se>
+  <text>He raised his hand, and a gigantic object appeared.</text>
+  <motion chara="007" action="img_trans" img="凌霜-注视-标准-远景"></motion>
+  <text>It was a crimson greatsword about five feet in length. It looked kind of like Sushang’s Xuanyuan.</text>
+  <text>The fifth disciple of Taixuan stared coldly at her sixth brother’s greatsword, a complicated look sparkling in her eyes.</text>
+  <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
+  <dialog chara="007">But all she said in the end was:</dialog>
+  <motion chara="008" action="img_trans" img="马非马-豪迈笑-握剑"></motion>
+  <dialog chara="008">
+    <p>[What? Are you trying to show off?]</p>
+    <p>[Hahaha! No! I could never boast in front of my Fifth Senior Sister! I’d have no chance of winning even if you don’t have your Xuanyuan Sword.]</p>
+  </dialog>
+  <text>Ma Feima laughed heartily, but then adopted a more serious look, bowing down to the woman:</text>
+  <motion chara="008" action="img_trans" img="马非马-沉思-握剑"></motion>
+  <dialog chara="008">[It’s been twenty years, and I wanted to ask you for a duel to see if I’ve grown at all.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-免了-标准-远景"></motion>
+  <dialog chara="007">[You truly have gotten old. You weren’t like this before.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-苦笑-握剑"></motion>
+  <dialog chara="008">[...Yes, people change.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-拒绝-标准-远景"></motion>
+  <dialog chara="007">[For the worse, it would seem.]</dialog>
+  <motion chara="008" action="hide"></motion>
+  <motion chara="007" action="hide"></motion>
+  <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
+  <bg img="凌霜小屋室外"></bg>
+  <text>Lingshuang entered the courtyard and shook her robe.</text>
+  <motion chara="007" action="show" pos="center" img="凌霜-标准-标准-远景"></motion>
+  <dialog chara="007">[I’ll comply, you can strike me now.]</dialog>
+  <motion chara="007" action="move" pos="left"></motion>
+  <motion chara="008" action="show" img="马非马-微惊-握剑" pos="right"></motion>
+  <dialog chara="008">[Are you not going to use a weapon, Senior Sister?]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-免了-标准-远景"></motion>
+  <dialog chara="007">[No need.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-苦笑-握剑"></motion>
+  <dialog chara="008">「I'll believe you.」</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
+  <text>Ma Feima shook his giant greatsword in the air.</text>
+  <motion chara="008" action="img_trans" img="马非马-豪迈笑-握剑"></motion>
+  <dialog chara="008">[But this is a Xuanyuan Sword. The wounds they’d inflict are no joke, are you sure?]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-嫌弃-标准-远景"></motion>
+  <dialog chara="007">[Shut up, you think I don’t know that? It’s not like I have a [Xuanyuan] anyway, so does it matter what I use?]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-闭眼-握剑"></motion>
+  <text>
+    <p>Ma Feima titled his head. This wasn’t the answer he was expecting. </p>
+    <p>The duel was one thing, but he also wanted to know where that little girl’s Xuanyuan Sword came from.</p>
+  </text>
+  <motion chara="008" action="img_trans" img="马非马-沉思-握剑"></motion>
+  <dialog chara="008">[Is little Sushang’s Xuanyuan Sword not yours?]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-厌烦-标准-远景"></motion>
+  <dialog chara="007">「Isn't the original sword from Lingshuang Nee-san?」</dialog>
+  <text>Lingshuang looked around and spotted an empty sheath. She picked it up.</text>
+  <se id="01-57接住剑柄"></se>
+  <motion chara="007" action="img_trans" img="凌霜-对吧-标准-远景"></motion>
+  <dialog chara="007">[Fine fine, whatever you say. Now I have a weapon too.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-微惊-握剑"></motion>
+  <text>Ma Feima stood there slightly stunned.</text>
+  <dialog chara="008">[You’re going to use that scrap piece of wood against my 【Redsweord】?]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
+  <dialog chara="007">[Again with the 【Redsweord】...]</dialog>
+  <text>She scoffed.</text>
+  <motion chara="007" action="img_trans" img="凌霜-小恶魔-标准-远景"></motion>
+  <dialog chara="007">
+    <p>[Don’t underestimate this piece of wood, it has a name too. It’s called 【Sternsheath】. </p>
+    <p>How’s that? Is it worthy enough to face your 【Redsweord】?]</p>
+  </dialog>
+  <dialog chara="008">[...]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-豪迈笑-握剑"></motion>
+  <bgm looptimes="0"></bgm>
+  <dialog chara="008">[... Hahahahaha!]</dialog>
+  <text>Ma Feima couldn’t hold in his laughter. He was extremely overjoyed right now.</text>
+  <mono>
+    <p></p>
+    <p>There were few worthy of being his opponent in these past twenty years, so he hadn’t had a chance to unsheathe【Redsweord】before.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>He’d been teetering at the edge of death many times before, but this battle, one that didn’t necessarily risk his life, was the true battle of skill that he wished for.</p>
+  </mono>
+  <motion chara="008" action="img_trans" img="马非马-邪恶-握剑"></motion>
+  <dialog chara="008">[Let’s see if【Sternsheath】can break my strike!]</dialog>
+  <delay t="1"></delay>
+  <event action="goto" to="23"></event>
+</scene>

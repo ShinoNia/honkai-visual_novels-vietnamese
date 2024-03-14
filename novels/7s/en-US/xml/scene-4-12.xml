@@ -1,0 +1,189 @@
+<scene id="12" prev="11" title="悪い羅刹人">
+  <transition mode="fade" in="0" stop="0.5" out="0.5" color="#000000"></transition>
+  <bg img="牢房-暗"></bg>
+  <se id="01-34男沙地重摔"></se>
+  <delay t="0.5"></delay>
+  <motion chara="-4" action="shake" duration="0.5" range="40" direction="default"></motion>
+  <text>Thump. </text>
+  <text>Li Sushang fell and rolled across the ground.</text>
+  <dialog chara="002">[Ngh—]</dialog>
+  <text>Although she wasn’t hurt, Li Sushang still cried out by instinct. The soft voice of a young girl changed its tune as it passed through the dirty rag in her mouth, becoming a quiet wail.</text>
+  <text>A couple of bandits laughed outside, their words vile and full of obscenities.</text>
+  <bg img="PureBlack" duration="4"></bg>
+  <text>
+    <p>Click. [\s]</p>
+    <p>The door was locked.</p>
+  </text>
+  <text>The flickering light of the torch disappeared with the footsteps, leaving the little girl in the Dark Dungeon.</text>
+  <text>
+    <p>Sushang wriggled her body, attempting to sit upright; [\s]</p>
+    <p>her eyes hadn’t yet adjusted to the darkness, so she couldn’t see anything, but her legs seemed to have brushed against something while she was squirming around.</p>
+  </text>
+  <event action="hide_ui" duration="1"></event>
+  <delay t="1"></delay>
+  <se id="01-50奥托叹气"></se>
+  <text>Someone sighed.</text>
+  <event action="hide_ui" duration="3"></event>
+  <bg img="牢房-暗" duration="3"></bg>
+  <delay t="2.5"></delay>
+  <text>With their voice, a small flame abruptly rose from inside the shabby room, barely enough to give light to the dark cell.</text>
+  <bgm id="神秘东方"></bgm>
+  <bg img="牢房-亮" duration="4"></bg>
+  <delay t="4"></delay>
+  <motion chara="002" action="show" pos="center" img="素裳-惊讶-背手-中景" duration="1"></motion>
+  <text>
+    <p>Li Sushang was startled, [\s]</p>
+    <p>not by the sudden light, but by the person who was speaking.</p>
+  </text>
+  <motion chara="002" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="0.2" color="#000000"></transition>
+  <se id="01-37棺材氛围声loop" looptimes="-1"></se>
+  <event action="hide_ui" duration="8"></event>
+  <cg img="CG_第一折_奥托地牢_看杯" duration="0" scale="3" origin="25%,75%"></cg>
+  <delay t="2"></delay>
+  <transition mode="fade" in="0.2" stop="0.1" out="0.2" color="#000000"></transition>
+  <cg duration="0" scale="3" img="CG_第一折_奥托地牢_看杯" origin="25%,25%"></cg>
+  <delay t="2"></delay>
+  <transition mode="fade" in="0.2" stop="0.1" out="0.2" color="#000000"></transition>
+  <cg img="CG_第一折_奥托地牢_看杯" duration="0" scale="3" origin="75%,75%"></cg>
+  <delay t="2"></delay>
+  <transition mode="fade" in="0.2" stop="0.1" out="0.2" color="#000000"></transition>
+  <cg img="CG_第一折_奥托地牢_看杯" duration="0" scale="3" origin="75%,25%"></cg>
+  <delay t="2"></delay>
+  <transition mode="fade" in="0.2" stop="0.1" out="0.2" color="#000000"></transition>
+  <cg img="CG_第一折_奥托地牢_看杯"></cg>
+  <text>It was a woman, about 20 years old. Her skin was snowy white, elegant features adorning her figure. She didn’t look like someone from Shenzhou at all, but rather the legendary celestials.</text>
+  <text>The small flame hovered next to her ear, giving off an even more ominous vibe.</text>
+  <text>
+    <p>[em italic]A Raksha…[/em][\s]</p>
+    <p>Li Sushang remembered the whispers of the bandits.[\s]</p>
+    <p>[em italic]So this is what a Raksha looks like.[/em]</p>
+  </text>
+  <event action="hide_ui" duration="2"></event>
+  <cg img="CG_第一折_奥托地牢_看杯" duration="8" scale="2.8" origin="5%,3%"></cg>
+  <delay t="2"></delay>
+  <text>
+    <p>She looked to the woman’s side and saw a large coffin. </p>
+    <p>That was the large hunk of wood that Sushang had almost kicked.</p>
+  </text>
+  <text>Coffins were not an uncommon sight, nor were they a taboo subject. Regardless, even someone who’s heard many frightening stories like Sushang couldn’t help but feel chills crawling down her spine. It was a terrifying object to come upon in this moment, while she was trapped in a dark dungeon.</text>
+  <text>
+    <p>She moved her gaze by instinct, focusing on the Raksha woman again.</p>
+    <p>At first, she only stole a few glances, but after seeing no reaction from her, she began to look her up and down.</p>
+  </text>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第一折_奥托地牢_看杯"></cg>
+  <delay t="1"></delay>
+  <text>The Raksha ignored her rude gaze and simply shook the glass container in his hand.</text>
+  <cg img="CG_第一折_奥托地牢_看人"></cg>
+  <dialog chara="002">[Mmmmmph?]</dialog>
+  <text>
+    <p>She forgot that she was still gagged, so her words became a pile of gibberish. [\s]</p>
+    <p>Li Sushang’s looked embarrassed, but luckily, the dim atmosphere was doing her many favors right now.</p>
+  </text>
+  <text>She gestured at the woman, trying to get her to remove the rag in her mouth.</text>
+  <cg img="CG_第一折_奥托地牢_看杯"></cg>
+  <text>
+    <p>Li Sushang blinked several times, but she ignored all of her attempts, choosing instead to continue lounging around.</p>
+    <p>She tried exchanging a few glances with her, but she ignored all of them. She didn't react in the slightest</p>
+  </text>
+  <dialog chara="002">（This guy —)</dialog>
+  <text>A thought suddenly entered her mind, and she raised her feet, preparing to kick the coffin.</text>
+  <se id="01-47火熄灭"></se>
+  <transition mode="eye" in="0.2" stop="0.5" out="0.1" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <cg></cg>
+  <text>However, the flame suddenly went out for a moment as she raised her feet. Then, her mouth was freed.</text>
+  <transition mode="fade" in="1" stop="1" out="1" color="#000000"></transition>
+  <se id="01-48火燃烧"></se>
+  <delay t="1"></delay>
+  <cg img="CG_第一折_奥托地牢_看人" duration="3"></cg>
+  <delay t="1"></delay>
+  <text>
+    <p>As the fire appeared once more, Li Sushang looked at the Raksha sitting next to the wall. [\s]</p>
+    <p>She was still in her original position, but this time, her eyes had a sliver of annoyance.</p>
+  </text>
+  <cg duration="1" img="CG_第一折_奥托地牢_看杯"></cg>
+  <delay t="1"></delay>
+  <dialog chara="001" inline="true">[What do you want?]</dialog>
+  <dialog chara="002">
+    <p></p>
+    <p>[You’re a man?]</p>
+  </dialog>
+  <text>The two spoke at the same time, and then paused at the same time.</text>
+  <text>
+    <p>The Raksha stopped talking, silently affirming her statement. </p>
+    <p>On the other hand, Li Sushang couldn’t stop talking:</p>
+  </text>
+  <dialog chara="002">
+    <p>[Me? I wasn’t trying to do anything. I just wanted you to take the rag out of my mouth. </p>
+    <p>Thanks. You’re a good person. You’re just… A little girly.]</p>
+  </dialog>
+  <dialog chara="002">
+    <p>[I owe you one now, so I’ll definitely repay you in the future. </p>
+    <p>As soon as I focus and get these cuffs off, I’ll help you — Where are your cuffs?!]</p>
+  </dialog>
+  <text>
+    <p>Unlike Li Sushang, who was cuffed and gagged, </p>
+    <p>the Raksha had nothing of the sort on him.</p>
+  </text>
+  <text>Even worse, he was sitting on a fancy chair and sipping a red liquid out from a small glass cup. He looked as elegant as one could be in this moment.</text>
+  <dialog chara="002">[Aren’t… Aren’t you a prisoner?]</dialog>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="牢房-亮"></bg>
+  <cg></cg>
+  <motion chara="001" action="show" pos="left" duration="2" img="奥托-严肃-标准-中景（棺材）"></motion>
+  <se id="01-05痊愈"></se>
+  <se id="01-37棺材氛围声loop" looptimes="0"></se>
+  <text>Without a word, the Raksha stood up, the chair and the glass disappearing like melting snow in the fire light.</text>
+  <motion chara="002" action="show" pos="right" img="素裳-吓脸黑-背手-中景"></motion>
+  <dialog chara="002" inline="true">[Huhhhhhhhhh… </dialog>
+  <motion chara="002" action="img_trans" img="素裳-吓-背手-中景"></motion>
+  <dialog chara="002">Sorcery! This is sorcery! You’re a demon!]</dialog>
+  <text>Li Sushang looked pale.</text>
+  <text>
+    <p>She wasn’t afraid of a lot of things, but she respected the mystical and divine. [\s]</p>
+    <p>The little trick that the Raksha just pulled scared her to death, so much so that she dropped all pretenses as a vigilante heroine.</p>
+  </text>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="001" action="hide"></motion>
+  <motion chara="002" action="hide"></motion>
+  <text>Her scream was long and shrill, echoing in the cell, but nobody said a thing, nor did they bother to come and see what was going on. [\s]The Raksha waited for her to stop and look at his shadow casted by the flame and then spoke:</text>
+  <motion chara="001" action="show" pos="left" duration="1" img="奥托-标准-标准-中景（棺材）"></motion>
+  <motion chara="002" action="show" pos="right" duration="1" img="素裳-吓脸黑-背手-中景"></motion>
+  <dialog chara="001">[No.]</dialog>
+  <text>Li Sushang thought about it before realizing that he was answering his question. </text>
+  <motion chara="002" action="img_trans" img="素裳-欸真的吗-背手-中景"></motion>
+  <dialog chara="002" inline="true">[No what? You’re not a demon? Oh wait, you said you’re not a prisoner. Hmm? Then why did they lock you up down here? </dialog>
+  <motion chara="002" action="img_trans" img="素裳-嘟嘴-背手-中景"></motion>
+  <dialog chara="002">
+    <p></p>
+    <p>No wait, you’re lying to me —]</p>
+  </dialog>
+  <dialog chara="001">[...]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目前-背手-中景"></motion>
+  <text>The Raksha didn’t say a thing. It was hard to tell if he’d even understood what she said. </text>
+  <text>Li Sushang stole a glance at the man, taking her time to marvel at his handsomeness. She didn’t think he looked like a bad person, and as her thoughts got carried away, she began coming up with legendary backstories for this Raksha.</text>
+  <motion chara="002" action="img_trans" img="素裳-惊讶2-背手-中景"></motion>
+  <dialog chara="002">
+    <p>[Were you also captured by the Golden Sand Gang? </p>
+    <p>No, those people are rotten to the core, how would they forget to cuff a prisoner?]</p>
+  </dialog>
+  <dialog chara="002">
+    <p>[Are you one of “Eagle’s” guests? Is that why they’re so nice to you…. </p>
+    <p>No, otherwise I wouldn’t be tossed in here with you.]</p>
+  </dialog>
+  <dialog chara="001">[...]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-小恶魔-背手-中景"></motion>
+  <dialog chara="002">[...]</dialog>
+  <dialog chara="002">[Wait a minute… Are you like me then? Right? I guessed correctly, right?]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-笑-背手-中景"></motion>
+  <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景（棺材）"></motion>
+  <text>The Raksha shrugged, the corners of his mouth bearing a slight smile:</text>
+  <dialog chara="001">[How would I know what you’re thinking? I’m not you.]</dialog>
+  <motion chara="002" action="img_trans" img="素裳-大笑-背手-中景"></motion>
+  <bgm id="原始武士"></bgm>
+  <dialog chara="002">[Hmm… I’ll tell you then]</dialog>
+  <event action="goto" to="13"></event>
+</scene>

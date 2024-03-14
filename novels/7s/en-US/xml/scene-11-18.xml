@@ -1,0 +1,220 @@
+<scene id="18" prev="17" title="炎と氷">
+  <cg img="氛围_第二折_山崩"></cg>
+  <bg img="PureBlack"></bg>
+  <bgm id="太鼓乱舞（战斗）"></bgm>
+  <text>
+    <p>She unleashed her technique![\s]</p>
+    <p>The giant sword 「Redsweord」 created a tornado of sand with such force that it seemed to collapse even the mountain.</p>
+  </text>
+  <cg img="氛围_第二折_瞬尘"></cg>
+  <text>
+    <p>She unleashed her technique![\s]</p>
+    <p>The balustrade stretches straight out. It's 「Shunjin」!</p>
+    <p>It's not a defensive sword or kaken, but an open blade!</p>
+  </text>
+  <cg img="氛围_第二折_瞬尘对山崩"></cg>
+  <text>
+    <p>Open sword versus open blade—[\s]</p>
+    <p>Her qi shot out of her sword, and she headed straight for the opponent without hesitation!</p>
+  </text>
+  <text>
+    <p>She had risked her life to launch a desperate attack. Sushang seemed prepared for the clash—[\s]</p>
+    <p>But in reality, that wasn't the case.</p>
+  </text>
+  <cg></cg>
+  <text>The idea of slamming an open sword into the opening was something I’d come up with when 「Shinkaze」 injured me.</text>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="奥托的眼睛2"></bg>
+  <text>In the mysterious spiral of yellow and blue, Li Sushang made eye contact with a Raksha for just an instant</text>
+  <dialog chara="001">「......」</dialog>
+  <text>
+    <p>Her green eyes were vacant, but she was looking in her direction.</p>
+    <p>In that moment... Li Sushang completely believed in him.</p>
+  </text>
+  <text>[em italic]I'm sure the Raksha will lend us a hand![/em]</text>
+  <text>
+    <p>And if the Raksha lends a hand—</p>
+    <p>I'll never lose!</p>
+  </text>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="BGDesert01"></bg>
+  <motion chara="001" action="show" pos="center" img="奥托-严肃-单空手-远景（棺材）"></motion>
+  <text>
+    <p>It was a rough outline I’d made based on such thoughts, but the time had come to decide who would win or lose.</p>
+    <p>The Raksha raised his left hand behind the two of them, who were throwing all their strength into a sword.</p>
+  </text>
+  <motion chara="001" action="hide"></motion>
+  <event action="hide_ui"></event>
+  <cg img="氛围_通用_犹大誓约"></cg>
+  <se id="01-01白光转场"></se>
+  <delay t="0.1"></delay>
+  <cg img="氛围_通用_犹大誓约" duration="1" scale="1.5"></cg>
+  <cg img="氛围_通用_犹大誓约启动" duration="1" reset="true"></cg>
+  <delay t="1"></delay>
+  <cg duration="1"></cg>
+  <event action="show_ui"></event>
+  <cg img="氛围_通用_犹大"></cg>
+  <motion chara="-4" action="shake" duration="0.1" range="200" direction="horizontal"></motion>
+  <text>
+    <p>The golden cross appeared in his hand out of nowhere and vanished as if on fire—[\s]</p>
+    <p>It was 「Oath of Judah」, one of the three greatest Divine Key Treasures in Shicksal!!!</p>
+  </text>
+  <text>
+    <p>The catalyst that was the legacy of an ancient god reappeared!</p>
+    <p>An invisible chain flew toward the Ma Feima's form, binding him!</p>
+  </text>
+  <text>
+    <p>Target... fixed!</p>
+    <p>Seriously... Prohibition!</p>
+  </text>
+  <cg img="CG_第二折_开剑山崩2" duration="1"></cg>
+  <delay t="0.1"></delay>
+  <cg img="CG_第二折_开剑山崩2" duration="1" scale="2"></cg>
+  <delay t="0.5"></delay>
+  <cg img="CG_第二折_开剑山崩2" reset="true"></cg>
+  <se id="01-09心跳loop"></se>
+  <text>
+    <p>The scene of Li Sushang and "Eagle"'s fight to the death, which happened about three nights ago.[\s]</p>
+    <p>Suddenly, Ma Feima's heart palpitated. His true spirit had vanished from his body...</p>
+  </text>
+  <dialog chara="008">
+    <p>[em italic]（What—?[/em][\s]</p>
+    <p>[em italic]What happened----?）[/em]</p>
+  </dialog>
+  <text>In the span of a moment, Ma Feima’s thoughts raced through his mind and he found out what had caused it.</text>
+  <dialog chara="008">[em italic]（The Raksha Demon!!!）[/em]</dialog>
+  <text>The anticipation and joy that had been suppressed suddenly exploded.</text>
+  <dialog chara="008">[em italic]（You've finally laid a hand on me!?）[/em]</dialog>
+  <dialog chara="008">「Very well!!」</dialog>
+  <text>Ma Feima shouted in a loud voice.</text>
+  <dialog chara="008">「That's what I have to do. Come at me!」</dialog>
+  <cg img="氛围_第二折_山崩" scale="1.5" origin="25%,50%"></cg>
+  <text>
+    <p>He loosened his grip and let go of the sword![\s]</p>
+    <p>—But the force of that mountain collapse had reached its peak, and there was no stopping it now.</p>
+  </text>
+  <text>
+    <p>It doesn't matter if I have my true feelings sealed away![\s]</p>
+    <p>The greatsword 「Redsweord」 flies forward with all its might!</p>
+  </text>
+  <cg img="CG_第二折_开剑山崩3" scale="2" origin="50%,40%"></cg>
+  <motion chara="-4" action="shake" duration="0.1" range="200" direction="vertical" delay="0.5"></motion>
+  <delay t="0.1"></delay>
+  <cg img="CG_第二折_开剑山崩3" duration="1" scale="1" origin="50%,40%"></cg>
+  <delay t="0.5"></delay>
+  <cg img="CG_第二折_开剑山崩3" reset="true"></cg>
+  <text inline="true">At the same time, Ma Feima brought his left hand forward. It was also an open sword: a mountain cave-in―</text>
+  <text>
+    <p></p>
+    <p>Even if he loses his Uchiko, this is still the sixth disciple of Taikyou Kenpai: Lord Mahiko—a veteran!</p>
+  </text>
+  <text>He slammed a heavy blow from his well-developed muscles into the blade of an eavesdrop, pushing it upwards.</text>
+  <text>
+    <p>Shah----[\s]</p>
+    <p>And then...[\s]</p>
+    <p>Boom—</p>
+  </text>
+  <transition mode="fade" in="0.3" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <bg img="BGBlood1"></bg>
+  <text>
+    <p>The kenjo grazed the top of Ma Feima’s head, slicing a few striations through his hair.[\s]</p>
+    <p>The crimson shadow flew right next to Sushang. Her young body was sucked in by a large force and dragged backward, falling onto the ground</p>
+  </text>
+  <text>Her left shoulder was close to the crimson shadow. Because of that, she had been caught up in a sand flow and suffered deep enough wounds for her bones could be seen[\s]A new pain and an old one assaulted the girl all at once, knocking her unconscious.</text>
+  <cg img="CG_第二折_开剑山崩3"></cg>
+  <text>
+    <p>Ma Feima won. The only technique he used was definitely 「Yamakuzure」</p>
+    <p>However, Ma Feima was also defeated because he hadn’t used 「Yamakuzure」 just once.</p>
+  </text>
+  <cg img="氛围_第二折_瞬尘"></cg>
+  <text>
+    <p>Li Sushang’s 「Shunjin」 was the fastest and most accurate way to open a sword</p>
+    <p>If she hadn't used 「Shunjin」, Sushang would never have posed a threat to Ma Feima in front of that mountain collapse.</p>
+  </text>
+  <text>However, 「Shunjin」 wasn’t「Shinkaze」. That was why Ma Feima had been able to deflect the tip with pure muscle strength</text>
+  <bgm looptimes="0"></bgm>
+  <cg></cg>
+  <bg img="BGDesert02"></bg>
+  <text>
+    <p>Was that due to luck? No, it wasn't.[\s]</p>
+    <p>His ability to see techniques and analyze them was superior.[\s]</p>
+    <p>In short, there was a huge gap in ability.</p>
+  </text>
+  <motion action="show" pos="left" chara="008" img="马非马-沉思-标准-远景"></motion>
+  <text>
+    <p>This time too, it was a duel between life and death.[\s]</p>
+    <p>Ma Feima slowly turned around.[\s]</p>
+    <p>My opponent is worth putting all his strength into it.</p>
+  </text>
+  <bgm id="原始武士"></bgm>
+  <motion chara="008" action="img_trans" img="马非马-疯狂-标准-远景"></motion>
+  <event action="hide_ui"></event>
+  <motion chara="001" action="show" pos="right" img="奥托-汗严-标准-远景" duration="1"></motion>
+  <delay t="1"></delay>
+  <event action="show_ui"></event>
+  <text>The Raksha stood nearby, motionless. His smile had vanished from his face; the calmness he’d been feeling earlier was gone</text>
+  <dialog chara="008">「You made a move.」</dialog>
+  <motion chara="008" action="img_trans" img="马非马-邪恶-标准-远景"></motion>
+  <dialog chara="008">「You—you laid a hand on me!」</dialog>
+  <text>
+    <p>[em italic]Ah, thank goodness! This man was not a bloodless doll.</p>
+    <p>It looked like cold ice, but there were burning flames![/em]</p>
+  </text>
+  <text>At this time, the joy of Ma Feima reached its peak.</text>
+  <motion chara="008" action="hide" duration="0"></motion>
+  <motion chara="001" action="hide"></motion>
+  <motion chara="-4" action="shake" duration="0.1" range="200" direction="horizontal"></motion>
+  <text>Gah!</text>
+  <text>
+    <p>A fist completely devoid of internal power struck the Raksha’s cheek.</p>
+    <p>Even though the Raksha had guessed his intentions, he didn’t try to dodge or block them</p>
+  </text>
+  <text>
+    <p>The Raksha's body fell into the desert.</p>
+    <p>He staggered to his feet.</p>
+  </text>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="008" action="show" pos="left" img="马非马-邪恶-标准-远景" duration="1"></motion>
+  <delay t="1"></delay>
+  <dialog chara="008">「...What kind of technique was that? Containing my true strength.」</dialog>
+  <se id="01-38踏在沙上的脚步声"></se>
+  <text>A large man walked toward the blond one.</text>
+  <dialog chara="008">「Apparently there’s a mysterious technique called 『Gentenkaki』 in the southwest Frontier, but your skill is clearly different. You were so far away from me that how did you seal it? ...Could this be poisoned or something? No—when was she poisoning my body again」</dialog>
+  <motion chara="008" action="img_trans" img="马非马-笑-标准-远景"></motion>
+  <dialog chara="008" inline="true">「Oh, well. I don’t care about that at all</dialog>
+  <dialog chara="008">
+    <p></p>
+    <p>What's important is that you declared war through your actions.」</p>
+  </dialog>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="001" action="show" pos="right" duration="1" img="奥托-伤严肃-标准-远景"></motion>
+  <text>Ma Feima stopped in front of the Raksha and appraised him, making no attempt to hide it.</text>
+  <text>Blood oozed from the sand-scratched wound, and his handsome face looked very dirty. But he slowly stood up to straighten himself out before staring at Ma Feima with strange green eyes</text>
+  <motion chara="001" action="img_trans" img="奥托-伤严肃-单空手-远景"></motion>
+  <dialog chara="001">「...Aren't you going to go get that sword?」</dialog>
+  <text>The Raksha asked.</text>
+  <motion chara="008" action="img_trans" img="马非马-疑惑-标准-远景"></motion>
+  <dialog chara="008">「Huh? Don't worry about it. If you need something, then we can go and get them in time for the trip!」</dialog>
+  <motion chara="008" action="img_trans" img="马非马-苦笑-标准-远景"></motion>
+  <dialog chara="008">「Besides, if you can seal away the seriousness of it all—relying too much on 『Redsweord』 will put us at a disadvantage.」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-伤严肃-标准-远景"></motion>
+  <dialog chara="001">「......」</dialog>
+  <motion chara="008" action="img_trans" img="马非马-疯狂-标准-远景"></motion>
+  <text>Ma Feima looked behind him as if following the gaze of a Raksha, and he couldn’t help but laugh</text>
+  <dialog chara="008">「I know what you are worried about. Don't worry, that girl is fine」</dialog>
+  <dialog chara="008">「There's no need to worry about that girl or think of a way out right now—all you gotta do is put all your true strength into killing me, and everything will be settled. Right? Isn’t it hard for ya?」</dialog>
+  <text>The Raksha is silent. It seems he's thinking about something...</text>
+  <motion chara="001" action="img_trans" img="奥托-伤笑-单空手-远景"></motion>
+  <dialog chara="001">「So, are you going to take my sword?」</dialog>
+  <dialog chara="008">「Huh?」</dialog>
+  <text>Surprised for a moment, Ma Feima continued laughing loudly.</text>
+  <motion chara="008" action="img_trans" img="马非马-邪恶-标准-远景"></motion>
+  <dialog chara="008">「Haha. I'll take your sword? You talk big! Very funny, very interesting... Let me see what you can do with it — which kind of blade are we going to use here in the first place? Is that her hilt hanging from a tree branching off my neck or something?」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-伤严肃-标准-远景"></motion>
+  <text>The Raksha turned his gaze downward and sighed.</text>
+  <dialog chara="001">「There's no need.」</dialog>
+  <bgm looptimes="0"></bgm>
+  <transition mode="fade" in="2" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="19"></event>
+</scene>

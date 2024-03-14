@@ -1,0 +1,146 @@
+<scene id="23" type="block" prev="22" title="刃不破2">
+  <bgm id="太鼓乱舞（战斗）"></bgm>
+  <motion chara="007" action="hide" duration="0"></motion>
+  <motion chara="008" action="hide" duration="0"></motion>
+  <cg img="CG_第二折_马非马分身1"></cg>
+  <se id="01-21轩辕剑氛围声"></se>
+  <text>As he finished talking,【Redsweord】began to glow vibrantly. In an instant, the entire courtyard was as if it were shrouded by fog, flickering between light and darkness.</text>
+  <bg img="凌霜小屋室外"></bg>
+  <dialog chara="007">[Hmph]</dialog>
+  <text>Lingshuang muttered, picking up the sheath with her pointer and middle finger.</text>
+  <dialog chara="007">[You’re only getting one hit in, so give me all you got.]</dialog>
+  <dialog chara="008">[Here it is!]</dialog>
+  <event action="hide_ui"></event>
+  <se id="01-25沙子飞溅"></se>
+  <cg img="CG_第二折_马非马分身2" duration="2"></cg>
+  <event action="show_ui"></event>
+  <mono>
+    <p></p>
+    <p>With a roar, a second Ma Feima appeared. </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>This was the Taixuan Sixth Disciple’s Blade Sanction: 【Redsweord】]!</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>By filling the Xuanyuan Sword with Ki, and using Taixuan Blade Sanction to bend light. </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>The current Ma Feima had studied and practiced for decades, could now create mirror images at will.</p>
+  </mono>
+  <event action="hide_ui"></event>
+  <cg img="CG_第二折_马非马分身3" duration="3"></cg>
+  <delay t="3"></delay>
+  <event action="show_ui"></event>
+  <text>And so, two became four, four became eight; eight became hundreds, and hundreds became millions, innumerable as they were.</text>
+  <mono>
+    <p></p>
+    <p>In this abandoned courtyard of high noon, there were an infinite number of [Tireless Courser] Ma Feimas…</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>The same Ma Feima, the same Redsweord.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>It was as if a mirror shattered in this courtyard, all of their shards reflecting the figure of the Sixth Disciple of Taixuan.</p>
+  </mono>
+  <bg img="凌霜小屋室外"></bg>
+  <text>The man held his invisible greatsword, unable to contain his excitement.</text>
+  <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
+  <motion chara="007" action="show" pos="center" img="凌霜-思考-标准-远景"></motion>
+  <cg></cg>
+  <delay t="0.1"></delay>
+  <dialog chara="007">[This is just a friendly sparring session,]</dialog>
+  <text>She said with annoyance,</text>
+  <motion chara="007" action="img_trans" img="凌霜-拒绝-标准-远景"></motion>
+  <dialog chara="007">[Why am I playing a guessing game with you?]</dialog>
+  <dialog chara="008">[Well it’s up to you to guess where I am then.]</dialog>
+  <text>Ma Feima’s voice came from far away.</text>
+  <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
+  <dialog chara="007">[You’re too young. Some riddles are pointless, so why should I guess?]</dialog>
+  <bgm></bgm>
+  <motion chara="007" action="hide" duration="0"></motion>
+  <cg img="CG_第二折_刃不破1" duration="0.5" pos="0,0" scale="2" origin="30%,10%"></cg>
+  <delay t="1"></delay>
+  <cg img="CG_第二折_刃不破1" duration="1" pos="0,0" scale="1" origin="30%,10%"></cg>
+  <delay t="1"></delay>
+  <text>As she spoke, she raised her sheath towards the sky.</text>
+  <se id="01-26大刀向下挥"></se>
+  <cg img="CG_第二折_刃不破1" duration="0.2" pos="0,-800"></cg>
+  <dialog chara="007">[Hah!]</dialog>
+  <cg img="CG_第二折_刃不破2" duration="0.3" scale="2"></cg>
+  <delay t="0.1"></delay>
+  <cg img="CG_第二折_刃不破2" reset="true"></cg>
+  <motion chara="-4" action="shake" duration="0.2" range="30" direction="default"></motion>
+  <delay t="0.1"></delay>
+  <se id="01-80雷电 轰隆"></se>
+  <text>
+    <p>With a clear ring, the sheath【Sternsheath】shot forward, </p>
+    <p>lighting the air along its path in the courtyard in a thunderous boom.</p>
+  </text>
+  <text>The fog that surrounded the two dissipated instantly and the air was shattered like a mirror.</text>
+  <event action="hide_ui"></event>
+  <cg img="CG_第二折_马非马分身3" duration="1"></cg>
+  <delay t="1"></delay>
+  <motion chara="-4" action="shake" duration="0.5" direction="default" range="20"></motion>
+  <cg img="CG_第二折_马非马分身4" duration="1"></cg>
+  <se id="01-55手指弹剑"></se>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <text>All of the Ma Feima’s disappeared into thin air.</text>
+  <cg img="CG_第二折_刃不破2"></cg>
+  <text>Under the shimmering mirror shards, Lingshuang stood stoically.</text>
+  <dialog chara="007">[Truth among lies, not bad, you’re truly Master’s good junior disciple.]</dialog>
+  <bgm id="原始武士"></bgm>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <motion chara="007" action="show" pos="left" img="凌霜-注视-标准-远景"></motion>
+  <motion chara="008" action="show" pos="right" img="马非马-闭目-收剑"></motion>
+  <dialog chara="008">[...So strong, heh… Junior Brother admits defeat.]</dialog>
+  <text>The tip of the 【Sternsheath】was a mere inch away from his throat.</text>
+  <text>The 【Redsweord】that he raised up high was now dangling toward the ground. Ma Feima looked at it and laughed bitterly.</text>
+  <motion chara="008" action="img_trans" img="马非马-苦笑-标准-远景"></motion>
+  <dialog chara="008">[I knew I was no match for you, but how’d you do it? I haven’t even…]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-看戏-标准-远景"></motion>
+  <dialog chara="007">[There were three weak points in your strike.]</dialog>
+  <text>Lingshuang said, clearly disinterested:</text>
+  <motion chara="007" action="img_trans" img="凌霜-免了-标准-远景"></motion>
+  <dialog chara="007">[First is that water mirror. All of your copies mirror the original’s movements, so it wasn’t hard to pinpoint your location.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-嫌弃-标准-远景"></motion>
+  <dialog chara="007">[Second is sound. You shouldn’t have answered me during battle. The Xuanyuan Sword can control light, but it can’t change the source of your sound.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
+  <dialog chara="007">[Third was the Ki Flow. I don’t even need to look at you to tell how the Ki is flowing around where you are.]</dialog>
+  <bgm looptimes="0"></bgm>
+  <motion chara="008" action="img_trans" img="马非马-悲伤-标准-远景"></motion>
+  <dialog chara="008">[Ha, that’s what Second Senior Sister says too.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-小恶魔-标准-远景"></motion>
+  <dialog chara="007">[Obviously. If I could see three weak points, she’d probably be able to see more than ten.]</dialog>
+  <dialog chara="008">[...]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-笑-标准-远景"></motion>
+  <bgm id="秋恋古道（慢抒情）"></bgm>
+  <motion chara="007" action="img_trans" img="凌霜-标准-标准-远景"></motion>
+  <dialog chara="008">[Ha, fuck, looks like I wasn’t good enough after all.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-闭目-标准-远景"></motion>
+  <dialog chara="008">[I was gonna lose to you anyway, but to think that a sheath destroyed my Blade Sanction…]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
+  <dialog chara="007">[Don’t go too hard on yourself. You could only do parlor tricks before, but now you can make copies of yourself using Blade Sanction. That’s tremendous growth from practice already. </dialog>
+  <dialog chara="007">I’ll bet that anyone besides me, or Second, will have a hard time defeating you.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-对吧-标准-远景"></motion>
+  <dialog chara="007">[But since you came all this way to spar, I’ll indulge you. If I won with a trick, that’d be no fun. I want to break your strike with brute force— </dialog>
+  <motion chara="007" action="img_trans" img="凌霜-微笑-标准-远景"></motion>
+  <dialog chara="007">Since you decided to hurt my disciple. Don’t you know the saying “You have to watch its master before you hit the dog”?]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-苦笑-标准-远景"></motion>
+  <motion chara="007" action="img_trans" img="凌霜-厌烦-标准-远景"></motion>
+  <dialog chara="007">[Also,]</dialog>
+  <se id="01-57接住剑柄"></se>
+  <text>She flourished 【Sternsheath】in the air.</text>
+  <motion chara="007" action="img_trans" img="凌霜-标准-标准-远景"></motion>
+  <dialog chara="007">
+    <p>[This is just a regular old wooden sheath. I probably couldn’t use it again after this anyway. </p>
+    <p>You were not defeated by [Ascension], but by [Eminence], understand? Feel a bit better about your loss now?]</p>
+  </dialog>
+  <event action="goto" to="24"></event>
+</scene>

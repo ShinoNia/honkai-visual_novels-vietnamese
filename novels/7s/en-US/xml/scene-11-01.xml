@@ -1,0 +1,196 @@
+<scene id="01" type="block" prev="00" title="序2">
+  <text>The boy bowed, then turned his back and headed down the mountain. Lin Zhaoyu watched her pupil disappear toward a stone staircase before turning to face Su Mei in silence</text>
+  <bgm id="天穹"></bgm>
+  <motion chara="003" action="hide"></motion>
+  <motion chara="004" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1.6" color="#000000"></transition>
+  <event action="hide_ui" duration="1.5"></event>
+  <bg img="拂云观-亮" scale="1.2"></bg>
+  <motion chara="004" action="show" img="苏湄-自信-标准-中景" pos="right"></motion>
+  <motion chara="003" action="show" reversex="true" img="林朝雨-不悦-标准-中景" pos="left"></motion>
+  <delay t="1.4"></delay>
+  <dialog chara="003">「I think of you as a younger sister apprentice, but there's no right to interfere with my Taixuan school.」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
+  <dialog chara="004">「I'm sorry.」</dialog>
+  <text>Still smiling, Su Mei turned her gaze far away and then looked around this small room again.</text>
+  <motion chara="003" action="img_trans" img="林朝雨-不悦-标准-中景" reversex="true"></motion>
+  <motion chara="004" action="img_trans" img="苏湄-自信-标准-中景"></motion>
+  <dialog chara="004">「The Taixuan Faction, the Kumokan... Heheh. They're all yours now!」</dialog>
+  <text>Lin Zhaoyu responded coldly with a snort of “Hmph.”</text>
+  <dialog chara="003">「Either way, the Taixuan family must be informed. I can't allow them to break off with my own hands!」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
+  <dialog chara="004">「*sigh* Of the seven of us, Miss Zhaoyu seems to miss her most.」</dialog>
+  <text>The two of them continued their small talk, never getting down to business. Lin Zhaoyu patiently waited for him but Su Mei seemed interested in the little things</text>
+  <motion chara="004" action="img_trans" img="苏湄-自信-标准-中景"></motion>
+  <dialog chara="004">「Miss Zhaoyu's pupil has quite a bit of potential, and she does have some nerve. It is just too bad that he was male; it will be difficult to train Little Ma into her own level」</dialog>
+  <dialog chara="003">「...When I take apprentices, my talent is not as important to me. And Yanqing has enough martial arts skills that no one can compete with him in the first place! Men and women don't matter—not even a single disciple of mine could match his」</dialog>
+  <motion action="img_trans" chara="003" img="林朝雨-怅然-标准-中景" reversex="true"></motion>
+  <dialog chara="003">「But Zhenyus certainly do have a knack for it. The Void Faction will be passed on to future generations eventually, and he might become my last disciple!」</dialog>
+  <dialog chara="004">「Miss Zhaoyu, are you thinking about your last apprentice now?」</dialog>
+  <motion chara="003" action="img_trans" img="林朝雨-心头一震-标准-中景" reversex="true"></motion>
+  <text>Lin Zhaoyu was somewhat dumbfounded, and suddenly went pale.</text>
+  <text>She was the oldest of Phoenix’s seven disciples, and fifteen years older than her second[\s]Lin Zhaoyu hadn’t bothered him at first, but now that years have passed and he is married to the youngest Ma Feima has made his age even more apparent</text>
+  <motion chara="003" action="img_trans" reversex="true" img="林朝雨-愤怒-标准-中景"></motion>
+  <dialog chara="003">「Su Mei, stop trying to test my patience... Let's get back on topic.」</dialog>
+  <text>The head of the Taixuan Faction would break through their groping each other's stomach.</text>
+  <dialog chara="003">「Master resurrected, sister apprentice dead. Now it's our turn—what are you going to do?[\s]You didn't come to see me for the first time in a long while just so we could chat, right? Are you... planning on killing my master again.」</dialog>
+  <dialog chara="004">「......」</dialog>
+  <text>Lin Zhaoyu took her younger sister apprentice’s silence as an affirmation.</text>
+  <motion chara="003" action="img_trans" reversex="true" img="林朝雨-愤恨-标准-中景"></motion>
+  <dialog chara="003">「I don't like you, Su Mei. But in the past she thought of me as her own little sister... So let’s give some advice to that effect:」</dialog>
+  <dialog chara="003">「It's different now. The seven of us will never be together again, and we were just lucky back then... There is no guarantee that it would turn out the same even if I tried one more time」</dialog>
+  <text>Lin Zhaoyu let out a long sigh.</text>
+  <motion chara="003" action="img_trans" reversex="true" img="林朝雨-心头一震-标准-中景"></motion>
+  <dialog chara="003">
+    <p>「It's been twenty years, but I never forgot that night...</p>
+    <p>Wanxi and Lingshuang nearly lost their lives. If it weren't for you, that sword with the face of Yanqingru would have been a disaster...」</p>
+  </dialog>
+  <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
+  <dialog chara="004">「You really do miss the past, don't you? Heheh. It has been twenty years already! 『If...』 is nothing like that...」</dialog>
+  <text>
+    <p>Su Mei had absolutely no interest in the past.</p>
+    <p>Lin Zhaoyu understood, but she couldn't agree with him at all.</p>
+  </text>
+  <motion chara="004" action="img_trans" img="苏湄-自信-标准-中景"></motion>
+  <motion chara="003" action="img_trans" img="林朝雨-不悦-标准-中景" reversex="true"></motion>
+  <dialog chara="003">「Hmph, tell me. What's your plan?」</dialog>
+  <dialog chara="004">「I don't have a plan.」</dialog>
+  <motion chara="003" action="img_trans" reversex="true" img="林朝雨-惊恐-标准-中景"></motion>
+  <text>In the martial arts world, everyone acknowledged that she was intelligent and earned her nickname of 『Chikei Musou』—Su Mei. That’s what he said</text>
+  <motion action="img_trans" chara="004" img="苏湄-闭目-标准-中景"></motion>
+  <dialog chara="004">「No matter how hard you think about it, there's no plan that will work out perfectly. If everything goes according to your plans then Master should be dead by now and he won’t come back into this world...」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-标准-标准-中景"></motion>
+  <dialog chara="004">「That's why I have no intention of making any plans. Change happens all the time, and it is impossible to calculate a human heart...」</dialog>
+  <motion chara="003" action="img_trans" reversex="true" img="林朝雨-惊讶-标准-中景"></motion>
+  <text>Something cold suddenly welled up in the hearts of Lin Zhaoyu.</text>
+  <text>He hated Su Mei, but on the inside he believed she must have had some kind of plan.</text>
+  <text>Just like twenty years ago, when she gathered seven people and plotted to kill Phoenix—the invincible True Celestial. —The world would change with time; I knew that but the Taixuana Seven Swords had also changed from before</text>
+  <motion chara="003" action="img_trans" reversex="true" img="林朝雨-怅然-标准-中景"></motion>
+  <dialog chara="003">「So, you...」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-平静-标准-中景"></motion>
+  <dialog chara="004">「Yeah, I don't have a plan. But there are plenty of ways to do it!」</dialog>
+  <motion chara="003" action="img_trans" reversex="true" img="林朝雨-惊讶-标准-中景"></motion>
+  <text>Lin Zhaoyu frowned suspiciously.</text>
+  <dialog chara="003">「A way?」</dialog>
+  <motion action="img_trans" chara="004" img="苏湄-闭目-标准-中景"></motion>
+  <dialog chara="004">「Yes.」</dialog>
+  <dialog chara="004">
+    <p>「Twenty years ago, we buried our master and set fire to Mount Taixuan.</p>
+    <p>After that, I went back to the mountains and found something suspicious.」</p>
+  </dialog>
+  <motion chara="004" action="img_trans" img="苏湄-平静-标准-中景"></motion>
+  <dialog chara="004">「Master's sword was missing.」</dialog>
+  <text>Su Mei takes a step forward. There seems to be an even deeper meaning behind her gaze as she stares at the Lin Zhaoyu</text>
+  <event action="hide_ui" duration="1.5"></event>
+  <motion chara="003" action="hide"></motion>
+  <motion chara="004" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="拂云观-亮" scale="1.3"></bg>
+  <motion chara="003" action="show" reversex="true" img="林朝雨-惊恐-标准-近景" pos="left"></motion>
+  <motion chara="004" action="show" pos="right" img="苏湄-平静-标准-近景"></motion>
+  <dialog chara="003">「...It was gone?」</dialog>
+  <dialog chara="004">「......」</dialog>
+  <text>Su Mei was staring at Lin Zhaoyu’s face, but she suddenly averted her gaze.</text>
+  <motion chara="004" action="img_trans" img="苏湄-标准-标准-近景"></motion>
+  <dialog chara="004">「...It's not my sister.」</dialog>
+  <dialog chara="003">「Huh?」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-自信-标准-近景"></motion>
+  <text>Su Mei smiled faintly on her face, as if she had come up with something interesting.</text>
+  <dialog chara="004">「By the time I returned, Master's coffin had been burned to a crisp. The bones inside it were scorched and there was no sign of them at all! Unfortunately for you—I decided on where they should be —because in that place we thought fire would never pass us by」</dialog>
+  <dialog chara="004">「That's why I investigated the crime scene. Then, as expected...」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-标准-标准-近景"></motion>
+  <dialog chara="004">「The body inside the coffin didn't belong to my master.」</dialog>
+  <motion chara="003" action="img_trans" img="林朝雨-愤怒-标准-近景" reversex="true"></motion>
+  <dialog chara="003">「...What did you say?」</dialog>
+  <motion chara="003" action="img_trans" reversex="true" img="林朝雨-惊恐-标准-近景"></motion>
+  <dialog chara="004">「......」</dialog>
+  <dialog chara="003">
+    <p>「In other words... You've known Master was alive for a long time? Did you know that twenty years ago, dearest Mell.</p>
+    <p>And yet, she didn't tell me... She said nothing and kept quiet.」</p>
+  </dialog>
+  <motion chara="004" action="img_trans" img="苏湄-平静-标准-近景"></motion>
+  <dialog chara="004">「......」</dialog>
+  <motion chara="003" action="img_trans" reversex="true" img="林朝雨-怅然-标准-近景"></motion>
+  <dialog chara="003">
+    <p>「I didn't know. Never knew... What about Lord Yanqing? Do you not understand the situation either, Wanxi and Wanru ...</p>
+    <p>Besides, Suyi. At the very least I have to let her know―」</p>
+  </dialog>
+  <dialog chara="004">「No, I didn't tell anyone.」</dialog>
+  <motion chara="003" action="hide" img="林朝雨-怅然-标准-近景"></motion>
+  <text>Lin Zhaoyu steps back. Suddenly, a sharp pain runs through her cheeks as the old man crushes his pride of being an imaginary sword-fighting leader and makes it seem like she'll be ten years older in no time at all—time is eradicating any deception that might come to mind for him</text>
+  <motion chara="003" action="show" img="林朝雨-愤怒-标准-近景" reversex="true" pos="left"></motion>
+  <dialog chara="003">
+    <p>「I've lived in solitude for the rest of my life. She is not like us, and we are making preparations... But either way—I cannot afford to let her know about this</p>
+    <p>Why did you not tell us, Su Mei?」</p>
+  </dialog>
+  <motion chara="004" action="img_trans" img="苏湄-标准-标准-近景"></motion>
+  <dialog chara="004">「That's right... I wonder why?」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-瞥视-标准-近景"></motion>
+  <motion chara="003" action="img_trans" img="林朝雨-惊讶-标准-近景" reversex="true"></motion>
+  <text>Su Mei mutters. There seems to be a fog in her eyes</text>
+  <dialog chara="004">「...Time...」</dialog>
+  <text>The words come out of his mouth in a daze. Su Mei looks around as if she's upset, like an old man who has lost all memory and is searching for some treasure he doesn’t even know himself about from within the piled-up relic</text>
+  <dialog chara="004">「It's just... I need a little more time.」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-闭目-标准-近景"></motion>
+  <text>She closes her eyes as she says that. It seems like this is the end of a topic for us to talk about, huh?[\s]When she opened her mouth again, the illusion of an old man had vanished. Standing before Lin Zhaoyu was none other than a calm master at Musoumon Gate</text>
+  <motion chara="004" action="img_trans" img="苏湄-平静-标准-近景"></motion>
+  <dialog chara="004">「That's right... I knew it for a long time. Twenty years ago, my master disappeared from Mount Taixuan—someone might have stolen his body and he may already be resurrected — so there was no way you could tell? It just occurred to me that one 『Possible.』 existed」</dialog>
+  <dialog chara="004">「Master isn't dead, he might be alive.」</dialog>
+  <dialog chara="004">
+    <p>「No matter how unbelievable it may be, as long as there's a possibility I can’t ignore them.[\s]</p>
+    <p>That's why I created the Muso Gate and sent them all across Zhongyuan. They not only defeated evil spirits, but also gave me missions to locate my master in search of suspicious locations」</p>
+  </dialog>
+  <dialog chara="004">
+    <p>「And I...</p>
+    <p>For the past few years, Master and I have been trying to find out more about this sword. We've learned a lot from it![\s]</p>
+    <p>I don't have any proof that we can win, but there are plenty of ways to use it.」</p>
+  </dialog>
+  <text>『Means』... Those words made Lin Zhaoyu feel a little uncomfortable.</text>
+  <motion chara="003" action="img_trans" img="林朝雨-心头一震-标准-近景" reversex="true"></motion>
+  <dialog chara="003">「You mustn't do anything dirty to your master. He is Phoenix, after all!」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-瞥视-标准-近景"></motion>
+  <dialog chara="004">「Yes... I have no intention of being rude to my master.」</dialog>
+  <motion chara="004" action="img_trans" img="苏湄-标准-标准-近景"></motion>
+  <text>A faint smile appeared on Su Mei’s lips, but there was sadness mixed in.</text>
+  <dialog chara="004">「If my master is coming to kill me, then that’s only natural. Those who are killed have the right of vengeance」</dialog>
+  <dialog chara="004">「But I don't regret killing my master. If not for that, we would still be in endless agony right now... What about you?」</dialog>
+  <motion chara="003" action="img_trans" img="林朝雨-怅然-标准-近景" reversex="true"></motion>
+  <dialog chara="003">「......」</dialog>
+  <text>The thirty years they’d spent together had become a thin needle, lightly stabbing into the chest of this headwoman who belonged to the Taixuan faction</text>
+  <dialog chara="003">「...I don't regret it either.」</dialog>
+  <text>Lin Zhaoyu spoke in a quiet voice.</text>
+  <motion chara="003" action="img_trans" img="林朝雨-认真-标准-近景" reversex="true"></motion>
+  <motion chara="004" action="img_trans" img="苏湄-自信-标准-近景"></motion>
+  <dialog chara="004">
+    <p>「It's fine. I have no intention of sitting down and waiting for death, so from now on we will fight my master with all our might! Only God knows if he is alive or dead—[\s]</p>
+    <p>That's why I came here. Miss Zhaoyu, please lend me your strength!」</p>
+  </dialog>
+  <text>
+    <p>Lin Zhaoyu stared at the red-haired woman in front of her.[\s]</p>
+    <p>In the past, she had been her own little sister and best friend. She was a comrade in love with him; he thought that once they parted ways there would be nothing to do between them until their deaths</p>
+  </text>
+  <text>But right now, various emotions swirled in the hearts of Lin Zhaoyu.</text>
+  <text>And then, at the end of her sentence...</text>
+  <motion chara="003" action="img_trans" img="林朝雨-心头一震-标准-近景" reversex="true"></motion>
+  <dialog chara="003">「Go ahead and say it.」</dialog>
+  <transition mode="fade" in="1" stop="0.1" out="0" color="#000000"></transition>
+  <motion chara="004" action="hide"></motion>
+  <motion chara="003" action="hide"></motion>
+  <transition mode="fade" in="0" stop="0.5" out="1" color="#000000"></transition>
+  <cg img="CG_第二折_天穹苏湄" duration="1"></cg>
+  <text>Su Mei stepped out of the cloud view and spread her arms wide at a peak in Tianqiu Peak, drawing circles as she answered.</text>
+  <motion chara="004" action="show" pos="center" img="苏湄-甜笑-标准-近景"></motion>
+  <dialog chara="004">「I want to have Zhaoyu Nee-san's sword style.」</dialog>
+  <event action="hide_ui" duration="8"></event>
+  <motion chara="004" action="hide" duration="2.5"></motion>
+  <transition mode="fade" in="2" stop="0.5" color="#000000" out="0"></transition>
+  <cg></cg>
+  <bgm looptimes="0"></bgm>
+  <transition mode="fade" in="0" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="Chapter02"></bg>
+  <delay t="2.5"></delay>
+  <se id="01-10标题试剑"></se>
+  <delay t="3"></delay>
+  <transition mode="fade" in="2" stop="3" out="0" color="#000000"></transition>
+  <event action="goto" to="02"></event>
+</scene>

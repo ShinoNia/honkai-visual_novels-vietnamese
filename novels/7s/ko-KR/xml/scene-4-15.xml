@@ -1,0 +1,259 @@
+<scene id="15" prev="14" title="約束">
+  <transition mode="fade" in="0" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <cg img="CG_第一折_起手姿势_1" duration="1"></cg>
+  <delay t="0.5"></delay>
+  <cg img="CG_第一折_起手姿势_1" duration="10" pos="-50,75" scale="1.2"></cg>
+  <bgm id="传奇诞生"></bgm>
+  <text inline="true">이소상은 낮은 자세로 왼쪽 무릎이 거의 땅에 닿을 듯 몸을 굽혔고, 왼손의 엄지와 약지, 새끼손가락을 땅에 가볍게 대고 있었다.</text>
+  <text> 만약 누군가가 지금 그녀의 모습을 보았다면, 가소롭게 느꼈을지도 모른다.</text>
+  <text>하지만, 이소상의 몸 움직임은 매우 재빨라서, 일반인의 동체시력으로는 이 이상한 손동작을 포착하는 게 불가능할 것이다.</text>
+  <text>
+    <p>이는 태허검기가 아닌 아버지 쪽의 이씨 가문으로부터 내려온 경공술이었다.</p>
+    <p>「비연공(飛燕功)」.</p>
+  </text>
+  <event action="hide_ui" duration="1"></event>
+  <delay t="0.1"></delay>
+  <motion chara="-4" action="shake" duration="0.1" range="1000" direction="vertical"></motion>
+  <se id="01-30女孩轻功whoosh_02"></se>
+  <cg duration="0.1"></cg>
+  <delay t="0.1"></delay>
+  <bg img="BGPureWhite00"></bg>
+  <bg img="老鹰黑屏" duration="0" pos="-600,0"></bg>
+  <delay t="0.1"></delay>
+  <bg img="老鹰黑屏" duration="0.5"></bg>
+  <delay t="0.5"></delay>
+  <text>푸른 일섬과 함께, 이소상은 이미 「노응」의 앞까지 도약하며 다가왔다.</text>
+  <text>그녀가 꺼낸 첫 공격은 수도(手刀)였다.</text>
+  <bg img="老鹰黑屏" duration="0.3" scale="3" origin="45%,80%"></bg>
+  <delay t="0.3"></delay>
+  <motion chara="-5" action="show" pos="center" img="竖劈-上下(透明) "></motion>
+  <se id="01-22女孩轻功whoosh_01"></se>
+  <motion chara="-5" action="hide" delay="0.2"></motion>
+  <se id="01-23腿部命中"></se>
+  <motion chara="-4" action="shake" duration="0.2" range="400" direction="vertical"></motion>
+  <bg img="老鹰黑屏" duration="0.1"></bg>
+  <delay t="0.3"></delay>
+  <se id="01-28胸口命中"></se>
+  <motion chara="-4" action="shake" duration="0.2" range="400" direction="horizontal"></motion>
+  <motion chara="-5" action="show" pos="left" img="对战特效（小）"></motion>
+  <delay t="0.1"></delay>
+  <motion chara="-5" action="hide" delay="0.2"></motion>
+  <delay t="0.1"></delay>
+  <bg img="PureBlack"></bg>
+  <text>
+    <p>오른손으로 「노응」의 손목을 쳐, 「헌원」을 떨어트리고,</p>
+    <p>이어서 번개처럼 손을 뒤집어 남자의 명치를 가격해, 충격을 주었다.</p>
+  </text>
+  <se id="01-57接住剑柄"></se>
+  <bg img="废弃驿站"></bg>
+  <event action="hide_ui" duration="4"></event>
+  <motion chara="015" action="show" pos="left" img="老鹰-惊讶-肉搏备战-远景" duration="2"></motion>
+  <delay t="2"></delay>
+  <motion chara="002" action="show" img="素裳-笑-背剑-远景" pos="right" duration="2"></motion>
+  <delay t="1"></delay>
+  <text>그와 동시에, 그녀의 왼손은 이미 그 고대검을 정확하게 회수하고 있었다.</text>
+  <text>
+    <p>소상은 일종의 익숙한 안도감이 마음속에 흐르는 게 느껴졌다.</p>
+    <p>다시 검을 쥐니, 기분이 좋았다.</p>
+  </text>
+  <text>이소상은 보검을 흔들며, 「노응」을 향해 싱긋 웃었다.</text>
+  <motion chara="002" action="img_trans" img="素裳-大笑-背剑-远景"></motion>
+  <dialog chara="002">「감사합니다.」</dialog>
+  <motion chara="015" action="img_trans" img="老鹰-微笑-肉搏备战-远景"></motion>
+  <text inline="true">그녀의 말투는 남을 속이려는 의도 없이 사랑스러웠지만, 「노응」에게는 엄청난 모욕으로 들렸다.</text>
+  <text>
+    <p></p>
+    <p>그는 막북(漠北)을 여러 해 돌아다녔지만, 이렇게나 좌절한 적은 없었다.</p>
+  </text>
+  <motion chara="002" action="hide"></motion>
+  <motion chara="015" action="hide"></motion>
+  <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="right" custom="default"></transition>
+  <bg img="PureBlack"></bg>
+  <mono>
+    <p></p>
+    <p>「노응」이 살의를 불태움과 동시에, 강렬한 복수심도 따라 끓어올랐다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>이소상을 그냥 죽이는 것만이 아니라, 더없이 잔혹하게 죽여야 한다.</p>
+  </mono>
+  <cg img="CG_第一折_老鹰战姿_掌" duration="3"></cg>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>금사방의 두목은 적의 공격을 받아칠 수 있는 자세를 유지하며,</p>
+    <p></p>
+    <p>정신을 바짝 차리고, 눈앞의 소녀를 진정한 『강적』으로 대하기 시작했다.</p>
+  </mono>
+  <cg img="CG_第一折_老鹰战姿_掌" duration="30" scale="1.8" origin="10%,10%"></cg>
+  <mono>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>이건 전쟁이다.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>비무도, 결투도 아닌, 전쟁이다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>규모도 작고, 목적도 단순하지만, 전쟁이다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>그러니,</p>
+    <p></p>
+    <p>이곳은 「노응」에게 가장 익숙한 전장(戰場),</p>
+    <p>지금은 「노응」에게 가장 익숙한 전시(戰時)였다.</p>
+    <p></p>
+    <p>그 짧은 몆 초 안에, 그의 머릿속은 엄청나게 빠른 속도로 회전하며, 우세와 열세, 변수를 모두 계산해냈다.</p>
+  </mono>
+  <transition mode="dissolve" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="废弃驿站"></bg>
+  <cg></cg>
+  <mono>열세는, 바로 「실력의 차이」다.</mono>
+  <mono>
+    <p></p>
+    <p>「노응」은 이를 분명히 잘 알고 있어서, 수치심 없이 있는 그대로 인정하고 있었다.</p>
+    <p>눈앞에 있는 작은 소녀는, 내공과 외공을 막론하고 모든 면에서 그를 아득히 뛰어넘고 있다.</p>
+    <p>심지어 그가 알고 있는 그 어떤 강호인들보다도 강했다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>하늘과 땅 차이 같은 거대한 실력의 차이는, 처음부터 이 비무의 결말을 결정짓고 있었다.[\s]</p>
+    <p></p>
+    <p>——물론, 이것이 그저 비무에 불과했다면 말이다.</p>
+  </mono>
+  <mono>변수는, 바로 「미지의 일」이다.</mono>
+  <mono>
+    <p></p>
+    <p>방금 두 번의 공격엔 내공이 담기지 않았는데, 이는 「절기산(截氣散)」의 효과가 아직 남아있다는 건가?</p>
+    <p>지하 감옥에서 탈출한 건 두 명인데, 「나찰인」도 아직 근처에 있으려나?</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>이 두개의 불명확한 사실들 역시 결과를 좌우할 가능성이 있다.</p>
+    <p>그것들을 최악의 경우로 생각한다면, 「노응」에게는 일말의 승산도 없을 것이다.[\s]</p>
+    <p></p>
+    <p>——물론, 이것이 불운이 확정된 노름판이었다면 말이다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>……이런 너무나도 나쁜 상황에서, 그의 그가 이겨낼 계책은 거의 없는 것에 가까웠다.</p>
+    <p>하지만 「노응」은 여전히 승리에 대한 절대적인 자신감을 가지고 있었다.[\s]</p>
+    <p></p>
+    <p>왜냐하면, 그는 「우세」까지 계산에 넣고 있었기 때문이다.</p>
+  </mono>
+  <event action="hide_ui" duration="2"></event>
+  <motion chara="015" action="show" pos="left" img="老鹰-微笑-肉搏备战-远景" duration="2"></motion>
+  <motion chara="002" action="show" pos="right" img="素裳-浅笑-背剑-远景" duration="2"></motion>
+  <delay t="1.5"></delay>
+  <text>그의 우세는 세 가지.</text>
+  <dialog chara="015">「하하하하하——」</dialog>
+  <text>남자가 호쾌하게 웃었다,</text>
+  <motion chara="015" action="img_trans" img="老鹰-狞笑-肉搏备战-远景"></motion>
+  <dialog chara="015">「대단하군! 소저, 좋은 무공이다!」</dialog>
+  <dialog chara="015">
+    <p>「널 하찮게 봤었다. 아니면 내가 늙기라도 한건가……</p>
+    <p>그런데 내 손의 물것을 빼앗다니, 하하, 십만 명의 나찰귀들도 해내지 못한 것을.」</p>
+  </dialog>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目前-背剑-远景"></motion>
+  <dialog chara="002">
+    <p>「아…… 감사합니다, 하지만 이것은 본디 제 것이니까요.</p>
+    <p>결코 빼앗은 게 아닙니다, 주인에게 되돌아간 것뿐입니다.」</p>
+  </dialog>
+  <motion chara="015" action="img_trans" img="老鹰-微笑-肉搏备战-远景"></motion>
+  <dialog chara="015">「흐흐흐……」</dialog>
+  <text>남자는 웃음을 참을 수 없었다.</text>
+  <motion chara="015" action="img_trans" img="老鹰-狞笑-肉搏备战-远景"></motion>
+  <dialog chara="015">「물건이 주인에게 돌아갔는데, 왜 떠나지 않는 건가?」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-惊讶2-背剑-远景"></motion>
+  <dialog chara="002">「아직 당신을 이기지 못해, 떠날 수 없습니다.」</dialog>
+  <motion chara="015" action="img_trans" img="老鹰-惊讶-肉搏备战-远景"></motion>
+  <dialog chara="015">「……」</dialog>
+  <motion chara="015" action="img_trans" img="老鹰-狞笑-肉搏备战-远景"></motion>
+  <dialog chara="015">「그런가…… 날 죽이러 온 것이군.」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-惊讶-背剑-远景"></motion>
+  <dialog chara="002" inline="true">「아닙니다, 아직 거기까지 생각하진 않았는데…… 죽일지 말지는 딱히 중요하지 않습니다.</dialog>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-背剑-远景"></motion>
+  <dialog chara="002"> 하지만 당신에게 맞은 따귀 두 대는, 광명정대(光明正大)하게 돌려드리겠습니다.」</dialog>
+  <dialog chara="015">「훗.」</dialog>
+  <text>「노응」이 비웃음을 지었다.</text>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>이것이 바로 그의 첫 번째의 우세, 「경험」이다.</p>
+    <p></p>
+    <p>그녀를 다른 오랜 강호인들과 비교하면, 이소상의 사회경험은 거의 없는 것에 가까웠다.</p>
+    <p>그녀는 「노응」의 말속에 묻힌 단서를 찾아내지 못하고,</p>
+    <p>무지하게 함정에 빠지고 있었다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>그리고 두 번째의 우세. 「성격」이다.</p>
+    <p></p>
+    <p>「노응」은 패배를 맛본 적이 있다. 그러기에 그는 승리를 위해서라면, 무엇이든 할 수 있었다.</p>
+    <p>반면, 이소상은 정직하고 완고한 꼬맹이, 그녀의 마음속엔, 여전히 공평함과 정의감이 가장 높은 자리를 차지하고 있었다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>이 두 가지 우세를 활용하여,</p>
+    <p>세 번째 우세를 얻어야 한다.</p>
+    <p>변수를 하나 더 만든다.</p>
+    <p></p>
+    <p>「노응」은 「승리」의 저울이 자신에게 기울 것이라 믿고 있었다.</p>
+  </mono>
+  <dialog chara="015">
+    <p>「광명정대라…… 좋다, 나도 동의한다.</p>
+    <p>어떤가, 소녀, 내기를 하나 하는 것은.」</p>
+  </dialog>
+  <motion chara="015" action="img_trans" img="老鹰-惊讶-肉搏备战-远景"></motion>
+  <motion chara="002" action="img_trans" img="素裳-小恶魔-背剑-远景"></motion>
+  <dialog chara="002">「도박은 좋아하지 않습니다만…… 들어는 보겠습니다.」</dialog>
+  <motion chara="015" action="img_trans" img="老鹰-微笑-肉搏备战-远景"></motion>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-背剑-远景"></motion>
+  <dialog chara="015">「하하, 그래.」</dialog>
+  <dialog chara="015">
+    <p>「네가 원하는 대로, 광명정대하게 겨루도록 하지. 날붙이를 쓰지 않고, 손과 발로만.</p>
+    <p>내가 지면, 이 머리는 네 것이다. 네가 지면, 보검을 두고 떠나라.」</p>
+  </dialog>
+  <motion chara="002" action="img_trans" img="素裳-专注-背剑-远景"></motion>
+  <motion chara="015" action="img_trans" img="老鹰-惊讶-肉搏备战-远景"></motion>
+  <dialog chara="002">「그건 할 수 없습니다.」</dialog>
+  <text>소녀가 머리를 세차게 흔들었다.</text>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-背剑-远景"></motion>
+  <dialog chara="002">
+    <p>「어머님께 검을 제 몸에서 떨어트리지 않겠다 약속했습니다.</p>
+    <p>그러니, 제가 지면, 제 머리는 당신 것입니다. 공평하죠?」</p>
+  </dialog>
+  <dialog chara="015">「…………」</dialog>
+  <text>「노응」은 잠깐 멍해있더니, 갑자기 웃음을 터트렸다.</text>
+  <motion chara="015" action="img_trans" img="老鹰-狞笑-肉搏备战-远景"></motion>
+  <dialog chara="015">「공평해! 하하하하하, 아주 공평해, 정말 공평을 좋아하는군!」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目前-背剑-远景"></motion>
+  <dialog chara="002">「그럼…… 결정한 겁니다?」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-背剑-远景"></motion>
+  <dialog chara="015">「결정이군.」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-大笑-背剑-远景"></motion>
+  <dialog chara="002">「예.」</dialog>
+  <motion chara="002" action="hide" duration="0"></motion>
+  <motion chara="015" action="hide" duration="0"></motion>
+  <text inline="true">이소상이 손을 흩뿌린다.</text>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="氛围_通用_轩辕剑下落" duration="0.5" pos="0,200" scale="2"></cg>
+  <delay t="0.3"></delay>
+  <se id="01-26大刀向下挥"></se>
+  <text> 그러자 헌원검은 땅에 박혀, 칼자루만이 오래된 청석 위에 우뚝 서게 되었다.</text>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg img="CG_第一折_鹰李对峙_鹰惊李抱拳_无剑" scale="2" origin="85%,54%"></cg>
+  <dialog chara="002">「먼저 가도 되겠습니까? 제 나이가 더 어리니까요.」</dialog>
+  <cg img="CG_第一折_鹰李对峙_鹰惊李抱拳_无剑" duration="0.5" origin="85%,54%"></cg>
+  <text>말하는 사이, 소상은 검심(劍心)을 운용하기 시작했고, 그녀의 마음은, 지수(止水), 움직임이 없는 물과도 같았다.</text>
+  <bgm looptimes="0"></bgm>
+  <transition mode="fade" in="1" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="16"></event>
+</scene>

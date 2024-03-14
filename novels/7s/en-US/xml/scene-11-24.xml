@@ -1,0 +1,108 @@
+<scene id="24" type="block" prev="23" title="刃不破3">
+  <motion chara="008" action="img_trans" img="马非马-微惊-标准-远景"></motion>
+  <dialog chara="008">[...]</dialog>
+  <text>Lingshuang sounded like she was mocking him, but Ma Feima knew this was her way of praising him.</text>
+  <mono pageend="true">
+    <p></p>
+    <p>Purely by skill, only their Master Phoenix could rival Lingshuang now.</p>
+  </mono>
+  <event action="hide_ui"></event>
+  <motion chara="007" action="hide" duration="0"></motion>
+  <motion chara="008" action="hide" duration="0"></motion>
+  <bg img="心湖（3）明镜" duration="2"></bg>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <mono>
+    <p></p>
+    <p>The powerful [Edge of Taixuan] had five essences: Mantra, Form, Sanction, Ascension, and Eminence].</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>To master Ascension was to master the way of the blade. One did not have to be concerned with the form of the weapon, and any weapon could become a sword.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Besides Lin Zhaoyu, who was busy studying sword arts itself, the rest of the disciples had all mastered Ascension.</p>
+  </mono>
+  <cg img="氛围_通用_冰块"></cg>
+  <mono pageend="true">
+    <p></p>
+    <p>But Eminence— Other than Celestial Phoenix, for thousands of years, Lingshuang alone was the only one to master this essence. </p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>And Eminence is—</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>Where inaction is greater than action, </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Being swordless did not mean you had no sword.</p>
+  </mono>
+  <event action="hide_ui"></event>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="凌霜小屋室外"></bg>
+  <cg></cg>
+  <motion chara="007" action="show" pos="left" img="凌霜-标准-标准-远景"></motion>
+  <motion chara="008" action="show" pos="right" img="马非马-笑-标准-远景"></motion>
+  <delay t="1"></delay>
+  <event action="show_ui"></event>
+  <dialog chara="008">Ki from the will, a sword from the mind, this is the All-Mighty Wandering Eminence.</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-免了-标准-远景"></motion>
+  <dialog chara="007">[It’s a shame. I had a couple more moves with Redsweord I wanted to use.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-微惊-标准-远景"></motion>
+  <dialog chara="008">[I’ll pass. It’s a hassle dealing with even one strike with you. If it wasn’t for how stubborn and unavoidable I heard you were when it came to fighting, I wouldn’t even have lifted a finger.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-厌烦-标准-远景"></motion>
+  <dialog chara="007" inline="true">[I didn’t think you paid attention to my business.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
+  <dialog chara="007">[There’s not much happening around these parts except your feats: Who you beat up, who you defeated, who you killed… Seriously, why’s the world suddenly revolving around you? Are all of our Senior Sisters dead or something?]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-苦笑-标准-远景"></motion>
+  <text>The Sixth Disciple of Taixuan gave a forced grin. Even after twenty years he’d still find himself struggling to have a conversation with Lingshuang:</text>
+  <dialog chara="008">[Everyone’s well. Zhaoyu is my wife right now.]</dialog>
+  <dialog chara="007">[Oh right, I heard about that. School of Taixuan, was it? No wonder she’s the eldest, she won’t even change the name. But you, I heard that right after you got married, you went off to the Northern Wastes to chase a horse for a hundred miles.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-悲伤-标准-远景"></motion>
+  <text>Ma Feima rubbed his nose and looked at Erebus. He didn’t go to the Northern Wastes for it, but he ended up meeting his lifelong best friend over there.</text>
+  <motion chara="007" action="img_trans" img="凌霜-看戏-标准-远景"></motion>
+  <dialog chara="007">[Did it taste good?]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-闭目-标准-远景"></motion>
+  <dialog chara="008">[...]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-注视-标准-远景"></motion>
+  <text>The corners of Ma Feima’s mouth twitched slightly.</text>
+  <motion chara="008" action="img_trans" img="马非马-沉思-标准-远景"></motion>
+  <dialog chara="008">[....Senior Sister, stop joking with me.]</dialog>
+  <text>Lingshuang wasn’t joking though:</text>
+  <dialog chara="007">[What happened to you? You were always the good one out of all of us, never getting into any fights. Honestly, you were more like a woman than any of us, but now? </dialog>
+  <dialog chara="007">You’ve probably gotten into more fights in these past decades than our Master did over thousands of years.]</dialog>
+  <motion chara="007" action="img_trans" img="凌霜-标准-标准-远景"></motion>
+  <dialog chara="007">[But did you get anything out of it? Are you the Strongest of Shenzhou? Or the Supreme Leader of the Lands?]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-笑-标准-远景"></motion>
+  <dialog chara="008">[Haha, that’s not my intention. There’s no way I’d beat my Senior sisters no matter how much I train my Edge of Taixuan. </dialog>
+  <motion chara="008" action="img_trans" img="马非马-悲伤-标准-远景"></motion>
+  <dialog chara="008">
+    <p>Supreme Leader… What’s that good for? Who cares about number one? </p>
+    <p>Master was so powerful, and look what happened to her…]</p>
+  </dialog>
+  <motion chara="007" action="img_trans" img="凌霜-思考-标准-远景"></motion>
+  <dialog chara="007">[Well, it’s good that you know that.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-标准-标准-远景"></motion>
+  <text>Lingshuang let out a huff before walking towards the cottage.</text>
+  <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
+  <dialog chara="007">[My abode is a bit too small for guests. Anything else? If not, I’m going.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-认真-标准-远景"></motion>
+  <dialog chara="008">[Yes.]</dialog>
+  <text>Ma Feima stepped forward.</text>
+  <motion chara="008" action="img_trans" img="马非马-标准-标准-远景"></motion>
+  <dialog chara="008">[Second Sister wanted me to tell you something important, something I have to tell you personally.]</dialog>
+  <dialog chara="007">[You couldn’t have told me earlier?]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-认真-标准-远景"></motion>
+  <dialog chara="008">[It has something to do with Master.]</dialog>
+  <motion chara="008" action="img_trans" img="马非马-悲伤-标准-远景"></motion>
+  <bgm looptimes="0"></bgm>
+  <text>The Fifth Disciple of Taixuan stopped in her tracks.</text>
+  <motion chara="007" action="img_trans" img="凌霜-吃惊-标准-远景"></motion>
+  <dialog chara="007">[Oh?]</dialog>
+  <transition mode="fade" in="2" stop="0.5" out="3" color="#000000"></transition>
+  <event action="goto" to="25"></event>
+</scene>

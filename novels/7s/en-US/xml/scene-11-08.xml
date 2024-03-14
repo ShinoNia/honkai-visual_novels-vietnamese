@@ -1,0 +1,99 @@
+<scene id="08" prev="07" title="無上自在">
+  <transition mode="fade" in="0" stop="0.5" out="3" color="#000000"></transition>
+  <bgm id="仙灵岛（水灵笛）"></bgm>
+  <bg img="BGSky03"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>When it was still pitch black outside the window, Lingshuang had already woken up; </p>
+    <p>she always woke up at this time, neither too early nor too late.</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <bg img="凌霜小屋室内" duration="3"></bg>
+  <delay t="2.5"></delay>
+  <mono>
+    <p></p>
+    <p></p>
+    <p>After washing and changing clothes with a basin of clean water, </p>
+    <p>she sat cross-legged on the bed and silently recited Blade Swara. For two hours, she didn’t move.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Then she got up and swept the floor with a broomstick. After the house was cleaned up, </p>
+    <p>She went to the nearby small market to buy some pancakes and mutton; [\s]</p>
+    <p>If the water ran out, she'd have to go to the well to get a few buckets of water.</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <bg img="织机" duration="3"></bg>
+  <delay t="3"></delay>
+  <bg img="织机" duration="9" scale="1.5"></bg>
+  <mono>
+    <p></p>
+    <p>After breakfast, Lingshuang sat down by an old loom, weaving silk.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Once, she was able to knit a satisfactory silk in only one day; </p>
+    <p>After receiving Sushang, the progress was greatly slowed down. [\s]</p>
+    <p>Now it takes from four days to a week..</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <bg img="BGDesertWU" duration="3"></bg>
+  <delay t="3"></delay>
+  <mono>
+    <p></p>
+    <p></p>
+    <p>Li Sushang was often curious </p>
+    <p>about what she will do in her spare time and what techniques she will practice after she goes out.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>The two have been together for nearly ten years, </p>
+    <p>and she still didn't expect that as soon as she left, the master would hand over the time to an old-fashioned loom.</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <bg img="织机" duration="3" scale="1.5"></bg>
+  <delay t="3"></delay>
+  <bg img="织机" duration="13"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>In the beginning, weaving had nothing to do with martial arts.</p>
+    <p>It was just a cheap way to make a living.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>But in Lingshuang's eyes, all the ways are unified, was there no similarity between textiles and martial arts? </p>
+    <p>Secretly, textiles to Lingshuang have also become a means of tempering swordsmanship and honing martial skills.</p>
+  </mono>
+  <bg img="PureBlack"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>The Path of the Sword is all-encompassing, and the sword itself was nothing but something to rely on. </p>
+    <p></p>
+    <p>Standing, sitting, lying down, food, clothing, shelter and transportation… everywhere in life there is martial art. </p>
+    <p></p>
+    <p>Every gesture is martial arts, and being quiet is also practicing swords. This was "naturally natural."</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <bg img="心湖（4）太虚" duration="3"></bg>
+  <delay t="3"></delay>
+  <text>
+    <p>And Sushang's master, Empyrea Phoenix's fifth disciple, "Wandering Blade" Lingshuang——[\s]</p>
+    <p>People called her: The one with the Path, the embodiment of the Sword. </p>
+  </text>
+  <text>Celestial’s most talented disciple was undoubtedly the number one expert in martial arts today. Why had she stayed silent in the Northern Desert for many years?</text>
+  <text>There are very few people who know, only the same people from the past, but they have made up their minds and would never say a word.</text>
+  <text>
+    <p>As for Lingshuang, she just chanted Blade Swara day after day, spinning silk. [\s]</p>
+    <p>No one knows where she came from, and no one knows where she went.</p>
+  </text>
+  <bgm id="仙灵岛（水灵笛）" looptimes="0"></bgm>
+  <se id="02-02马奔跑（沙漠）"></se>
+  <bg img="BGSky00" duration="1"></bg>
+  <text>
+    <p>…In this way, on the eighth day when Li Sushang went out for her Sword Trial, [\s]</p>
+    <p>Lingshuang sat in front of the loom and suddenly heard the sound of a horse's hooves in the distance.</p>
+  </text>
+  <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="09"></event>
+</scene>

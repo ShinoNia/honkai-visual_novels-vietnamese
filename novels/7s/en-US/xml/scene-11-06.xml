@@ -1,0 +1,96 @@
+<scene id="06" prev="04" title="データの海">
+  <transition mode="fade" in="0" stop="0.5" out="3" color="#000000"></transition>
+  <bgm id="久远时光中"></bgm>
+  <bg img="BGNeuron03" duration="3"></bg>
+  <delay t="2"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p>The tide rises, the tide falls. [\s]The tide rises, the tide falls. [\s]</p>
+    <p>The tide rises, the tide falls. [\s]The tide rises, the tide falls. </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Before the eyes, is a boundless library of knowledge. [\s]</p>
+    <p>The vast information contained within, cannot be comprehended by mere mortals. </p>
+  </mono>
+  <transition mode="eye" in="2" stop="0.5" out="2" color="#000000"></transition>
+  <delay t="1.5"></delay>
+  <mono>
+    <p></p>
+    <p>The tide rises, the tide falls. </p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>Waves of information brushed against the man’s consciousness, again and again, again and again. [\s]</p>
+    <p>He tried his best to remain clear-headed. </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Within the sea, limitless amounts of information floated and sank. </p>
+    <p>What the man could grasp, were but mere planktons. </p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>And among the information obtained by hand, there was very little usable; [\s]</p>
+    <p></p>
+    <p>If he didn’t meticulously and carefully pick the right data, </p>
+    <p>how was it different from a fool to sit on infinite knowledge?</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>And so he continued to search. </p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>In a place that tends to be unknown, the opponent he once defeated, the deity of "Void Archives,” still covets his physical body.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>Infinite knowledge was its bait, and generous gifts are its weapons. </p>
+    <p>The man knew that "it" was waiting, waiting for his guard to slip.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>But he was still searching.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>The search will not stop. </p>
+    <p>All this was to save that person——</p>
+    <p>For this, does hard work mean anything? [\s]</p>
+    <p>Does danger mean anything? [\s]</p>
+    <p>Does time mean anything?</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Eternity… Does it mean anything?</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>The tide rises, the tide falls. [\s]The tide rises, the tide falls. [\s]</p>
+    <p>The tide rises, the tide falls. [\s]The tide rises, the tide falls. </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>The will of the man never wavered.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>The tide rises——</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>He was still searching.</p>
+  </mono>
+  <transition mode="eye" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="07"></event>
+</scene>

@@ -1,0 +1,167 @@
+<scene id="13" type="block" prev="12" title="天•地•螺旋2">
+  <cg img="CG_通用_李素裳战斗-1" duration="1"></cg>
+  <text>She raised her hands, placing them in the formation of the starting strike of Edge of Taixuan’s [Opening Form · Onslaught].</text>
+  <bgm id="太鼓乱舞（战斗）"></bgm>
+  <dialog chara="008">[Heh].</dialog>
+  <text>Ma Feima scoffed, either in joy or disgust:</text>
+  <dialog chara="008">[Come then!]</dialog>
+  <cg img="氛围_通用_烟雾" duration="1" scale="1"></cg>
+  <se id="01-30女孩轻功whoosh_02"></se>
+  <text>His form disappeared even before he finished his sentence.</text>
+  <text>No, it wasn’t gone, just so fast to the point that not even the eye could detect it.</text>
+  <text>There was only the sudden breeze, the vibrating air, and the impending killing intent that indicated his presence.</text>
+  <motion chara="-4" action="shake" duration="0.1" range="400" direction="horizontal"></motion>
+  <cg img="CG_第二折_马非马战斗"></cg>
+  <bg img="轩辕VS掌4" duration="2" pos="200,0" scale="1.5"></bg>
+  <se id="01-24-1男空中旋转"></se>
+  <text>In an instant, Ma Feima appeared in front of the Raksha and Sushang. He pushed his palm outward, a strike so ordinary but was one of the opening strikes of the Edge of Taixuan —</text>
+  <text>Wrath Form · Roiling Gale!</text>
+  <mono>
+    <p></p>
+    <p>If it were the Sushang from three days ago, she may not have reacted in time. </p>
+  </mono>
+  <mono pageend="true">However, she has since improved a lot.</mono>
+  <mono pageend="true">
+    <p></p>
+    <p>A mirrored heart, illuminates all.</p>
+    <p></p>
+    <p>Ma Feima’s actions fell into her mirrored heart, shimmering and shaking, and all of sudden, they slowed down. </p>
+    <p></p>
+    <p>In the split second of emptiness, she could not only detect his moves, but also formulate the most optimal counterattack.</p>
+  </mono>
+  <cg></cg>
+  <bg img="刀光与剑影"></bg>
+  <se id="01-22女孩轻功whoosh_01"></se>
+  <mono>
+    <p></p>
+    <p>Without a second thought, Sushang struck with her right hand. </p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <bg img="轩辕VS掌1"></bg>
+  <motion chara="-4" action="shake" duration="0.2" range="400" direction="vertical"></motion>
+  <delay t="0.1"></delay>
+  <bg img="轩辕VS掌1" scale="1.5" duration="3"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>The cloth bag with the Xuanyuan sword bounced into the air, </p>
+    <p></p>
+    <p>twisting until it faced the man’s incoming palm.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>[em italic]Stop your attack![/em]</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>That’s what Li Sushang hoped.</p>
+  </mono>
+  <event action="hide_ui"></event>
+  <bg img="轩辕VS掌1" duration="10" pos="-300,0" scale="1.5"></bg>
+  <event action="show_ui"></event>
+  <text>If not, then this legendary armament will surely slice his hand in half.</text>
+  <event action="hide_ui" duration="1"></event>
+  <bg img="轩辕VS掌1" duration="0.5" scale="1"></bg>
+  <delay t="1"></delay>
+  <text>
+    <p>However, the man’s strike didn’t slow a single bit. </p>
+    <p>It was as if he wasn’t facing a legendary weapon, but a bamboo stick.</p>
+  </text>
+  <dialog chara="008">
+    <p>[Remember, the Wrath Form and Switch Form are alike. </p>
+    <p>You are the one striking, not your sword, so do not be so insistent on the form!]</p>
+  </dialog>
+  <bg img="轩辕VS掌2" duration="3" reset="true"></bg>
+  <text inline="true">The man lifted his pinky and stopped the Xuanyuan. </text>
+  <event action="hide_ui" duration="1.5"></event>
+  <bg img="轩辕VS掌3-1"></bg>
+  <se id="01-55手指弹剑"></se>
+  <delay t="0.5"></delay>
+  <bg img="轩辕VS掌3-2"></bg>
+  <delay t="0.5"></delay>
+  <bg img="轩辕VS掌3-3"></bg>
+  <se id="01-32铁剑掷出"></se>
+  <delay t="0.5"></delay>
+  <text>With three fingers, he deflected the blade behind him.</text>
+  <motion chara="097" action="show" pos="center" img="李素裳-特写-惊讶"></motion>
+  <text>[em italic color=#FAFAD2](Switch Form [Selene’s Heron]... how is that possible?)[/em]</text>
+  <text>How was it so fast and precise….</text>
+  <text>How was it possible to use it like that…?</text>
+  <motion chara="008" action="show" pos="center" img="马非马-头像-严肃"></motion>
+  <dialog chara="008">[Learn and adapt! Why are you still on Opening Form? Too slow!]</dialog>
+  <motion chara="008" action="hide" duration="0"></motion>
+  <motion chara="097" action="hide" duration="0"></motion>
+  <event action="hide_ui"></event>
+  <bg img="轩辕VS掌4"></bg>
+  <motion chara="-4" action="shake" duration="0.2" range="400" direction="horizontal"></motion>
+  <delay t="0.5"></delay>
+  <event action="show_ui"></event>
+  <text>In an instant, that hand became a palm strike once again, flying towards her!</text>
+  <text>The girl raised her arm to guard, but it was too late.</text>
+  <event action="hide_ui"></event>
+  <se id="01-28胸口命中"></se>
+  <cg img="CG_第二折_马非马战斗"></cg>
+  <motion chara="-4" action="shake" duration="0.2" range="400" direction="default"></motion>
+  <delay t="1"></delay>
+  <bg img="BGBlood1"></bg>
+  <cg></cg>
+  <delay t="1"></delay>
+  <event action="show_ui"></event>
+  <dialog chara="002">[Hngh—!]</dialog>
+  <text>A force, both soft and hard, struck her. She opened her mouth, the air around her compressing into a sonic wave propelling her backwards.</text>
+  <text>That strike was still Wrath Form — [Roiling Gale]!</text>
+  <transition mode="halo" in="2" stop="0.5" out="2" color="#ff0000"></transition>
+  <bg img="BGDesert03"></bg>
+  <se id="01-34男沙地重摔"></se>
+  <text>Her young body slammed to the sand, and even though the soft ground had absorbed the brunt of the impact, Sushang still let out a tiny cry.</text>
+  <event action="hide_ui"></event>
+  <motion chara="002" action="show" pos="center" img="素裳-战损-虚弱-空手-中景" duration="4"></motion>
+  <delay t="4"></delay>
+  <event action="show_ui"></event>
+  <text>Blood flowed out of her orifices, and her head was spinning — The place that he struck her wasn’t hurting, but she was in no condition to fight any longer.</text>
+  <mono pageend="true">
+    <p></p>
+    <p>To turn strength into weakness by using the object of highest defense against their opponent.</p>
+    <p></p>
+    <p>— Edge of Taixuan, Wrath Form [Roiling Gale] , it was a strange strike that used Ki to induce a strong vibration.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>Having taken the full force of the blast, Sushang’s body wasn’t harmed, but her insides were scrambled. </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>The brunt of the damage was in her brain, where Sushang could still feel the vibrations.</p>
+  </mono>
+  <dialog chara="002">[Ah… Ahhhh]</dialog>
+  <event action="hide_ui"></event>
+  <motion action="move" chara="002" img="素裳-战损-虚弱-单手-近景" duration="7" pos="0,300"></motion>
+  <motion chara="002" action="shake" duration="2" range="2" direction="horizontal"></motion>
+  <motion chara="002" action="shake" duration="0.4" range="3" direction="horizontal" delay="2" looptimes="-1"></motion>
+  <motion chara="002" action="shake" range="2.5" direction="default" duration="2" delay="3"></motion>
+  <delay t="5"></delay>
+  <motion chara="002" action="shake" direction="default" looptimes="0"></motion>
+  <event action="show_ui"></event>
+  <text>Sushang tried to stand but felt the world spinning.</text>
+  <motion chara="002" action="hide"></motion>
+  <transition mode="eye" in="3" stop="0.5" out="3" color="#000000"></transition>
+  <delay t="1"></delay>
+  <cg img="天地螺旋"></cg>
+  <text>The sky and the Earth, and the blue and the yellow all converged into a swirl.</text>
+  <text>Swirl —</text>
+  <bg img="BGBlood1"></bg>
+  <cg></cg>
+  <text>Thud.</text>
+  <text>The girl kneeled on the ground, blood flowing out of her eyes, blurring her vision.</text>
+  <text>She tried to look in front of her, </text>
+  <transition mode="eye" in="0.5" stop="0.3" out="0.5" color="#000000"></transition>
+  <bg img="奥托的眼睛1"></bg>
+  <delay t="1.5"></delay>
+  <bg img="奥托的眼睛2" duration="5"></bg>
+  <delay t="5"></delay>
+  <text>
+    <p>but inside the twisted world, </p>
+    <p>the only thing she caught were those emerald eyes of the Raksha.</p>
+  </text>
+  <transition mode="fade" in="2" stop="1.5" out="0" color="#000000"></transition>
+  <event action="goto" to="14"></event>
+</scene>

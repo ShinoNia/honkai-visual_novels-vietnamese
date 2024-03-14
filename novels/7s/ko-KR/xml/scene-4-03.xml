@@ -1,0 +1,225 @@
+<scene id="03" type="block" prev="02" title="戦闘1">
+  <transition mode="fade" in="0" stop="0.5" out="2" color="#000000"></transition>
+  <bgm id="竹林伏兵"></bgm>
+  <bg img="BGDesert00"></bg>
+  <text>(하나,)</text>
+  <se id="01-18男性沙漠疾行_01"></se>
+  <event action="hide_ui" duration="2"></event>
+  <motion chara="099" action="show" pos="right" img="山贼3号远景" duration="3"></motion>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <text>소녀는 마음속으로 적들을 센다.</text>
+  <text>(둘,)</text>
+  <event action="hide_ui" duration="2"></event>
+  <se id="01-19男性沙漠疾行_02"></se>
+  <motion chara="095" action="show" pos="left" img="砂匪2-远-微笑" duration="3" reversex="true"></motion>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <text>
+    <p>두 거한이 좌측으로 접근하고 있다.</p>
+    <p>그중 한 명은, 일찍이 소녀를 발견하고, 모두에게 경고한 남자다.</p>
+  </text>
+  <text>
+    <p>그는 검을 손에 쥐고, 기쁜 표정을 짓고 있었다.</p>
+    <p>마치 함정에 빠진 사냥감을 보는 사냥꾼처럼, 죽음을 알리는 미소였다.</p>
+  </text>
+  <text>하지만, 소녀는 움직이지 않았다.</text>
+  <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="left" custom="thick"></transition>
+  <motion chara="099" action="hide"></motion>
+  <motion chara="095" action="hide"></motion>
+  <text>그녀는 시야를 옆으로 옮겼다.</text>
+  <text>(셋,)</text>
+  <event action="hide_ui" duration="2"></event>
+  <se id="01-19男性沙漠疾行_03"></se>
+  <motion chara="099" action="show" pos="right" duration="3" img="山贼4号中景"></motion>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <text>
+    <p>우측 뒤에 있는 거한은 소녀의 시야에 들어오지 않는 곳에 있다.</p>
+    <p>그는 경고를 듣고 달려왔다.</p>
+  </text>
+  <text>(넷,)</text>
+  <event action="hide_ui" duration="2"></event>
+  <motion chara="094" action="show" pos="-200,0" duration="3" img="砂匪1-近-坏笑" reversex="true"></motion>
+  <delay t="2"></delay>
+  <event action="show_ui"></event>
+  <text>소녀와 가장 가까운 도적과의 거리는 고작 다섯 보 정도밖에 안되었다.</text>
+  <text>그는 손에 큰 칼을 든, 근육질의 장정이다. 네 명 중, 그는 가장 연장자였고, 실력도 가장 뛰어났다.</text>
+  <motion chara="099" action="hide"></motion>
+  <motion chara="094" action="hide"></motion>
+  <transition mode="move" in="0.3" stop="0.5" out="0.5" color="#000000" direction="right" custom="default"></transition>
+  <bg img="BGDesert01"></bg>
+  <motion chara="002" action="show" pos="center" img="素裳-专注-持剑-远景"></motion>
+  <text>……소녀는 오직 사부만을 상대해 왔기에, 실전 경험이 없었다.</text>
+  <text>실전 경험이 있었다면, 아무리 자신이 무공의 고수라고 해도, 다수의 적을 상대하는 상황은 피하려 했을 것이다.</text>
+  <text>홀로 잘 훈련된 도적 네 명을 상대하는 건, 죽음을 재촉하는 행위나 다름 없었다.</text>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-持剑-远景"></motion>
+  <text>안타깝게도, 소녀는 이런 『상식』을 알지 못했고, 그녀의 무정한 사부 또한 마찬가지였다.</text>
+  <text>그렇기에 그녀는 두려워하기는커녕, 오히려 즐거움을 감추지 못했다.</text>
+  <bgm looptimes="0"></bgm>
+  <motion chara="002" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bgm id="传奇诞生"></bgm>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>——도적들과 그녀 사이의 거리는 겨우 다섯 걸음.</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <transition mode="fade" in="0.1" stop="0.1" out="0.1" color="#FFFFFF"></transition>
+  <se id="01-20拿出轩辕剑"></se>
+  <motion chara="-4" action="shake" duration="0.2" range="20" direction="horizontal"></motion>
+  <motion chara="002" action="show" img="素裳-浅笑-背剑-远景" duration="0.6" pos="center"></motion>
+  <delay t="0.2"></delay>
+  <event action="show_ui"></event>
+  <mono inline="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>소녀가 고대 검 『헌원(軒轅)』을 감싸던 천을 걷어내고 이를 역수로 쥐었다.</p>
+  </mono>
+  <motion chara="002" action="hide"></motion>
+  <cg scale="2.7" origin="75%,10%" img="CG_通用_李素裳战斗-1"></cg>
+  <delay t="0.1"></delay>
+  <cg img="CG_通用_李素裳战斗-1" scale="2.7" origin="75%,10%" duration="5" pos="260,0"></cg>
+  <delay t="3"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>검을 쥔 손에서 느껴지는 감각, 이는 그녀의 마음을 무엇보다도 평온하게 만들어준다.</p>
+  </mono>
+  <delay t="0.1"></delay>
+  <event action="hide_ui" duration="1"></event>
+  <cg pos="260,0" scale="2.7" origin="75%,10%" img="CG_通用_李素裳战斗-2" duration="1"></cg>
+  <delay t="1"></delay>
+  <event action="show_ui"></event>
+  <mono pageend="true">
+    <p>그리고 이후에 일어날 일은,</p>
+    <p></p>
+    <p>아마 다음과 같을 것이다.</p>
+  </mono>
+  <transition mode="move" in="0.2" stop="1" out="1" color="#000000" direction="right" custom="default"></transition>
+  <cg></cg>
+  <bg img="PureBlack"></bg>
+  <se id="01-22女孩轻功whoosh_01"></se>
+  <motion chara="-5" action="show" pos="center" img="速度线左右1"></motion>
+  <mono pageend="true">
+    <p></p>
+    <p>소녀가 날아갈 듯한 몸놀림으로 뛰어오른다.</p>
+  </mono>
+  <motion chara="-5" action="hide"></motion>
+  <delay t="0.1"></delay>
+  <transition mode="dissolve" in="0.1" stop="0.1" out="0.1" color="#000000"></transition>
+  <bg img="BGBlood1"></bg>
+  <se id="01-02大剑命中"></se>
+  <motion chara="-4" action="shake" duration="0.1" range="60" direction="default"></motion>
+  <delay t="0.1"></delay>
+  <mono>
+    <p></p>
+    <p>착지한 순간, 검은 이미 거한의 가슴에 꽂혀있다.</p>
+  </mono>
+  <mono inline="true">
+    <p></p>
+    <p></p>
+    <p>검을 뽑고, 몸을 돌린다——너무 빠른 속도라, 피가 흘러나올 여유조차 없다.</p>
+  </mono>
+  <se id="01-02大剑命中"></se>
+  <motion chara="-4" action="shake" duration="0.1" range="60" direction="vertical"></motion>
+  <delay t="0.1"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>곧바로 다음 상대를 향해 검을 찔러 넣는다, 흉악한 웃음을 짓던 남자의 표정은 굳어가기 시작한다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>그렇게, 네 명의 적은 이제 두 명이 되었다—— 너무 쉽다.</p>
+  </mono>
+  <transition mode="dissolve" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <motion chara="002" action="show" pos="center" img="素裳-标准-持剑-远景"></motion>
+  <transition mode="fade" in="0" stop="0.5" out="1" color="#000000"></transition>
+  <text>……소녀는 찰나에 이런 각본을 구상하였다.</text>
+  <text>
+    <p>그녀의 무공과, 고대 검 헌원이라면——</p>
+    <p>——이 환상을 현실로 만드는 건, 어려운 일이 아니었다.</p>
+  </text>
+  <bgm looptimes="0"></bgm>
+  <motion chara="002" action="hide"></motion>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>——도적들이 네 걸음 안으로 들어왔다.</p>
+  </mono>
+  <motion chara="002" action="show" pos="center" img="素裳-专注-持剑-远景"></motion>
+  <text>하지만 소녀는 아무런 행동도 취하지 않았다.</text>
+  <text>……그럴 가치가 없었기에.</text>
+  <motion chara="002" action="hide"></motion>
+  <se id="01-21轩辕剑氛围声" looptimes="-1"></se>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <text inline="true">고대 검 헌원(軒轅)은—— 이런 자들을 상대하기 위한 무기가 아니다.</text>
+  <text>
+    <p></p>
+    <p>눈앞의 네 명은, 이 보검의 진면목을 볼 가치가 없다.</p>
+  </text>
+  <cg img="氛围_通用_轩辕剑"></cg>
+  <text>
+    <p>이 검은 고대의 선인들이 종횡하던 시대부터 이어진, 천만 년의 시대를 겪은 검.</p>
+    <p>이것의 주인은 무림전설, 유일한 진선(眞仙), 신주의 수호자 『정위진인(精衛眞人)』이다.</p>
+  </text>
+  <remark>
+    <p></p>
+    <p>역자 주:</p>
+    <p></p>
+    <p>동해(東海): 둥하이, 동중국해(東中國海)를 의미한다.</p>
+  </remark>
+  <text>
+    <p>29년 전, 정위진인은 동해(東海)에서 한 고아 소녀를 제자로 받아들여, 검을 가르쳤다.[\s]</p>
+    <p>태허 제7검 진소의와 『묵염향(墨染香)』이란 이름이, 강호를 뒤흔들었다.</p>
+  </text>
+  <text>
+    <p>정위진인이 우화등선(羽化登仙)한 후, 진소의는 은거하여 삼십 년이 흐르니, 그 명성은 예전만 못하였다.</p>
+    <p>그녀와 『천공자』 이신과의 낭만적인 사랑 이야기만이, 미담으로 전해졌을 뿐이다.</p>
+  </text>
+  <text>
+    <p>십 년 전, 일찍이 강호를 떠났던 어머니는 『묵염향』을 어린 소상에게 물려주었다,[\s]</p>
+    <p>태허오온(太虚五蘊)에 더욱 정진하여, 『천하제일』을 이루라는 기대와 함께.</p>
+  </text>
+  <text inline="true">이것은 바로 천하무쌍의 신이 내린 무기, 그 칼끝은 강자만을 향한다.</text>
+  <text>
+    <p></p>
+    <p>어찌 이 눈앞의 녹록한 무리들의 피로, 이 검의 위광을 더럽힐 수 있겠는가?</p>
+  </text>
+  <se looptimes="0" id="01-21轩辕剑氛围声"></se>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>——도적들이 세 걸음 안으로 들어왔다.</p>
+  </mono>
+  <bgm id="传奇诞生"></bgm>
+  <motion chara="002" action="show" pos="center" img="素裳-专注-持剑-远景"></motion>
+  <text>조금의 거만함과 만족감이 소녀의 가슴을 가득 채웠다.</text>
+  <motion chara="002" action="img_trans" img="素裳-算计-持剑-远景"></motion>
+  <text>하, 이정도 녀석들로는——</text>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>——두 걸음.</p>
+  </mono>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-持剑-远景"></motion>
+  <text>——『시검(試劍)』할 가치도 없다!</text>
+  <motion chara="002" action="hide"></motion>
+  <event action="goto" to="04"></event>
+</scene>

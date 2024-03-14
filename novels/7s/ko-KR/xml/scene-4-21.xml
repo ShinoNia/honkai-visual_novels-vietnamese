@@ -1,0 +1,199 @@
+<scene id="21" prev="20" title="黒淵白花">
+  <transition mode="eye" in="0" stop="0.5" out="3" color="#000000"></transition>
+  <cg img="CG_第一折_黑渊白花1"></cg>
+  <bg img="BGSky03"></bg>
+  <bgm id="红颜近落霞（慢哀）"></bgm>
+  <text>
+    <p>피로와 고통이 밀물처럼 밀려온다. 이는 소녀에게 아직 신체의 통제권이 자신에게 있다는 것을 알려주는 듯하였다.[\s]</p>
+    <p>……단지, 알려주는 방식이 너무나도 가혹했을 뿐.</p>
+  </text>
+  <dialog chara="002">「아파……」</dialog>
+  <mono>
+    <p></p>
+    <p>입안은 피비린내로 가득하고, 괴로움은 소녀로 하여금 인생에 대한 회의감을 느끼게 한다.[\s]</p>
+    <p></p>
+    <p>내장이 파열된 건 아니겠지?</p>
+    <p>……검에 베인 허리가 이에 답하듯 갑자기 통각 신호를 보내왔다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>무술 수련에 부상은 언제나 함께하는 것이지만,</p>
+    <p>이렇게나 심하게 다친 건, 소녀에겐 처음이었다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>[em italic color=#FAFAD2]이게 바로 승리의 맛이려나……</p>
+    <p>승리의 맛은 정말 씁쓸하네.[/em][\s]</p>
+    <p></p>
+    <p>이소상은 터무니없는 생각을 하며, 피식 웃었다.</p>
+    <p>그리고 다시 고통으로 인해 얼굴을 찡그렸다.</p>
+  </mono>
+  <dialog chara="002">「아, 나찰인…… 거기 계신가요?」</dialog>
+  <text>소녀는 간신히 소리를 높여, 하늘에 뜬 달을 향해 물었다.</text>
+  <se id="01-68奥托脚步声"></se>
+  <text>
+    <p>대답은 없고, 발소리만이 들렸다.[\s]</p>
+    <p>터벅, 터벅.[\s]</p>
+    <p>멀리서부터 누군가가 걸어왔다.</p>
+  </text>
+  <dialog chara="002">「헤헤…… 당신이죠, 맞죠?」</dialog>
+  <se looptimes="0"></se>
+  <text>
+    <p>이소상이 물었다.</p>
+    <p>그녀의 목소리는 너무나도 연약했고, 귀 근처엔 부스럭거리는 소리가 나는 탓에, 그녀 자신조차도 듣기 어려웠다.</p>
+  </text>
+  <dialog chara="002">「당신이 절 도와준 건가요?」</dialog>
+  <dialog chara="001">「말하지 마라.」</dialog>
+  <event action="hide_ui" duration="2"></event>
+  <cg img="CG_第一折_黑渊白花空手" duration="2"></cg>
+  <delay t="2"></delay>
+  <text>금발 녹안의 나찰인은 그녀의 곁에서 한쪽 무릎을 꿇더니,</text>
+  <dialog chara="001">「……운이 좋군, 심한 상처가 아니다.」</dialog>
+  <text>
+    <p>[em italic color=#FAFAD2]이게 안 심해?[/em]</p>
+    <p>이소상은 되묻고 싶었지만, 마음속에 묻어두었다.</p>
+  </text>
+  <text>그녀는 가만히 누운 채, 잘생긴 나찰인을 슬쩍 보며, 또 그가 또 무슨 요술을 부릴지 궁금해했다.</text>
+  <event action="hide_ui" duration="3.1"></event>
+  <se id="01-69黑渊白花效果音"></se>
+  <cg img="CG_第一折_黑渊白花空手特效" duration="3"></cg>
+  <delay t="3"></delay>
+  <text>그녀의 예상대로, 나찰인이 손을 펴자, 약간의 금색 빛과 푸른색의 빛이 흘러나오더니, 이상한 물건이 만들어졌다.</text>
+  <event action="hide_ui" duration="3"></event>
+  <cg img="CG_第一折_黑渊白花4" duration="3"></cg>
+  <delay t="3"></delay>
+  <text>
+    <p>소상의 눈에는, 묘한 무늬가 그려진 흰색 종이 양산처럼 보였다.</p>
+    <p>그 양산은 길쭉했다. 그것의 머리 부분은 원뿔모양으로, 매우 예리했다.</p>
+  </text>
+  <se looptimes="0"></se>
+  <dialog chara="002">「그걸로 절 찌르시는 겁니까?」</dialog>
+  <dialog chara="001">「말하지 마라.」</dialog>
+  <text>나찰인이 거듭 말했다.</text>
+  <cg img="CG_第一折_黑渊白花6"></cg>
+  <text>풀어진 장발이 그의 눈을 가렸고, 소상은 땀인지 눈물인지 모를 물방울이 그의 얼굴에서 떨어지는 것을 보았다.[\s] 나찰인은 양산의 검은 손잡이를 잡고, 그 끝으로 소상의 상처를 누르더니, 고개를 돌려 그녀에게 말했다.</text>
+  <dialog chara="001">
+    <p>「아프지 않다, 하지만 이상한 느낌이 들 수 있다……</p>
+    <p>어쩌면 시릴 수도 있고, 저릴 수도 있다, 참을 수 있나?」</p>
+  </dialog>
+  <text>소상은 고개를 끄덕이려 했지만, 상처를 건드려 극심한 통증이 느껴졌다. 이에 그녀는 눈을 깜빡이기만 했다.</text>
+  <dialog chara="002">「……당신을 믿습니다.」</dialog>
+  <text>그녀는 자신이 이런 말을 했는지 안 했는지 기억도 못 했다.</text>
+  <event action="hide_ui" duration="2"></event>
+  <cg duration="2" img="CG_第一折_黑渊白花5"></cg>
+  <delay t="2"></delay>
+  <text>양산의 끝이 닿은 곳부터, 꿈틀대던 고통이 조금씩 사라졌다.[\s] 검심을 통해 그를 바라보니, 소상은 나찰인이 계속해서 양산에 진기를 불어넣고 있다는 걸 알아차렸다.</text>
+  <text>하지만 진기의 소모가 막심한지, 그의 얼굴에 땀이 비 오듯 흘렀다.</text>
+  <text>
+    <p>[em italic color=#FAFAD2]금발인 나찰인은, 흘리는 땀도 금색일까?[/em]</p>
+    <p>이런저런 생각을 하는 사이, 소상의 마음속은 3할의 부끄러움, 3할의 기쁨, 3할의 수줍음으로 차올라있었다. 나머지 1할은 나찰인을 향한 미안함이었다.</p>
+  </text>
+  <dialog chara="001">「의태한 것은, 성능이 너무 차이 나는군……」</dialog>
+  <text>나찰인이 혼잣말을 하였다,</text>
+  <dialog chara="001">「시간이 좀 걸린다.」</dialog>
+  <dialog chara="002">「네.」</dialog>
+  <text>나찰인이 더 이상 말을 하지 않자, 소상도 입을 닫았다.</text>
+  <bgm looptimes="0"></bgm>
+  <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <bg img="BGSky03"></bg>
+  <mono>
+    <p></p>
+    <p></p>
+    <p>밤바람이 가볍게 지나가며, 나찰인의 금색 장발을 흔들었다.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>머리털이 얼굴을 훑어, 약간의 간지러움이 느껴졌다.</p>
+    <p>이소상은 이를 말할까 싶었지만, 그러지 않기로 했다.</p>
+  </mono>
+  <bg img="PureBlack"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>그녀는 가만히 눈을 감았다.[\s]</p>
+    <p></p>
+    <p>나찰인이 말한 대로, 그녀는 신체 곳곳에 시림과 저림이 느껴졌다. 이상한 느낌이었지만, 참을만했다.</p>
+  </mono>
+  <bgm id="侠女之声（女抒情）"></bgm>
+  <dialog chara="002">「아~」</dialog>
+  <text>이소상은 우여곡절로 가득했던 하루를 회상했다.</text>
+  <cg img="氛围_第一折_金沙帮众" duration="1"></cg>
+  <bg img="BGSky03"></bg>
+  <text>네명의 도적을 격퇴하고, 이어서 죄수 체험도 해보고,</text>
+  <cg img="CG_第一折_鹰李对峙_鹰惊李伸手" duration="1"></cg>
+  <text>「노응」이라는 호를 가진 남자와 강호의 비무를 해, 힘겹게 겨우 이기고,</text>
+  <cg duration="1" img="CG_第一折_抢剑_鹰李"></cg>
+  <text>
+    금사방 두목에게 중상을 입혔지만, 자신도 크게 다치고 말았다.</text>
+  <cg img="CG_第一折_黑渊白花6"></cg>
+  <text>그리고 기이한 외국인을 만나, 요술로 자신을 치료하는 걸 지켜보고 있다.</text>
+  <cg></cg>
+  <text>[em italic color=#FAFAD2]정말 긴 하루였어……[/em]</text>
+  <text>
+    <p>생사의 경계를 넘어, 소녀는 마치 하늘이 갈라진 틈을 넘은 듯,</p>
+    <p>오늘 아침의 자신을 떠올리며, 격세지감을 느꼈다.</p>
+  </text>
+  <text>
+    <p>만족과 공허함, 기쁨과 슬픔.</p>
+    <p>알 수 없는 감정들이 뒤섞여, 소상의 마음속을 흔들었다.</p>
+  </text>
+  <text>
+    <p>알게 모르게, 통증이 점점 사라져갔다.[\s]</p>
+    <p>성장했다는 작은 자부심이 소녀의 가슴을 가득 채워간다.</p>
+  </text>
+  <dialog chara="002">「아, 당신…… 신주의 규율을 모르면, 나중에 불편한 일을 당할 수도 있습니다.」</dialog>
+  <text>이소상은 하늘 위로 떠있는 은월을 바라보며, 부드럽게 말했다.</text>
+  <dialog chara="002">「두 사람이 비무를 하고 있을 때는, 외부인이 방해해선 안됩니다.[\s] 방금 구경꾼이 있었다면, 당신을 강호의 도리를 지키지 않는 외도(外道)라고 비난했겠죠. 당신은 외지인이니, 스스로를 곤란에 빠뜨리지 않으셨으면 합니다.」</dialog>
+  <dialog chara="001">「좋다, 끼어들지 않고, 네가 죽는 걸 지켜보겠다.」</dialog>
+  <dialog chara="002">「헤헤……」</dialog>
+  <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <event action="hide_ui" duration="2"></event>
+  <cg img="CG_第一折_黑渊白花6" duration="2"></cg>
+  <delay t="2"></delay>
+  <dialog chara="002">「감사합니다, 당신은 나쁜 나찰인이 아니군요, 다, 당신은 좋은 사람입니다.」</dialog>
+  <dialog chara="001">「하.」</dialog>
+  <text>나찰인은 고개도 돌리지 않고, 그녀의 상처를 치료하기 위해 계속해서 흰색 양산에 진기를 불어넣었다.</text>
+  <dialog chara="001">「감사할 필요 없다, 나도 네게 부탁할게 있으니.」</dialog>
+  <dialog chara="002">「네? 뭔가요?」</dialog>
+  <text>소녀는 호기심이 생겼다.</text>
+  <dialog chara="002">「말해보시죠, 제 목숨을 구해주셨으니, 무슨 일이건 소녀가 최선을 다해 보겠습니다.」</dialog>
+  <dialog chara="001">「아까 지하에서, 네 무공은 태허검기라 불리고, 정위선인의 독문절학이라 하였는데?」</dialog>
+  <text>나찰인은 아랑곳하지 않고 묻는다.</text>
+  <dialog chara="001">「그 선인은 대체 누구지? 왜 그녀를 선인이라 부르지?」</dialog>
+  <dialog chara="002">「그녀는 진정한 신선으로서 마음껏 묘법(妙法)을 부렸기 때문입니다. 듣기로 그녀는 불로불사로, 수천 년을 살았음에도, 여전히 소녀의 외양이라고 합니다.」</dialog>
+  <event action="hide_ui" duration="2.1"></event>
+  <cg img="CG_第一折_黑渊白花空手特效" duration="0.9"></cg>
+  <delay t="1"></delay>
+  <cg img="CG_第一折_黑渊白花空手" duration="0.9"></cg>
+  <text>나찰인이 정신을 가다듬자, 손에 있던 양산이 갑자기 사라졌다.</text>
+  <dialog chara="001">「어디 있는지 알고 있나?」</dialog>
+  <dialog chara="002">「저 말입니까? 모릅니다.」</dialog>
+  <text>이소상은 의기양양하게 입술을 삐죽 내민다.</text>
+  <dialog chara="002">「하지만 질문할 사람은 제대로 보셨습니다. 이 세상에서 선인의 행방을 아는 자가 있다면, 그건 분명 제 사부님일 겁니다.」</dialog>
+  <dialog chara="002">「알고 계십니까? 정위 진인께서는 오직 일곱의 제자만을 두셨는데, 사부와 제 어머니가 그 제자로……」</dialog>
+  <dialog chara="002">「앗, 그런데, 무슨 일로 선인을 뵈고 싶으신 겁니까?」</dialog>
+  <dialog chara="001">「……」</dialog>
+  <text>나찰인은 소상을 똑바로 쳐다보더니, 돌연 활짝 웃었다.</text>
+  <cg img="CG_第一折_黑渊白花空手笑"></cg>
+  <dialog chara="001">「생각해 보지.」</dialog>
+  <text>그도 깨닫지 못했지만, 서역을 떠나 신주대륙에 온 이래, 이렇게 편하고 자연스럽게 웃은 건 이번이 처음이었다.</text>
+  <text>이소상은 그의 과거도, 고통도 몰랐다, 그저 지금 즐겁게 웃고 있다는 것만 알았다.[\s] 갑자기 어떤 충동심이 그녀를 사로잡아, 그녀가 생각할 겨를도 없이 벌떡 일어나게 만들었다.</text>
+  <event action="hide_ui" duration="2"></event>
+  <bg img="废弃驿站"></bg>
+  <cg></cg>
+  <motion chara="002" action="show" pos="right" img="素裳-龇牙-普通-中景" duration="1"></motion>
+  <motion chara="001" action="show" pos="left" img="奥托-微笑释然-标准-中景" duration="1"></motion>
+  <delay t="1.5"></delay>
+  <dialog chara="002">「그럼 저와 함께 가시지요! 함께 돌아가 사부님을 뵈면, 당신이 선인을 뵐 수 있도록 사부님께 청해보도록 하겠습니다.」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-笑容释然-标准-中景"></motion>
+  <event action="achievement" aid="0587835ecd47f23d"></event>
+  <notification>전기 갱신: 「나찰인」</notification>
+  <motion chara="001" action="hide" duration="3"></motion>
+  <motion chara="002" action="hide" duration="3"></motion>
+  <transition mode="fade" in="3" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="Chapter01end"></bg>
+  <delay t="4"></delay>
+  <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="22"></event>
+</scene>

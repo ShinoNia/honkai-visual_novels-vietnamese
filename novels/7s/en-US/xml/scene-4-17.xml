@@ -1,0 +1,153 @@
+<scene id="17" prev="16" title="破綻">
+  <transition mode="fade" in="0" stop="0.5" out="1" color="#000000"></transition>
+  <bgm id="火燃"></bgm>
+  <cg img="CG_第一折_老鹰战姿_拳血"></cg>
+  <bg img="PureBlack"></bg>
+  <text>
+    <p>"Eagle" was also looking for an opportunity, </p>
+    <p>He intends to take the initiative to expose openings.</p>
+  </text>
+  <cg></cg>
+  <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="right" custom="default"></transition>
+  <bg img="BGSky03"></bg>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="096" action="show" pos="center" img="老鹰-特写-微笑（带血）" duration="1"></motion>
+  <delay t="1"></delay>
+  <text>The openings were also easy to find, just on his own cheeks.</text>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="097" action="show" pos="center" img="李素裳-特写-睁眼" duration="1"></motion>
+  <delay t="1"></delay>
+  <text>
+    <p>"Eagle" had already figured out the girl's temperament, </p>
+    <p>and if she didn't ask for that "slap", the girl's target of attack would never turn elsewhere.</p>
+  </text>
+  <text>
+    <p>If the enemy's intention was known, </p>
+    <p>the intention was no longer a life gate, but a life-saving talisman.</p>
+  </text>
+  <motion chara="096" action="hide"></motion>
+  <motion chara="097" action="hide"></motion>
+  <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
+  <cg img="CG_第一折_老鹰战姿_掌血"></cg>
+  <text>
+    <p>While attacking with full force, "Eagle" only needs to guard the top of the shoulder. </p>
+    <p>At the same time, he was struggling with life and death, but his pressure was much lighter than Li Sushang.</p>
+  </text>
+  <cg img="CG_第一折_老鹰战姿_拳血" duration="1"></cg>
+  <text>
+    <p>Of course, he didn't plan to fulfill any "gambling contract", </p>
+    <p>Xuanyuan would stay, and Li Sushang's life would be forfeit. [\s]</p>
+    <p>For this reason, what’s one more slap?</p>
+  </text>
+  <text>From the beginning, this was an unequal battle.</text>
+  <cg duration="1"></cg>
+  <bg img="PureBlack"></bg>
+  <delay t="1"></delay>
+  <text>
+    <p>"Eagle" did everything possible and exhausted his housekeeping skills. The purpose was not to injure the enemy, </p>
+    <p>but to get close to the place where the ancient sword [Xuanyuan] was located.</p>
+  </text>
+  <event action="hide_ui" duration="2"></event>
+  <cg img="CG_第一折_夺剑_SWORD" duration="2" pos="-100,250" scale="2"></cg>
+  <delay t="2"></delay>
+  <mono>
+    <p></p>
+    <p>As soon as the two sides fought, "Eagle" knew that this girl was young but her skills were appallingly deep.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>Not to mention strength and speed, but this was the skill of changing moves freely under Roaring Tiger, and it could be counted as a first-class player in the martial arts.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>For this alone, he was far from matching against her.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>If you continue to fight for a long time, you will undoubtedly lose.</p>
+    <p> ——If you follow the rules.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>"Eagle" wasn’t a person who obeys the rules. [\s]</p>
+    <p>What he wants is not to win, but to conquer.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p></p>
+    <p>This was the third advantage: "purpose." The same was "victory." </p>
+    <p></p>
+    <p>The "victory" of "Eagle" was completely different from the "victory" of Li Sushang.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>What the girl pursued was the victory of the "match." </p>
+    <p>What "Eagle" wants is the victory of the "war."</p>
+  </mono>
+  <mono pageend="true">
+    <p>"Victory of the war"... means getting what you want, destroying what you want to destroy. </p>
+    <p></p>
+    <p>Li Sushang obeyed the rules. </p>
+    <p>But "Eagle" uses rules. </p>
+    <p></p>
+    <p>Use the opponent's "target" to protect oneself, </p>
+    <p>use one’s own "flaws" to lure the enemy, </p>
+    <p>and then use that sharp "sword" to kill.</p>
+  </mono>
+  <event action="hide_ui" duration="2"></event>
+  <cg duration="1"></cg>
+  <bg img="废弃驿站" duration="2"></bg>
+  <motion chara="096" action="show" pos="0,-1080" duration="0" img="老鹰-特写-狞笑（带血）"></motion>
+  <delay t="1"></delay>
+  <motion chara="096" action="move" pos="0,0" duration="1"></motion>
+  <text>
+    <p>This was the trap set by "Eagle". [\s]</p>
+    <p>So far, every step has met his expectations,</p>
+  </text>
+  <text>The layout is perfect.</text>
+  <motion chara="096" action="hide" duration="0"></motion>
+  <event action="hide_ui" duration="1"></event>
+  <delay t="0.1"></delay>
+  <motion chara="-5" action="show" pos="center" img="竖劈-上下(透明) "></motion>
+  <se id="01-66战斗-拳打3"></se>
+  <motion chara="-5" action="show" pos="center" img="对战特效"></motion>
+  <motion chara="-5" action="show" pos="center" img="横劈-右左(透明) "></motion>
+  <motion chara="-5" action="show" pos="center" img="横劈-左右(爪痕，透明)"></motion>
+  <motion chara="-4" action="shake" duration="0.1" range="700" direction="default"></motion>
+  <delay t="0.6"></delay>
+  <motion chara="-5" action="hide"></motion>
+  <delay t="0.1"></delay>
+  <text>Sushang receded slowly, but from the lighter movements and expressions, he judged that the girl had become accustomed to her own boxing.</text>
+  <text>The scale of victory and defeat won’t always lean towards one side, and the weight that symbolizes superiority changes all the time.</text>
+  <text>The result of this battle must be determined within a few seconds.</text>
+  <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="left" custom="default"></transition>
+  <cg img="CG_第一折_夺剑_SWORD" pos="-100,250" scale="2"></cg>
+  <event action="hide_ui" duration="1.6"></event>
+  <se id="01-67战斗-拳打4"></se>
+  <motion chara="-4" action="shake" duration="0.1" range="600" direction="horizontal"></motion>
+  <delay t="0.8"></delay>
+  <se id="01-64战斗-拳打1"></se>
+  <motion chara="-4" action="shake" duration="0.1" range="699" direction="vertical"></motion>
+  <delay t="0.8"></delay>
+  <se id="01-66战斗-拳打3"></se>
+  <text>The tiger's roar never stopped.</text>
+  <bg img="PureBlack"></bg>
+  <cg img="CG_第一折_夺剑_SWORD" duration="0.5" pos="0,250" scale="2"></cg>
+  <delay t="0.5"></delay>
+  <text>He kept pushing, approaching the "Xuanyuan"...</text>
+  <cg duration="0.5" pos="-200,250" scale="2" img="CG_第一折_夺剑_SWORD"></cg>
+  <delay t="0.5"></delay>
+  <text>
+    <p>The sword was inserted on the bluestone ground beside him. [\s]</p>
+    <p>At his fingertips…</p>
+  </text>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg duration="1"></cg>
+  <motion chara="096" action="show" img="老鹰-特写-胜利（带血）" duration="1" pos="center"></motion>
+  <text>
+    <p>"Eagle" released his left hand. [\s]</p>
+    <p>The layout has been completed and the net is ready to be closed.</p>
+  </text>
+  <transition mode="fade" in="1" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="18"></event>
+</scene>

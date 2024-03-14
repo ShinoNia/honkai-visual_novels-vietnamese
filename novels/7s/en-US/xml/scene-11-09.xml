@@ -1,0 +1,216 @@
+<scene id="09" prev="08" title="旅の仲間">
+  <transition mode="move" stop="0.2" out="1.5" color="#000000" direction="right" custom="default" in="0"></transition>
+  <bgm id="清晨赶集（轻快）"></bgm>
+  <se id="01-36骆驼车队loop"></se>
+  <bg img="PureBlack"></bg>
+  <event action="hide_ui" duration="1.5"></event>
+  <cg img="CG_第二折_风中奇缘1"></cg>
+  <delay t="1.5"></delay>
+  <mono>
+    <p></p>
+    <p>The two best horses of the Golden Sand Gang pulled a cart along the desert. </p>
+    <p></p>
+    <p>Li Sushang leaned against the edge and began humming a tune in high spirits.</p>
+  </mono>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p>[Raksha! You should stop your sorceries. It’s very refreshing to feel the wind blow across your face every once in a while.]</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>The fast moving cart drew up a strong wind, leaving Sushang’s braids flowing through the air like two dark rivers. </p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>On the other side, the Raksha shielded himself with an invisible air barrier. [\s]</p>
+    <p>In the domain created by the relic [Void Archives], the man’s hair remained unmoved, as was his expression.</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘2" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono chara="001">[Are you not hot?] </mono>
+  <mono chara="002">
+    <p></p>
+    <p>[Yep! But that’s how deserts are.]</p>
+  </mono>
+  <mono chara="001">
+    <p></p>
+    <p>[...Mhm.]</p>
+  </mono>
+  <mono chara="-3" pageend="true">The Raksha was about to shield the girl too, but stopped as he heard her response.</mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘3" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p>[Are you mad? Oh sorry. It’s just… That carriage you conjured was a bit...] </p>
+  </mono>
+  <cg></cg>
+  <text>
+    <p>While Sushang wasn’t so shocked by the tricks the Raksha pulled the day before, </p>
+    <p>she couldn’t say the same now. </p>
+  </text>
+  <text>
+    <p>The carriage was round and bumpy, and the bright orange color stuck out like a sore thumb. </p>
+    <p>The Raksha had said that this was a western specialty called a [pumpkin] as he grinned at it.</p>
+  </text>
+  <text>Li Sushang was embarrassed. She’d rather walk than ride that kind of carriage.</text>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘1" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p>[Besides, aren’t you injured? You probably shouldn’t be casting magic right now… </p>
+    <p>Just sit tight!]</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Sushang was truly concerned for the remnants of the Raksha’s Ki.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>However, the Raksha appeared to harbor a heavy grudge against the wind. </p>
+    <p></p>
+    <p>Even if he agreed to ride this scrappy carriage, he was determined to remain as elegant as possible, his hair undeterred from its place.</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘4" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono chara="002">
+    <p></p>
+    <p>[...If you’re so powerful, how were you captured? </p>
+    <p>I don’t get it.]</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘5" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono chara="001">
+    <p></p>
+    <p>[Captured? I was invited to be that Eagle’s guest.]</p>
+  </mono>
+  <mono chara="002">
+    <p></p>
+    <p></p>
+    <p>[...As a guest?]</p>
+  </mono>
+  <text>Li Sushang blinked.</text>
+  <mono chara="002" pageend="true">[...A guest in jail?]</mono>
+  <mono chara="001">
+    <p></p>
+    <p>[It’s a strange place indeed.]</p>
+  </mono>
+  <text>The Raksha stroked his chin, deep in thought.</text>
+  <mono chara="001">[But that Eagle told me: [Everything here is mine, and you can give everything that is yours to me. Please, come out of the carriage and follow my servants. No need for formalities.] …Is that not an invitation?]</mono>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>[...You seem to have a misunderstanding with the Shenzhou language.]</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>Li Sushang scratched her head.</p>
+  </mono>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p>[Who talks like that normally? What’d he actually say?]</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘10" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono chara="001" pageend="true">
+    <p>[This place is mine. </p>
+    <p>You’re mine too. </p>
+    <p>Get out </p>
+    <p>and follow them. </p>
+    <p>Don’t try anything funny.]</p>
+  </mono>
+  <text>The Raksha imitated “Eagle’s” voice with frightening accuracy.</text>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘6" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono chara="002">
+    <p></p>
+    <p>[... Raksha, your interpretation was quite… kind.]</p>
+  </mono>
+  <mono chara="001" pageend="true">
+    <p></p>
+    <p>[That’s not my problem… Your language is too complicated.]</p>
+  </mono>
+  <text>Li Sushang stared at the man, raising an eyebrow. Was he playing her for a fool? </text>
+  <text>He’s pretty and all, but he didn’t seem like one to play by the rules.</text>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘7" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono chara="002">
+    <p></p>
+    <p>[Geez, it’s so dangerous to talk to you. </p>
+    <p>It’s like everything you say is a trap waiting for me to embarrass myself.]</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘8"></cg>
+  <delay t="1"></delay>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p>[Why don’t you tell me more about the Schicksal Sect?]</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘9" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono chara="001" pageend="true">
+    <p></p>
+    <p>[Huh?]</p>
+  </mono>
+  <text>The Raksha’s pretty face slid off his palms and hit his wrist with a dull thud, causing him to shoot up and rub his eyes:</text>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘6" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono chara="001">
+    <p></p>
+    <p>[No no… That takes too much brain power.]</p>
+  </mono>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p>[Aye.]</p>
+  </mono>
+  <text>Li Sushang’s face was full of disappointment.</text>
+  <cg img="CG_第二折_风中奇缘12" duration="1"></cg>
+  <mono chara="001">
+    <p></p>
+    <p>[Then give me a few days to think it over… </p>
+    <p>and then I’ll tell you about it.]</p>
+  </mono>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p>[But it’ll be a while before we get home. It’d be so boring if we didn’t say anything.]</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘5" duration="1"></cg>
+  <delay t="1"></delay>
+  <text>The Raksha fell silent for a few moments:</text>
+  <mono chara="001">
+    <p></p>
+    <p>[Why don’t you tell me a story? How about that Celestial? </p>
+    <p>I remember you saying that: you were well established with Phoenix?]</p>
+  </mono>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p>[That’d be my mom and my master. I… I haven’t actually seen the Celestial before.]</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="CG_第二折_风中奇缘13" duration="1"></cg>
+  <delay t="1"></delay>
+  <mono>
+    <p></p>
+    <p>Sushang tried to remember.</p>
+  </mono>
+  <mono chara="002" pageend="true">
+    <p>[Really, I’ve never seen her before. Neither my parents nor my master brings her up very often. </p>
+    <p>Everything I know about Master Phoenix comes from my wet nurse.]</p>
+  </mono>
+  <bgm id="清晨赶集（轻快）" looptimes="0"></bgm>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <event action="goto" to="10"></event>
+</scene>
+scripts>

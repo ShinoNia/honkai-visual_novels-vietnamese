@@ -1,0 +1,182 @@
+<scene id="19" type="block" prev="18" title="帰還2">
+  <bg></bg>
+  <cg img="CG_第一折_夺剑_SWORD" duration="10"></cg>
+  <text>The treasured sword leaves "Eagle"'s hand and flies through the air.</text>
+  <event action="hide_ui" duration="2"></event>
+  <motion action="show" pos="center" chara="096" img="老鹰-特写-惊讶"></motion>
+  <cg></cg>
+  <delay t="0.5"></delay>
+  <motion chara="-4" action="shake" duration="0.3" range="95" direction="default"></motion>
+  <bg img="BGBlood1"></bg>
+  <se id="01-28胸口命中"></se>
+  <delay t="1"></delay>
+  <text>"Eagle" was furious. She flicked off Sushang with a palm strike, then ran to catch the sword</text>
+  <motion chara="096" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg img="CG_第一折_夺剑_SWORD"></cg>
+  <bg img="废弃驿站"></bg>
+  <motion chara="096" action="show" img="老鹰-动作-夺剑" pos="-250,0"></motion>
+  <delay t="0.1"></delay>
+  <motion chara="096" action="move" pos="0,0" duration="30"></motion>
+  <text>This time, he seemed to underestimate the girl's Hienko.</text>
+  <event action="hide_ui" duration="2.5"></event>
+  <motion chara="096" action="hide"></motion>
+  <cg></cg>
+  <motion chara="-4" action="shake" duration="0.5" range="25" direction="default"></motion>
+  <se id="01-34男沙地重摔"></se>
+  <delay t="1"></delay>
+  <motion chara="002" action="show" pos="right" img="素裳-战损无血-振作-单手-近景"></motion>
+  <delay t="0.5"></delay>
+  <se id="01-60吐血小"></se>
+  <delay t="1"></delay>
+  <text>The girl fell to the stone floor and coughed up blood from her mouth, but she immediately spun around after being hit by a recoil.</text>
+  <event action="hide_ui" duration="2"></event>
+  <motion chara="002" action="hide"></motion>
+  <se id="01-22女孩轻功whoosh_01"></se>
+  <motion chara="100" action="show" pos="center" img="轩辕剑-剑柄朝上"></motion>
+  <motion chara="096" action="show" pos="-250,0" img="老鹰-动作-夺剑"></motion>
+  <bg img="CG_第一折_夺剑_BG"></bg>
+  <delay t="1"></delay>
+  <motion chara="097" action="show" pos="300,0" duration="1" img="素裳-动作-夺剑"></motion>
+  <text>The next moment, she leapt into the air.</text>
+  <bgm looptimes="0"></bgm>
+  <event action="hide_ui" duration="2"></event>
+  <se id="01-30女孩轻功whoosh_02"></se>
+  <motion chara="096" action="move" pos="0,0" duration="30"></motion>
+  <motion chara="097" action="move" pos="120,0" duration="30"></motion>
+  <motion chara="100" action="move" pos="0,-50" duration="30"></motion>
+  <delay t="1"></delay>
+  <text>
+    <p>Their objective is the old sword 「Hekihan」.[\s]</p>
+    <p>The one who gets it wins, and the ones that can't die.</p>
+  </text>
+  <mono chara="002">
+    <p></p>
+    <p>（...You're going to help me, right?）</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>I completely let my instincts control the movement of her body.</p>
+    <p>「A girl.」's Li Sushang consciousness murmured.</p>
+  </mono>
+  <mono chara="002" pageend="true">
+    <p></p>
+    <p>「You're my sword...」</p>
+  </mono>
+  <event action="hide_ui" duration="3"></event>
+  <motion chara="100" action="move" pos="-25,100" duration="30"></motion>
+  <motion chara="096" action="move" pos="-100,0" duration="30"></motion>
+  <motion chara="097" action="move" pos="50,0" duration="30"></motion>
+  <delay t="3"></delay>
+  <mono>
+    <p></p>
+    <p>The kenjou reached its highest position and stopped for a moment, then immediately fell.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Suddenly, a very nostalgic feeling welled up inside Li Sushang.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Have I seen this before?[\s]</p>
+    <p></p>
+    <p>Why is the sword falling in front of me so friendly?[\s]</p>
+    <p></p>
+    <p>…………</p>
+    <p>Years ago.</p>
+    <p>…………</p>
+  </mono>
+  <motion chara="096" action="hide"></motion>
+  <motion chara="097" action="hide"></motion>
+  <motion chara="100" action="hide"></motion>
+  <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg img="CG_第一折_抢剑_李ONLY" scale="2" pos="-200,200"></cg>
+  <delay t="1"></delay>
+  <cg img="CG_第一折_抢剑_李ONLY" scale="3" pos="-50,200" duration="20"></cg>
+  <delay t="1"></delay>
+  <text>
+    <p>My fingers moved closer to the hilt of my sword.</p>
+    <p>It was as if the sound of clashing swords rang in her head.</p>
+    <p>At that very moment, Li Sushang was convinced she had mastered 「Ken'i」.</p>
+  </text>
+  <transition mode="dissolve" in="0.5" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <bg img="PureBlack"></bg>
+  <se id="01-21轩辕剑氛围声"></se>
+  <text>Clang----</text>
+  <se id="01-21轩辕剑氛围声" looptimes="0"></se>
+  <event action="hide_ui" duration="7"></event>
+  <cg img="CG_第一折_抢剑_鹰WIN" scale="3" pos="100,150"></cg>
+  <se id="01-57接住剑柄"></se>
+  <delay t="1"></delay>
+  <cg></cg>
+  <bg img="PureBlack"></bg>
+  <delay t="2"></delay>
+  <motion chara="096" action="show" img="老鹰-特写-狞笑" pos="center"></motion>
+  <motion chara="097" action="show" img="李素裳-特写-惊讶" pos="center"></motion>
+  <delay t="2"></delay>
+  <cg img="CG_第一折_抢剑_鹰挥刀" duration="2" scale="2" origin="20%,0"></cg>
+  <motion chara="096" action="hide"></motion>
+  <motion chara="097" action="hide"></motion>
+  <delay t="2"></delay>
+  <text>However, it wasn’t she who gripped the hilt of her sword</text>
+  <event action="hide_ui" duration="0.8"></event>
+  <motion chara="096" action="show" pos="0,-1080" img="老鹰-特写-狞笑（带血）"></motion>
+  <delay t="0.1"></delay>
+  <motion chara="096" action="move" pos="center" duration="0.3"></motion>
+  <delay t="0.3"></delay>
+  <dialog chara="015">「I won!」</dialog>
+  <text>What reached my ears were words declaring death.</text>
+  <dialog chara="015">「Die, girl-」</dialog>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="097" action="show" pos="center" img="李素裳-特写-濒死" duration="1"></motion>
+  <delay t="1"></delay>
+  <dialog chara="002">「......」</dialog>
+  <event action="hide_ui" duration="2"></event>
+  <cg duration="2"></cg>
+  <delay t="2"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p>The despair and disappointment at this moment was greater than ever before.[\s]</p>
+    <p></p>
+    <p>The girl is not afraid to die.[\s]</p>
+    <p></p>
+    <p>However, he had gained hope and lost it. He’d experienced the agony of climbing up to a peak before falling down</p>
+    <p>Along with a great regret that seemed to sink into my body.</p>
+    <p>The screams and trembling never ceased.</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="097" action="img_trans" img="李素裳-特写-坚定" duration="1"></motion>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>「—No!」</p>
+  </mono>
+  <transition mode="fade" in="0.5" stop="0.2" out="0.5" color="#FFFFFF"></transition>
+  <bgm id="传奇诞生"></bgm>
+  <bg img="BGPureWhite00" duration="0"></bg>
+  <motion chara="096" action="hide" duration="0"></motion>
+  <motion chara="097" action="hide" duration="0"></motion>
+  <cg img="CG_第一折_抢剑_鹰挥刀" scale="4" origin="99%,10%"></cg>
+  <text>
+    <p>The next moment, even if she was about to be cut in half with a single slash...</p>
+    <p>My instincts refused to admit defeat.</p>
+  </text>
+  <event action="hide_ui" duration="1"></event>
+  <cg duration="0.5" origin="99%,10%" img="CG_第一折_抢剑_鹰挥刀"></cg>
+  <delay t="0.5"></delay>
+  <text>
+    <p>Her extremely hazy consciousness pushed out her bare palm sword</p>
+    <p>He desperately attacked the enemy, intending to strike a mutual blow.</p>
+  </text>
+  <cg duration="5"></cg>
+  <text>
+    <p>In this moment, the girl who understood and accepted 「Death.」...</p>
+    <p>Finally, one step too late...</p>
+  </text>
+  <text>「Prepare yourself.」.</text>
+  <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="20"></event>
+</scene>

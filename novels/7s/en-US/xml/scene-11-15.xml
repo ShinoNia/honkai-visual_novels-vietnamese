@@ -1,0 +1,175 @@
+<scene id="15" type="block" prev="14" title="霧と火2">
+  <motion chara="002" action="show" pos="left" img="素裳-战损-虚弱-空手-中景"></motion>
+  <motion chara="008" action="show" pos="right" img="马非马-苦笑-标准-中景"></motion>
+  <dialog chara="008">「However, the world is a cruel place. Daughter...」</dialog>
+  <text>Ma Feima stood a full body away from her. He trembled as he watched the girl stand up, supporting his knees with both hands without any surprise whatsoever</text>
+  <dialog chara="008">
+    <p>「Being energetic was a good thing, but she couldn't beat me.</p>
+    <p>Don't push yourself. You have a wonderful future ahead of you!」</p>
+  </dialog>
+  <motion chara="002" action="img_trans" img="素裳-战损-顽强-空手-中景"></motion>
+  <dialog chara="002">「I... won't lose.」</dialog>
+  <text>
+    <p>Blood dripped from the girl's nose.</p>
+    <p>Li Sushang looked up, her eyes unfocused.</p>
+  </text>
+  <motion action="img_trans" chara="002" img="素裳-战损-顽强-邀战-中景"></motion>
+  <dialog chara="002">「I'm... *cough* ...」</dialog>
+  <motion chara="008" action="img_trans" img="马非马-微笑-标准-中景"></motion>
+  <dialog chara="008">「......」</dialog>
+  <motion chara="002" action="hide"></motion>
+  <motion chara="008" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="002" action="show" pos="center" img="素裳-战损-顽强-标准-近景"></motion>
+  <delay t="1"></delay>
+  <mono>
+    <p></p>
+    <p>How many times had Ma Feima seen such an expression on his face?</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>For twenty years, a large number of people had come after his life.</p>
+    <p>Many heroes, great men and excellent youngsters challenged him.</p>
+    <p></p>
+    <p>Most of them were like this.</p>
+    <p>Even without a slight chance of victory, he hadn’t given up until the very end—he was betting on that momentary possibility where life and death were separated.</p>
+  </mono>
+  <dialog chara="008">[em italic]（Struggling? ...Yeah, I guess so.）[/em]</dialog>
+  <mono pageend="true">
+    <p></p>
+    <p>However, Ma Feima did not dislike it.</p>
+    <p>On the contrary, she’d been enthralling him.</p>
+  </mono>
+  <motion chara="002" action="hide"></motion>
+  <cg img="氛围_第二折_烟雾2"></cg>
+  <bg img="PureBlack"></bg>
+  <mono>
+    <p></p>
+    <p>After all... in this mist-shrouded world, Ma Feima was alone.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Even if it was just a one-time connection, even though we would never meet again in the future—[\s]</p>
+    <p></p>
+    <p>Watching the challenger burn his own life and try to prove that he exists, it feels like I've been acknowledged by my world.</p>
+    <p>Ma Feima felt as if a mist in the shape of such people would envelop him—a feeling that he was alive.</p>
+  </mono>
+  <cg></cg>
+  <mono pageend="true">
+    <p></p>
+    <p>That was why he’d always given his opponent an opportunity to fight.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>That's why,[\s]</p>
+    <p></p>
+    <p>He had always hoped that he would be killed—</p>
+  </mono>
+  <se id="01-32铁剑掷出"></se>
+  <event action="hide_ui" duration="2"></event>
+  <bg img="轩辕剑_灯光00%"></bg>
+  <delay t="0.1"></delay>
+  <bg img="轩辕剑_灯光00%下" duration="0.5" scale="1.2"></bg>
+  <delay t="0.5"></delay>
+  <bg img="轩辕剑_灯光00%" duration="0.5" scale="1.3" pos="-100,100"></bg>
+  <delay t="0.5"></delay>
+  <bg img="轩辕剑_灯光00%下" pos="-300,200" scale="1.5" duration="1"></bg>
+  <text>In front of the girl, a fence fell without making any sound.</text>
+  <bg img="BGDesert03"></bg>
+  <motion chara="002" action="show" pos="left" img="素裳-战损-虚弱-空手-远景"></motion>
+  <motion chara="008" action="show" pos="300,0" img="马非马-笑-标准-远景"></motion>
+  <dialog chara="008">「Pick it up.」</dialog>
+  <text>Ma Feima said.</text>
+  <motion chara="008" action="img_trans" img="马非马-微笑-标准-远景"></motion>
+  <dialog chara="008">「Without a sword—you can’t fight me.」</dialog>
+  <motion chara="008" action="img_trans" img="马非马-认真-标准-远景"></motion>
+  <dialog chara="008">「I won't go easy on you. This time, use all your strength to kill me! Understand? Pick it up!!」</dialog>
+  <se id="01-21轩辕剑氛围声"></se>
+  <text>Sushang slowly lowered its head. A drop of blood fell onto the old sword, making a small sound like phoenix cries</text>
+  <se id="01-21轩辕剑氛围声" looptimes="0"></se>
+  <se id="01-60吐血小"></se>
+  <dialog chara="002">「You... Why are you the Sword God?」</dialog>
+  <text>She coughs up the blood in her mouth. At that point, she can finally speak clearly enough for me to understand what I'm saying...</text>
+  <motion chara="008" action="img_trans" img="马非马-微惊-标准-远景"></motion>
+  <dialog chara="008">「......?」</dialog>
+  <motion chara="008" action="img_trans" img="马非马-笑-标准-远景"></motion>
+  <dialog chara="008">「Ha—Haha!」</dialog>
+  <dialog chara="008">
+    <p>「You think that's the Sword God? Haha, you overestimate me.</p>
+    <p>Daughter, do you have any idea how much of a boundary the Sword God has? Most martial arts practitioners can't even touch it for their entire lives.」</p>
+  </dialog>
+  <dialog chara="008">「Only geniuses like Master Phoenix and Lingshuang Nee-san would be able to master such things as divine beings—daughter, my technique is not that of the Sword God; it’s sword will.」</dialog>
+  <motion chara="008" action="img_trans" img="马非马-笑-示剑0-远景"></motion>
+  <dialog chara="008">「Take a look.」</dialog>
+  <event action="hide_ui"></event>
+  <delay t="0.5"></delay>
+  <se id="01-01白光转场"></se>
+  <motion chara="008" action="img_trans" img="马非马-笑-示剑1-远景" duration="1"></motion>
+  <delay t="1"></delay>
+  <motion chara="008" action="img_trans" img="马非马-笑-示剑2-远景" duration="0.5"></motion>
+  <delay t="0.5"></delay>
+  <event action="show_ui"></event>
+  <text>He reached out his hand, and a greatsword red as flame suddenly appeared.</text>
+  <dialog chara="008">「This is my sword, 『Redsweord』.」</dialog>
+  <dialog chara="008">「The Henxuan Swords are held by our seven disciples one at a time. This sword is synchronized with the Void Blade, and it can use skillful techniques in response to changes of its will...」</dialog>
+  <dialog chara="008">「『Redsweord』 can control light. I'll be able to change this sight and invisibility with just my own feelings, so normally it doesn’t show much of anything but when the time comes you transmute your swordsmanship」</dialog>
+  <dialog chara="002">「Huh...?」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-战损-虚弱-标准-远景"></motion>
+  <text>
+    <p>Sushang picked up the sword and stared at it.[\s]</p>
+    <p>If what Ma Feima said was true, then why didn't his own sword change?</p>
+  </text>
+  <text>Could that absentmindedness be the true form of swordsmanship?</text>
+  <dialog chara="002">「M-My...」</dialog>
+  <motion chara="008" action="img_trans" img="马非马-微笑-示剑2-远景"></motion>
+  <dialog chara="008">「Yes... Your sword is still in its original form. In other words, you haven't mastered the will of your blade yet? If it learns how to wield a tsurugi that can change shape as well!」</dialog>
+  <dialog chara="002">「I see... So you haven't been able to do it yet.」</dialog>
+  <mono>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>It was a little disappointing... But that must have been the truth.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>I swallowed the bitter blood in my mouth. The sense of loss, embarrassment and frustration were all consumed by it together with sadness...</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Don't worry. This is your second trial, right?</p>
+  </mono>
+  <se id="01-20拿出轩辕剑"></se>
+  <text>Li Sushang straightened her back and held the sword in hand.</text>
+  <motion action="img_trans" chara="002" img="素裳-战损-振作-单手-远景"></motion>
+  <dialog chara="002">
+    <p>「You... have a sword, too.</p>
+    <p>That's... fair!」</p>
+  </dialog>
+  <text>
+    <p>Her body was still trembling. She couldn't stop—especially her legs, which were shaking all over the place[\s]</p>
+    <p>But her eyes... Her gaze is powerful. It's—</p>
+  </text>
+  <motion chara="008" action="img_trans" img="马非马-笑-示剑2-远景"></motion>
+  <text>They were the eyes common to those burning.</text>
+  <motion chara="002" action="img_trans" img="素裳-战损-顽强-单手-远景"></motion>
+  <dialog chara="002">「Jizaimon... Li Sushang, please take care of him again.」</dialog>
+  <dialog chara="002">「This is...a trial!」</dialog>
+  <dialog chara="008">「―――」</dialog>
+  <motion chara="008" action="hide"></motion>
+  <motion chara="002" action="hide"></motion>
+  <cg img="氛围_第二折_火苗2"></cg>
+  <delay t=".1"></delay>
+  <bg img="PureBlack"></bg>
+  <cg img="氛围_第二折_火苗2" duration="30" scale="1.2"></cg>
+  <text>Ma Feima stroked the red scar on his nose. He could feel a faint warmth in her fingertips</text>
+  <text>[em italic]Yeah. This loneliness, this kind of firelight...[/em]</text>
+  <text>He's still alive.</text>
+  <cg></cg>
+  <bgm looptimes="0"></bgm>
+  <dialog chara="008">「Listen carefully.」</dialog>
+  <text>Ma Feima said.</text>
+  <dialog chara="008">「There's only one skill I can use: Open Sword Mountain Disintegration.」</dialog>
+  <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="16"></event>
+</scene>

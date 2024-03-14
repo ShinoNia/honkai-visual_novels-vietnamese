@@ -1,0 +1,453 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "id": 1,
+    "intro": "",
+    "is_finished": 0,
+    "xml_url": "/novels/7s/ko-KR/xml/resources.xml",
+    "name": "Seven Swords",
+    "chapters": [
+      {
+        "id": 6,
+        "name": "回想編：秦素衣",
+        "order": 111,
+        "type": 1,
+        "start_time": "2021-06-30 17:00:52",
+        "end_time": "2035-01-01 00:00:00",
+        "xml_url": "/novels/7s/ko-KR/xml/compiled-6.xml",
+        "parts": [
+          {
+            "part_id": 5,
+            "scene_id": "000",
+            "order": 1,
+            "background_url": "",
+            "intro": "",
+            "name": "回想編：秦素衣",
+            "status": 2,
+            "is_newest": 0
+          }
+        ],
+        "tips": ""
+      },
+      {
+        "id": 7,
+        "name": "回想編：李素裳",
+        "order": 110,
+        "type": 1,
+        "start_time": "2021-06-30 19:25:16",
+        "end_time": "2035-01-01 00:00:00",
+        "xml_url": "/novels/7s/ko-KR/xml/compiled-7.xml",
+        "parts": [
+          {
+            "part_id": 6,
+            "scene_id": "000",
+            "order": 1,
+            "background_url": "",
+            "intro": "",
+            "name": "回想編：李素裳",
+            "status": 2,
+            "is_newest": 0
+          }
+        ],
+        "tips": ""
+      },
+      {
+        "id": 11,
+        "name": "第二折「神剣」",
+        "order": 2,
+        "type": 0,
+        "start_time": "2021-10-12 21:28:50",
+        "end_time": "2035-01-01 00:00:00",
+        "xml_url": "/novels/7s/ko-KR/xml/compiled-11.xml",
+        "parts": [
+          {
+            "part_id": 36,
+            "scene_id": "27",
+            "order": 19,
+            "background_url": "",
+            "intro": "師匠は自由です。世界はとても広いですから、行きたいところに行き、やりたいことをやればいいのです。",
+            "name": "終わり",
+            "status": 2,
+            "is_newest": 1
+          },
+          {
+            "part_id": 37,
+            "scene_id": "25",
+            "order": 18,
+            "background_url": "",
+            "intro": "李素裳は師匠を見て、拭い去れない影を追い払うかのように本能的に微笑んだ。",
+            "name": "生きて",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 38,
+            "scene_id": "22",
+            "order": 17,
+            "background_url": "",
+            "intro": "凌霜は馬非馬の巨剣を冷静に見つめている。その目には輝きが映り、心の奥にたくさんの言葉を秘めているかのようだった。",
+            "name": "刃不破",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 39,
+            "scene_id": "20",
+            "order": 16,
+            "background_url": "",
+            "intro": "凌霜はこれまでの三十七年間の人生において、ひたすら剣を持ち続け、本当の意味で世間に足を踏み入れたことはなかった。",
+            "name": "太虚の五番弟子",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 31,
+            "scene_id": "19",
+            "order": 15,
+            "background_url": "",
+            "intro": "炎が、消えた。",
+            "name": "消える炎",
+            "status": 2,
+            "is_newest": 1
+          },
+          {
+            "part_id": 32,
+            "scene_id": "18",
+            "order": 14,
+            "background_url": "",
+            "intro": "開剣対開剣――気が剣から放たれ、躊躇いもなく相手に向かっていく！",
+            "name": "炎と氷",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 33,
+            "scene_id": "17",
+            "order": 13,
+            "background_url": "",
+            "intro": "開剣・山崩だけと告げた以上、放つ技は開剣・山崩だけなのだ！",
+            "name": "一剣・弐",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 34,
+            "scene_id": "16",
+            "order": 12,
+            "background_url": "",
+            "intro": "まるで、太虚四形二十一式が手の中で自由に声をあげ、呼べばいつでも出てくるかのようだった。",
+            "name": "一剣・壱",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 35,
+            "scene_id": "14",
+            "order": 11,
+            "background_url": "",
+            "intro": "何故なら……この霧に包まれたかのような世界で、馬非馬は孤独であったからだ。",
+            "name": "霧と火",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 26,
+            "scene_id": "12",
+            "order": 10,
+            "background_url": "",
+            "intro": "捻じ曲がった世界の中で、彼女の目が捉えられたもの。それは、羅刹人の翡翠のような目だけであった。",
+            "name": "天・地・螺旋",
+            "status": 2,
+            "is_newest": 1
+          },
+          {
+            "part_id": 27,
+            "scene_id": "11",
+            "order": 9,
+            "background_url": "",
+            "intro": "夜気の中で咲き誇る花のように、死という刺激が心に広がっていき、あっという間に全身の寒さをかき消した。",
+            "name": "実力試し",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 28,
+            "scene_id": "09",
+            "order": 8,
+            "background_url": "",
+            "intro": "彼は手を挙げる。手の中は空っぽだったが、四方に剣の光が放たれた――！",
+            "name": "剣神？",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 29,
+            "scene_id": "08",
+            "order": 7,
+            "background_url": "",
+            "intro": "一挙手一投足のすべてが武術の修行であり、不動の静寂もまた剣の鍛錬だった。これこそが、『渾然天成』。",
+            "name": "無上自在",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 30,
+            "scene_id": "07",
+            "order": 6,
+            "background_url": "",
+            "intro": "「そのこともあって、真人は気の暴走を最も忌み嫌ったの」",
+            "name": "真気",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 21,
+            "scene_id": "06",
+            "order": 5,
+            "background_url": "",
+            "intro": "潮が満ち、潮が引く。",
+            "name": "データの海",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 22,
+            "scene_id": "04",
+            "order": 4,
+            "background_url": "",
+            "intro": "同じように眠れぬ一人の男と一頭の馬が、広大な砂漠の海を駆けていた。",
+            "name": "逐駒剣",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 23,
+            "scene_id": "03",
+            "order": 3,
+            "background_url": "",
+            "intro": "「天命派は三人で一緒に作った組織なんだ。創始者は比類なき武術の腕を持ち、天下無敵だったと言われているよ。」",
+            "name": "天命派",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 24,
+            "scene_id": "02",
+            "order": 2,
+            "background_url": "",
+            "intro": "夜は長く、眠れない2人は並んで座ったまま、夜が明けるまでぼんやりと考え事をしていた。",
+            "name": "西洋の世界",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 25,
+            "scene_id": "00",
+            "order": 1,
+            "background_url": "",
+            "intro": "「師匠が私を殺しに来るなら、それは当然のことよ。殺された人には復讐する権利があるもの。」",
+            "name": "序",
+            "status": 2,
+            "is_newest": 0
+          }
+        ],
+        "tips": "火が夜空を照らし、山荘を燃やし尽くした\n秦素衣と精衛の再会、二人の間に一体何があったのか…\n第三折：「憶剣」——お楽しみに！"
+      },
+      {
+        "id": 4,
+        "name": "제1절 「시검(試剣)」",
+        "order": 1,
+        "type": 0,
+        "start_time": "2021-07-15 10:00:00",
+        "end_time": "2035-01-01 00:00:00",
+        "xml_url": "/novels/7s/ko-KR/xml/compiled-4.xml",
+        "parts": [
+          {
+            "part_id": 14,
+            "scene_id": "22",
+            "order": 18,
+            "background_url": "",
+            "intro": "「사부께서 돌아오셨습니다.」",
+            "name": "끝",
+            "status": 2,
+            "is_newest": 1
+          },
+          {
+            "part_id": 15,
+            "scene_id": "21",
+            "order": 17,
+            "background_url": "",
+            "intro": "이소상은 그의 과거도, 고통도 몰랐다.",
+            "name": "백화흑연",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 16,
+            "scene_id": "20",
+            "order": 16,
+            "background_url": "",
+            "intro": "부서진 두개골로부터 엄습해 온 어둠이 그를 감싸려 했지만, 그는 필사적으로 저항했다……",
+            "name": "「네 녀석!」",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 17,
+            "scene_id": "18",
+            "order": 15,
+            "background_url": "",
+            "intro": "죽음을 경험하지 못한 소녀에게, 죽기 직전의 순간은 굉장히 공허하게 느껴졌다.",
+            "name": "결투",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 18,
+            "scene_id": "17",
+            "order": 14,
+            "background_url": "",
+            "intro": "승부의 저울은 한쪽으로만 쏠리지 않고, 우세라는 저울추는 시시각각 그 무게를 바꿔나간다.",
+            "name": "빈틈",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 19,
+            "scene_id": "16",
+            "order": 13,
+            "background_url": "",
+            "intro": "두 사람 모두 상대의 허점이 드러나길 노리고 있었지만, 이를 보고 있는 제3자에게는 조금 불편하게 느껴졌다.",
+            "name": "범의 포효",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 20,
+            "scene_id": "15",
+            "order": 12,
+            "background_url": "",
+            "intro": "「노응」이 살의를 불태움과 동시에, 강렬한 복수심도 따라 끓어올랐다.",
+            "name": "약속",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 11,
+            "scene_id": "14",
+            "order": 11,
+            "background_url": "",
+            "intro": "흣날리는 촛불의 그림자가 푸른 바위 위로 미친 듯이 춤을 추고 있는 이때, 이때야말로 문제를 해결해야 할 적기였다.",
+            "name": "월하의 검무",
+            "status": 2,
+            "is_newest": 1
+          },
+          {
+            "part_id": 12,
+            "scene_id": "12",
+            "order": 10,
+            "background_url": "",
+            "intro": "어둠 속에서, 그의 표정은 잘 보이지 않았지만, 그의 목소리에선 이루 말할 수 없는 슬픔이 느껴졌다.",
+            "name": "나쁜 나찰인",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 13,
+            "scene_id": "11",
+            "order": 9,
+            "background_url": "",
+            "intro": "「노응」은 한 번 더 소녀의 뺨을 때렸다.",
+            "name": "손찌검",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 7,
+            "scene_id": "10",
+            "order": 8,
+            "background_url": "",
+            "intro": "사실 이 검이 날았다 떨어지기까지, 고작 1초에 불과한 광경이었다.",
+            "name": "전검(傳劍)",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 8,
+            "scene_id": "09",
+            "order": 7,
+            "background_url": "",
+            "intro": "『흑뢰』는 본래 역참의 지하창고였다.",
+            "name": "흑뢰(黑牢)",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 9,
+            "scene_id": "08",
+            "order": 6,
+            "background_url": "",
+            "intro": "심지어 그다음 순간에 이 나찰인이 이 모래알들을 모두 짓밟아버릴 것 같은 착각마저 들었다.",
+            "name": "생살(生殺)",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 10,
+            "scene_id": "07",
+            "order": 5,
+            "background_url": "",
+            "intro": "아무것도 바뀐 게 없는 듯 보이지만, 모든 것이 바뀌었다.",
+            "name": "압승",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 2,
+            "scene_id": "06",
+            "order": 4,
+            "background_url": "",
+            "intro": "그의 두 눈은 지켜보는 걸 멈추고, 천천히 원을 그리며 돌기 시작한다——바로 사냥의 시작을 알리는 신호다.",
+            "name": "잠복",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 3,
+            "scene_id": "02",
+            "order": 3,
+            "background_url": "",
+            "intro": "안타깝게도, 소녀는 이런 『상식』을 알지 못했고, 그녀의 무정한 사부 또한 마찬가지였다.",
+            "name": "소녀",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 4,
+            "scene_id": "01",
+            "order": 2,
+            "background_url": "",
+            "intro": "문명은 흥망성쇠를 거듭하고, 사람들은 오고 가다 결국엔 역사라는 긴 강물 속에 휩쓸려 사라져버리고 만다.",
+            "name": "역참(驛站)",
+            "status": 2,
+            "is_newest": 0
+          },
+          {
+            "part_id": 1,
+            "scene_id": "00",
+            "order": 1,
+            "background_url": "",
+            "intro": "끝없는 어둠 속, 죽었던 선인의 의식이 돌아왔다.",
+            "name": "서장",
+            "status": 2,
+            "is_newest": 0
+          }
+        ],
+        "tips": "天穹峰にやってきた蘇湄。\n馬非馬の行方。\nそして、帰ってきた精衛……\n神州折剣録第二折——お楽しみに！"
+      }
+    ],
+    "achievements": [],
+    "is_login": 0
+  }
+}

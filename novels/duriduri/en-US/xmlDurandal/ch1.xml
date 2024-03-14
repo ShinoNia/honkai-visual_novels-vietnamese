@@ -39,7 +39,7 @@
             </remark>
             <show chara="ritaMaidSquintClose" position="left" opacity="0.8"/>
             <show chara="biankaSportSurprisedClose" position="right"/>
-            <speak chara="_Durandal">Hm? Rita? hôm nay em sao vậy, tại sao lại nhiều calo——</speak>
+            <speak chara="_Durandal">Hm? Rita? hôm nay em sao vậy, món đó có hơi nhiều calo——</speak>
             <speak chara="_Durandal">——Khoan.</speak>
             <speak chara="_Durandal">Em vừa gọi ta là... 「Bianka」?</speak>
             <show chara="biankaSportSurprisedClose" position="right" opacity="0.8"/>
@@ -274,7 +274,7 @@
             <speak chara="_Miguel">*Chiến thắng Trận Lepanto cũng là bên thiếu số, không phải là nhờ Galleass—— Kẻ địch bị đánh bại bởi chính quán tính của mình.</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">Có lẽ nào... Ông đến từ thời Đế Quốc của Tây Ban Nha?</speak>
+            <speak chara="_Rita">Có lẽ nào... Ông đến từ Tây Ban Nha thời đế quốc?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">Ồ, cô nhận ra à?</speak>
@@ -331,7 +331,7 @@
             <show chara="cervantesNormalClose" position="right"/>
             <speak chara="_Miguel">Tôi sẽ là thuyền trưởng. Tôi sẽ lái tàu và quyết định khi nào ta nên tiến lên hay rút lui. Còn hai cô——</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Sở trường của cô Bianka là giáo, đúng không? Giao cho cô đống lao phóng.</speak>
+            <speak chara="_Miguel">Sở trường của cô Bianka là giáo, đúng không? Giao cho cô đống lao.</speak>
             <speak chara="_Miguel">Miss Rita is a very attentive person, so keep an eye on the anchor rope to make sure it doesn't get tangled.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
@@ -389,7 +389,7 @@
             <text article="1">
                 <p class="article-text">*Dù chỉ mới vài phút kể từ khi con thuyền sậy rời bến, họ đã bỏ lại hòn đảo lại phía sau. Nơi 「trú ẩn」 đủ to để chứa vài chục người có thể thu lại trong lòng bàn tay.</p>
             </text>
-            <text>Ánh nắng giữa trưa chiếu rọi trên mặt biển. Ánh sáng phản chiếu chói đến nỗi khó có thể mở mắt.</text>
+            <text>Nắng giữa trưa chiếu rọi trên mặt biển. Ánh sáng phản chiếu chói đến nỗi khó có thể mở mắt.</text>
             <text>Ông lão tiếp tục chèo thuyền bằng mái chèo dài, vững vàng tiến bước trong những đợt sóng nhấp nhô.</text>
             <show chara="cervantesGazeClose" position="right"/>
             <speak chara="_Miguel">Cẩn thận. Nó đang đến.</speak>
@@ -404,7 +404,7 @@
             <speak chara="_Rita">... Thời điểm?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">Sau khi 「Leviathan」 đánh hơi được ai đó trên biển, nó sẽ bắt kịp trong khoảng 15 phút.</speak>
+            <speak chara="_Miguel">Sau khi 「Leviathan」 đánh hơi được người trên biển, nó sẽ bắt kịp trong khoảng 15 phút.</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">Hiểu rồi——</speak>

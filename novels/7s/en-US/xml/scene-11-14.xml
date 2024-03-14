@@ -1,0 +1,122 @@
+<scene id="14" prev="13" title="霧と火">
+  <transition mode="fade" in="0" stop="0.5" out="2" color="#000000"></transition>
+  <bg img="PureBlack"></bg>
+  <bgm id="十大恶人（阴谋）"></bgm>
+  <text>
+    <p>A single blow.[\s]</p>
+    <p>Ma Feima won in a single blow, but there was still no hint of joy on his face.</p>
+  </text>
+  <transition mode="eye" in="0.5" stop="0.2" out="1" color="#000000"></transition>
+  <bg img="BGDesert03"></bg>
+  <motion chara="001" action="show" pos="center" duration="1" img="奥托-严肃-标准-远景（棺材）"></motion>
+  <text>
+    <p>I could feel the impact through my palm.</p>
+    <p>Ma Feima instinctively looked over at the Raksha, but he was disappointed in his lack of reaction.</p>
+  </text>
+  <motion chara="001" action="img_trans" img="奥托-严肃-标准-近景（棺材）"></motion>
+  <text>
+    <p>No reaction... That's right.</p>
+    <p>The Raksha man was staring at Sushang, as if he were looking into a stone or grain of sand.</p>
+  </text>
+  <bg img="PureBlack"></bg>
+  <text inline="true">[em italic]Why didn’t he show any reaction when the girl had been attacked right in front of him, bleeding all over and collapsed?[/em]</text>
+  <text>[em italic]Even if it was someone I didn't know... Would she be able to stay completely unfazed after witnessing such a serious injury?[/em]</text>
+  <dialog chara="008">[em italic]（—What a boring man.）[/em]</dialog>
+  <motion chara="001" action="hide"></motion>
+  <mono>
+    <p></p>
+    <p>Feelings of disappointment washed over me like a rainstorm.</p>
+    <p>Emotions like cold rain poured down from head to foot, enveloping Ma Feima in its chill.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Ma Feima didn’t like this blond man—it was an inherent rejection and disgust.</p>
+  </mono>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="氛围_第二折_冰块"></cg>
+  <delay t="1"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p>If I had to describe it, these Raksha were like ice floating and isolated outside the world.</p>
+    <p></p>
+    <p>She didn't need anything, nor did she care about it. Even if the world were to be destroyed—it would drift on forever</p>
+  </mono>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <event action="hide_ui" duration="1"></event>
+  <cg img="氛围_第二折_烟雾2"></cg>
+  <delay t="1"></delay>
+  <bg img="BGDesert02"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>On the other hand, Ma Feima—is like a flame.</p>
+  </mono>
+  <event action="hide_ui" duration="2"></event>
+  <cg img="氛围_第二折_火苗2" duration="2"></cg>
+  <delay t="2"></delay>
+  <mono>
+    <p></p>
+    <p>The world was smoke, and Ma Feima were burning flame.</p>
+    <p></p>
+    <p>This world exists precisely because he is burning.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Intense emotions, explosive impulses and destructive battles were what made him exist.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>And then, she would find a faint fragment of herself in that hollow and hazy existence.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Those fragments are the meaning of life.</p>
+  </mono>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <text>……</text>
+  <text>Ma Feima picked up the girl’s sword and stared at her closely.</text>
+  <motion chara="008" action="show" pos="center" img="马非马-闭目-标准-中景"></motion>
+  <text>
+    <p>Without a doubt, it was the real old sword.</p>
+    <p>It was a treasure given to seven disciples by Phoenix.</p>
+  </text>
+  <motion chara="008" action="img_trans" img="马非马-疑惑-标准-中景"></motion>
+  <dialog chara="008">
+    <p>[em italic]（Where did you get it?</p>
+    <p>...Lingshuang Nee-san's sword should have broken. What about this one?）[/em]</p>
+  </dialog>
+  <dialog chara="008">[em italic]（Mei, did you know? No wonder she told me to be careful...）[/em]</dialog>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="008" action="img_trans" img="马非马-闭目-标准-中景"></motion>
+  <delay t="1"></delay>
+  <dialog chara="008">[em italic]（What am I supposed to do?）[/em]</dialog>
+  <se id="01-38踏在沙上的脚步声"></se>
+  <text>Still holding the sword, Ma Feima walked over to a kneeling girl. She was walking slowly but firmly</text>
+  <motion chara="008" action="hide"></motion>
+  <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="right" custom="default"></transition>
+  <bg img="BGDesert03"></bg>
+  <motion chara="002" action="show" pos="0,300" img="素裳-战损-虚弱-空手-中景"></motion>
+  <text>The girl who’d lost to him was far more interesting than the skill he had no intention of fighting.</text>
+  <motion chara="002" action="hide"></motion>
+  <cg img="氛围_第二折_火苗2"></cg>
+  <se id="02-20柔柔的火"></se>
+  <text>She was also a flame. A newborn spark, and she wasn't sure how to burn it</text>
+  <dialog chara="008">[em italic]（That's too bad...）[/em]</dialog>
+  <text>
+    <p>Ma Feima knew his power well. He had almost suppressed the inner strength, and though he was gravely injured at times it would not be life-threatening for him</p>
+    <p>Even so, it shouldn't be a wound I can ignore.</p>
+  </text>
+  <dialog chara="008">
+    <p>[em italic]（Too bad—with this girl's skill, she should have been able to block the opening of a sword and an earthquake with enough experience...</p>
+    <p>If my opponent hadn't been me, I would never have lost so easily.）[/em]</p>
+  </dialog>
+  <text>
+    <p>He trained his swordsmanship to the 「Meikyou」 border at age sixteen...</p>
+    <p>Of the Seven Swords, only Lingshuang had mastered 「Taixuan」 at thirteen years old.</p>
+  </text>
+  <dialog chara="008">[em italic]（No wonder Lingshuang Nee-san took her as a pupil. When the time comes, this girl might become one of 「Kenshin」's students too）[/em]</dialog>
+  <text>Besides... she is blessed with good fortune. She was born a woman, and has the best conditions for training her swordsmanship in Taixuanōki (Vengeance of Void).</text>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <event action="goto" to="15"></event>
+</scene>

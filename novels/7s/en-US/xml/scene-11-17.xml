@@ -1,0 +1,51 @@
+<scene id="17" prev="16" title="一撃に返す•弐">
+  <event action="hide_ui" duration="2"></event>
+  <cg img="气氛_通用_赤绝影"></cg>
+  <delay t="2"></delay>
+  <mono pageend="true">
+    <p></p>
+    <p>[Redsweord] -[\s]</p>
+    <p></p>
+    <p>The sword was five feet and nine inches long, and the ancient sword Xuanyuan was transformed by Blade Sanction,</p>
+    <p></p>
+    <p>This is Ma Feima’s exclusive sword, with none like it in the world. </p>
+  </mono>
+  <event action="achievement" aid="0ecde88422bfcefe"></event>
+  <notification>伝記更新：「馬非馬」</notification>
+  <event action="hide_ui" duration="2"></event>
+  <cg img="CG_第二折_开剑山崩1" duration="1" scale="2" origin="25%,25%"></cg>
+  <delay t="0.1"></delay>
+  <cg img="CG_第二折_开剑山崩1" duration="1" scale="1" origin="25%,25%"></cg>
+  <delay t="0.8"></delay>
+  <cg img="CG_第二折_开剑山崩1" reset="true"></cg>
+  <mono pageend="true">
+    <p></p>
+    <p>[Rockslide] -[\s]</p>
+    <p></p>
+    <p>Taixuan’s Wrath Form’s fourth style, with two of the left hand’s fingers held back, as the Guard Form, it’s called [Gentle Orchid];</p>
+    <p></p>
+    <p>The right hand holds the blade on par with the shoulder. The blade strikes with an inch of strength, yet its power can crush mountains and shatter the ground. </p>
+  </mono>
+  <text>
+    <p>However, this move has a weakness. [\s]</p>
+    <p>Even with Ma Feima's superb cultivation foundation, there’s a brief windup time between forming the stance and launching the strike. </p>
+  </text>
+  <text>Ordinary martial arts masters couldn't find, and capture this momentary flaw.</text>
+  <text>
+    <p>However, as a cultivator of Taixuan’s Blade Mantra, Li Sushang had a chance to catch that gap. [\s]</p>
+    <p>...But Ma Feima won’t back out of his words, nor hide that weakness.</p>
+  </text>
+  <text>
+    <p>......Neither will it be transformed into Switch Form, [\s]</p>
+    <p>nor will it become Guard Form.</p>
+  </text>
+  <text>With a single word- reply with one move to Wrath Form • Rockslide, only one move of Wrath Form • Rockslide!</text>
+  <text>
+    <p>Life and death, victory or defeat, he no longer cares, Ma Feima only lives in this moment. In his mind, that one technique Wrath Form • Rockslide.</p>
+    <p>After all, </p>
+  </text>
+  <bgm looptimes="0"></bgm>
+  <text>everything comes down to this one strike. </text>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <event action="goto" to="18"></event>
+</scene>

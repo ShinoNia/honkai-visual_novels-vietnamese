@@ -1,0 +1,243 @@
+<scene id="07" prev="06" title="真気">
+  <transition mode="eye" in="0" stop="0.5" out="3" color="#000000"></transition>
+  <bgm id="侠女之声（女抒情）"></bgm>
+  <bg img="氛围_第一折_烈阳"></bg>
+  <text>The sun rose high in the sky, and life returned to Raksha eyes.</text>
+  <text>He exhaled deeply and slowly. The sound was quiet, but he couldn't miss the ears of Li Sushang as she tilted her head to look at him</text>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="BGDesert01"></bg>
+  <motion chara="002" action="show" img="素裳-元气-背手-中景" pos="right"></motion>
+  <dialog chara="002">「You're awake?」</dialog>
+  <motion chara="001" action="show" pos="left" img="奥托-微悲-标准-中景" duration="1"></motion>
+  <dialog chara="001">「Yeah, I'm awake.」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-微笑释然-标准-中景"></motion>
+  <text>The Raksha responded with a forced smile.</text>
+  <motion chara="002" action="img_trans" img="素裳-标准-背手-中景"></motion>
+  <text>Li Sushang opened and closed her mouth several times, finally unable to hold back any longer as she asked.</text>
+  <motion chara="002" action="img_trans" img="素裳-嘟嘴-背手-中景"></motion>
+  <dialog chara="002">「Hey, do Raksha sleep with their eyes open?」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-汗苦笑-标准-中景"></motion>
+  <dialog chara="001">「...Huh?」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-欸真的吗-背手-中景"></motion>
+  <dialog chara="002">「You fell asleep in the middle of our conversation. But your eyes were open, so I was surprised—you didn't react at all when you waved to me」</dialog>
+  <text>The girl waved her beautiful white hand in front of the Raksha as she spoke.</text>
+  <motion chara="001" action="img_trans" img="奥托-苦笑-单空手-中景"></motion>
+  <dialog chara="001">
+    <p>「...No, that's because my consciousness has entered 『Void Archives』.</p>
+    <p>I had a small question, and needed to find the answer from within. Did that worry you? Sorry for worrying so much...」</p>
+  </dialog>
+  <motion chara="001" action="img_trans" img="奥托-标准-标准-中景"></motion>
+  <dialog chara="001">「I have to focus my mind. These catalysts are powerful, but they also come with a certain price for power...」</dialog>
+  <dialog chara="001">「『Void Archives』 has great principles hidden behind it, and explorations are always in danger. If you don't focus on something else your consciousness might be swallowed up by『Void Archives』...」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-严肃-单空手-中景"></motion>
+  <dialog chara="001">「There's also the third Divine Key of Shicksal, 『Judgment of Shamash』. It has enough power to destroy mountains and seas as well—but it always recoiled when unleashing holy fire; its owner himself would lose his life」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-悲伤-摊手-中景"></motion>
+  <dialog chara="001">「...The same goes for 『Abyss Flower』, who used it to treat you. Even I can't completely suppress that strange power of yours...I once healed myself with this thing before but as a result there was an aftereffect left behind by the wound—an internal injury in what is commonly called your language」</dialog>
+  <dialog chara="001">「Even now, there are times when I get old and young again. That means it'll take me a few dozen days to recover...」</dialog>
+  <dialog chara="002">「Internal injuries...?」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-悲伤目下-背手-中景"></motion>
+  <dialog chara="002">（Rejuvenated due to the disturbance in her spirit... I feel like i've heard that name somewhere before.）</dialog>
+  <text>[em italic]...An omen of a stampede?[/em]</text>
+  <bgm looptimes="0"></bgm>
+  <bg img="PureBlack" duration="0.3"></bg>
+  <motion chara="002" action="img_trans" img="素裳-呆滞刺激-背手-中景"></motion>
+  <text>A thought flashed through his mind, entering Li Sushang head like a seed of the devil.</text>
+  <text>――!!</text>
+  <text>
+    <p>All of a sudden, the emotions that surged toward her pressed down on this girl's heart.</p>
+    <p>Beneath the momentary surprise, regret and pain was a hopelessly intense bloodlust.</p>
+  </text>
+  <text>
+    <p>Those who have fallen into demon form should die—</p>
+    <p>That was a rule my mother and master had insistently taught her since childhood—the Taixuan clan’s mission, especially 『Jizaimon』 with no taboo; the only ironclad law.</p>
+  </text>
+  <bg img="心湖（3）明镜"></bg>
+  <text>In an instant, 『Blade Mantra』's true form reaches the boundary of Meikyou Mirror. Her right palm suddenly stretches straight out and instantly takes on a Keiken『Rikuu』 shape in her hand—a demon-warding sword that can crush anything―</text>
+  <bg img="BGDesert01"></bg>
+  <bgm id="佛心禅悟"></bgm>
+  <motion chara="001" action="img_trans" img="奥托-微笑自信-摊手-中景"></motion>
+  <dialog chara="001">
+    <p>「No... it's not that scary. It was just a side effect of the catalyst, you know?</p>
+    <p>I found a solution to that in 『Void Archives』, too.」</p>
+  </dialog>
+  <motion chara="002" action="img_trans" img="素裳-疲惫无神-普通-中景"></motion>
+  <text>The Raksha reached out and made an elegant gesture.</text>
+  <motion chara="002" action="img_trans" img="素裳-欸真的吗-背手-中景"></motion>
+  <dialog chara="001">「All I need to do is reverse 『Abyss Flower』's power with the output from back then. It would be difficult for me to control its accuracy, but...[\s]My catalysts were made in imitation, so they're less efficient than the real thing. So I need to do a lot of calculations...」</dialog>
+  <text>The story of Raksha continued, but the words they used became incomprehensible to Sushang.</text>
+  <motion chara="002" action="img_trans" img="素裳-笑-背手-中景"></motion>
+  <dialog chara="002">
+    <p>「As long as you're cured, that is fine. Please do not let your mind go out of control...</p>
+    <p>Besides, I can't even imagine what kind of injury you must have suffered. Can a catalyst be used like that?」</p>
+  </dialog>
+  <motion chara="001" action="img_trans" img="奥托-严肃-标准-中景"></motion>
+  <text>The Raksha was somewhat dumbfounded, but he thought for a moment before answering.</text>
+  <motion chara="001" action="img_trans" img="奥托-思索-中景"></motion>
+  <dialog chara="001">「I won't tell you.」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-嘟嘴-背手-中景"></motion>
+  <dialog chara="002">「Tch.」</dialog>
+  <text>The Raksha smiled as he watched her pouting, but at the same time his heart ached.[\s]They had very little in common, but being with this Eastern girl always reminded me of 『Her.』.</text>
+  <text>[em italic]Yeah, it's been so long since I last saw her...[/em]</text>
+  <motion chara="001" action="hide"></motion>
+  <motion chara="002" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg img="氛围_第二折_卡莲" scale="2" origin="80%,80%"></cg>
+  <delay t="0.6"></delay>
+  <bg img="BGDesert03"></bg>
+  <text>[em italic]Kallen...[/em]</text>
+  <text>The Raksha stared at the dry, mountain-colored sand. He could vaguely see a girl smiling with bright eyes in front of him</text>
+  <cg img="氛围_第二折_卡莲" duration="15" origin="80%,80%"></cg>
+  <se id="02-03卡莲语音"></se>
+  <dialog chara="099">「Hey, great inventor—」</dialog>
+  <delay t="0.3"></delay>
+  <text>
+    <p>That's right. She called him that...[\s]</p>
+    <p>The girl in my memories is standing with her hands behind it. Her silver hair flutters, blown by the gentle breeze</p>
+  </text>
+  <bg img="BGPureWhite00"></bg>
+  <se id="02-04卡莲语音"></se>
+  <dialog chara="099">「—You see, I have a wish. Don't laugh at me; you will be the only one who can teach it to her!」</dialog>
+  <delay t="0.6"></delay>
+  <cg duration="0.5"></cg>
+  <text>
+    <p>Her voice still lingered in my ears. It was as if time had stopped at that moment, and I would never be able to move forward again[\s]</p>
+    <p>However, that was more than thirty years ago.</p>
+  </text>
+  <text>Tears instantly welled up in the Raksha’s eyes.</text>
+  <bg img="PureBlack"></bg>
+  <dialog chara="001">「—Missy.」</dialog>
+  <text inline="true">The Raksha wanted to be immersed in reminiscence, but he forced himself back into the real world.</text>
+  <text>
+    <p></p>
+    <p>Getting away from memories of the past would be far more difficult than fighting Void Archives. But no one could possibly understand that, right?</p>
+  </text>
+  <motion chara="001" action="img_trans" img="奥托-思索-中景"></motion>
+  <dialog chara="001">「I've been using my catalysts for the past few days, and it has drained me of all serious energy. Some Shinshu martial arts techniques have a way to communicate their true nature... Can you do that?」</dialog>
+  <motion chara="001" action="hide"></motion>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg img="氛围_第二折_战场"></cg>
+  <mono pageend="true">
+    <p></p>
+    <p>When Celestials and Shinshu fought, the Raksha had noticed...[\s]</p>
+    <p></p>
+    <p>Deep down, 『Maki』 is a difficult energy to understand but should have been the same thing—there were many differences in how it was used between East and West</p>
+    <p>He found it very strange.</p>
+  </mono>
+  <bg img="BGDesert01"></bg>
+  <mono pageend="true">
+    <p></p>
+    <p>In the West, they see seriousness as a plague and are desperate to escape from its contamination.</p>
+    <p>What’s more, she had developed a variety of techniques to counteract them[\s]</p>
+    <p></p>
+    <p>However, the East Asians have accepted and used it.</p>
+    <p>I'm using it as a power to strengthen myself.</p>
+  </mono>
+  <mono inline="true">
+    <p></p>
+    <p>Compared to Shicksal, Shinshu’s technology is definitely lagging behind.</p>
+    <p></p>
+    <p>However, his understanding of Majic was better in the East overall.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>...Why did such a difference occur?</p>
+  </mono>
+  <transition mode="dissolve" in="1" stop="0.5" out="0" color="#000000"></transition>
+  <cg></cg>
+  <transition mode="fade" in="0" stop="0.5" out="1" color="#000000"></transition>
+  <motion chara="001" action="show" pos="left" img="奥托-思索-中景"></motion>
+  <motion chara="002" action="show" pos="right" img="素裳-惊讶-普通-中景"></motion>
+  <dialog chara="002">「Ah, that's...」</dialog>
+  <text>Li Sushang worried and thought.</text>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-背手-中景"></motion>
+  <dialog chara="002">
+    <p>「What you're talking about is a feat. The one where your true feelings are transferred to someone else, right?</p>
+    <p>Just so you know, it's not like our sword fighting spirit is bad.</p>
+    <p>It's just... different from other martial arts.」</p>
+  </dialog>
+  <motion chara="002" action="img_trans" img="素裳-龇牙-普通-中景"></motion>
+  <dialog chara="002" inline="true">「The founder of the Jizaimon is Phoenix. She traveled all over Japan to defeat evil spirits and monsters that bring calamity upon this world, which was why he detested her most when she went berserk!</dialog>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-背手-中景"></motion>
+  <dialog chara="002">That's why her martial arts skills never practice seriously.」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-微悲-标准-中景"></motion>
+  <dialog chara="001">「Oh? This is the first time I've heard of that.」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-大笑-背手-中景"></motion>
+  <motion chara="001" action="img_trans" img="奥托-思索-中景"></motion>
+  <dialog chara="002">「After all, you're a foreigner. How should I know? Aha!」</dialog>
+  <text>She didn’t know what had become the urn for this girl's laughter, but Sushang laughed merrily and continued talking.</text>
+  <motion chara="002" action="img_trans" img="素裳-元气-背手-中景"></motion>
+  <dialog chara="002">「That's why— Heheh... We don’t train Naikou or Tanda like the other disciples do. Train your body, and make it a real path for you to follow!」</dialog>
+  <dialog chara="002">
+    <p>「Did you know? The so-called 『Congenitor Ichiki』 essence is the vitality of life.</p>
+    <p>That's all there is to it. Even among the leaves and petals, true spirit can be found anywhere!」</p>
+  </dialog>
+  <motion chara="001" action="img_trans" img="奥托-微笑奸-标准-中景"></motion>
+  <text>The Raksha smiled. From his point of view, Honkai—or 『Maki』 in the East —seemed more appropriate to call it a “destroyed life force” than something synonymous with vitality; but there was no need for him to correct her opinion</text>
+  <motion chara="002" action="img_trans" img="素裳-笑-背手-中景"></motion>
+  <dialog chara="002">「Once you've mastered Edge of Taixuan and the shape of a sword, it absorbs true energy from your surroundings to flow into its meridian. It can be used as large or small waves when necessary—or even in narrow streams without restrictions」</dialog>
+  <dialog chara="002">「So compared to other martial arts, the power of Taixuan is stronger but we don't have any serious energy stored in Tanda.」</dialog>
+  <text>Li Sushang spread her arms wide.</text>
+  <motion chara="002" action="img_trans" img="素裳-大笑-抱手-中景"></motion>
+  <motion chara="001" action="img_trans" img="奥托-茫然-标准-中景"></motion>
+  <dialog chara="002">「That's why I can’t do the trick.」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-思索-中景"></motion>
+  <motion chara="002" action="img_trans" img="素裳-元气-背手-中景"></motion>
+  <dialog chara="001">「However, according to your explanation」</dialog>
+  <text>The Raksha thought for a moment.</text>
+  <dialog chara="001">「If you can control the flow of internal merit on your own, wouldn't it be possible to absorb true energy from all over this world and channel that into my meridian?」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-欸真的吗-背手-中景"></motion>
+  <dialog chara="002">「Huh... Yeah, I think so. But it's impossible for me to do that!」</dialog>
+  <dialog chara="001">「I'll tell you.」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-惊讶-普通-中景"></motion>
+  <dialog chara="002">「You?」</dialog>
+  <text>Sushang was surprised.</text>
+  <motion chara="001" action="img_trans" img="奥托-思索-中景"></motion>
+  <dialog chara="002">「Can you do it?」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-思索星-中景"></motion>
+  <dialog chara="001">
+    <p>「I need to explain a little more so that we can match your martial arts system.</p>
+    <p>There was a difference in understanding of seriousness between the East and West, but it didn’t change its nature.」</p>
+  </dialog>
+  <dialog chara="001">「I have my brain and 『Void Archives』. Once you understand the true nature of Edge of Taixuan, it won't be hard to figure out how he conveys his qi...」</dialog>
+  <text>Sushang looked at him in surprise, and then suddenly burst out laughing.</text>
+  <motion chara="002" action="img_trans" img="素裳-大笑-背手-中景"></motion>
+  <motion chara="001" action="img_trans" img="奥托-微悲-标准-中景"></motion>
+  <dialog chara="002">「I almost couldn't think of anything to say in response. You Raksha... Oh, right! So you guys are only Shicksal? Then it makes sense that they wouldn’t know any martial arts laws at all」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-元气-背手-中景"></motion>
+  <dialog chara="002">
+    <p>「Martial arts can't be passed on to outsiders without permission! It is taboo, after all.</p>
+    <p>If anyone can learn Edge of Taixuan, Shinshu will be thrown into chaos!」</p>
+  </dialog>
+  <text>The Raksha was somewhat surprised. Indeed, he hadn't expected Shinshu to have such a rule</text>
+  <motion chara="001" action="img_trans" img="奥托-微笑释然-标准-中景"></motion>
+  <dialog chara="001">「...I'm sorry.」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-吓-背手-中景"></motion>
+  <dialog chara="002">「Huh? I'm not blaming you or anything... You want to heal your internal injuries, too.」</dialog>
+  <motion chara="001" action="img_trans" img="奥托-微悲-单空手-中景"></motion>
+  <dialog chara="001">「All right, young lady. I'll rest for another half month or so and adjust my internal effects before curing myself」</dialog>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>He may have said that, but he actually had an idea. It was the main body of Divine Key 「Abyss Flower」 who caused his abnormality[\s]</p>
+    <p></p>
+    <p>Using replicas to reverse-engineer them is absolutely impossible on my own. In the end, I have no choice but to rely upon a mysterious Eastern martial art after all...</p>
+  </mono>
+  <motion chara="002" action="img_trans" img="素裳-元气-背手-中景"></motion>
+  <dialog chara="002">「Geez... You're being way too distant. Just pretending is fine, okay?」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-嘟嘴-背手-中景"></motion>
+  <text>Li Sushang unconsciously pouted. Her expression was clouded over, and it hurt to watch her go back and forth like that...</text>
+  <text>Was it because she’d realized that the Raksha had healed her wounds every day, even after exhausting their own power? The girl wanted to help this man[\s]However, 『Taixuan』 is a secret that absolutely must not be shared with the outside world no matter what.</text>
+  <text>She hesitated for a while, then suddenly stood up.</text>
+  <motion chara="002" action="img_trans" img="素裳-浅笑-抱手-中景"></motion>
+  <dialog chara="002">「Let's get going, Raksha. We must not waste any more time!」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-大笑-抱手-中景"></motion>
+  <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景"></motion>
+  <dialog chara="002">「It's probably only about half a day away, so we should be home by tonight. If I can get my horse to run faster...I could ask Master if he would treat you when they see me—if she turns him down then and there ... When that time comes」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-嘟嘴-抱手-中景"></motion>
+  <text>Sushang thought about it, bit her lip and spoke firmly.</text>
+  <dialog chara="002">「When that time comes, I won’t listen to my master!」</dialog>
+  <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
+  <event action="goto" to="08"></event>
+</scene>

@@ -1,0 +1,182 @@
+<scene id="11" prev="10" title="実力試し">
+  <transition mode="fade" in="0" stop="0.5" out="3" color="#000000"></transition>
+  <bg img="BGDesert02"></bg>
+  <bgm id="太鼓乱舞（战斗）"></bgm>
+  <motion chara="001" action="show" pos="right" duration="1" img="奥托-严肃-标准-远景（棺材）"></motion>
+  <motion chara="002" action="show" pos="left" duration="1" img="素裳-愤怒-持剑-中景"></motion>
+  <delay t="3"></delay>
+  <text>Ma Feima was staring at this strange pair.</text>
+  <motion chara="002" action="hide"></motion>
+  <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
+  <event action="hide_ui" duration="1"></event>
+  <motion chara="001" action="show" pos="center" img="奥托-严肃-标准-中景（棺材）"></motion>
+  <delay t="1"></delay>
+  <text>One of them was a blond Raksha.</text>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>He was tall and slender with well-defined features, but just looking at him didn’t seem to be anything special on the inside. His breathing lacked any basics or his martial arts seemed average[\s]</p>
+    <p></p>
+    <p>However, Ma Feima knew better. This person was different from how he looked; it wasn’t an easy opponent to deal with</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>When I used my swordsmanship to take a look, the true movements of his body were extremely unnatural.[\s]</p>
+    <p></p>
+    <p>It's like the inside of a strange eight-stringed sutra is empty.</p>
+    <p>And yet, the sanyo sanin in my hand has such force that it feels like I’m going to go berserk.</p>
+  </mono>
+  <dialog chara="008">（......）</dialog>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>This Raksha had a very strange reaction when he stopped the carriage with his sword earlier, too.</p>
+    <p></p>
+    <p>He hadn’t moved his arms and legs, but he was completely unaffected by the overturned carriage—as if floating in midair.</p>
+  </mono>
+  <dialog chara="008">（...Does the Raksha Kingdom have that kind of divine power?）</dialog>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p>Ma Feima couldn’t believe it.</p>
+    <p></p>
+    <p>Was the blond-haired man hiding that he was an extremely skilled user of Uchiko? Or perhaps a suspicious martial arts wielder. Though it had to be one or another, Ma Feima thought</p>
+  </mono>
+  <event action="hide_ui"></event>
+  <motion chara="001" action="show" pos="center" duration="1" img="奥托-严肃-标准-近景"></motion>
+  <delay t="1"></delay>
+  <event action="show_ui"></event>
+  <mono>
+    <p></p>
+    <p></p>
+    <p>And both of his eyes...</p>
+    <p></p>
+    <p></p>
+    <p>He has a very young face, but his eyes are so deep that they don't match him at all...</p>
+  </mono>
+  <mono pageend="true">It looked at hell,[\s]It was a bittersweet taste,[\s]They were the eyes of someone who had overcome blood abyss.</mono>
+  <event action="hide_ui" duration="0.56"></event>
+  <motion chara="001" action="hide" duration="0"></motion>
+  <bg img="PureBlack"></bg>
+  <motion chara="100" action="show" pos="center" img="视线-马非马" duration="0.5"></motion>
+  <delay t="0.5"></delay>
+  <mono>
+    <p></p>
+    <p>I could hear whispers urging me to be careful in my horse-hitting brain.[\s]This Raksha is someone who can kill me.</p>
+  </mono>
+  <mono chara="008" pageend="true">
+    <p></p>
+    <p>[em italic]（Really? ...Is this man capable of doing it, or...）[/em]</p>
+  </mono>
+  <motion chara="100" action="hide"></motion>
+  <mono pageend="true">
+    <p></p>
+    <p>A heavy pain and craving swirled in my chest.</p>
+    <p>Ma Feima closed his eyes.[\s]</p>
+    <p></p>
+    <p>Death.[\s]</p>
+    <p></p>
+    <p>Like flowers blooming in the night air, a stimulus known as death spread through her heart and quickly drowned out all cold.</p>
+  </mono>
+  <mono chara="008">
+    <p></p>
+    <p>[em italic]（Very well... Let's see what you can do!）[/em]</p>
+  </mono>
+  <transition mode="dissolve" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <bg img="BGDesert02"></bg>
+  <motion chara="001" action="show" pos="right" img="奥托-严肃-标准-远景（棺材）"></motion>
+  <motion chara="002" action="show" pos="left" img="素裳-愤怒-持剑-中景"></motion>
+  <mono pageend="true">
+    <p></p>
+    <p>That’s what Ma Feima told himself.[\s]</p>
+    <p></p>
+    <p>The whisper accepted his words and suppressed the urge for now.</p>
+    <p>Then, she waited for her master's order as if unable to wait any longer.</p>
+  </mono>
+  <mono chara="008" pageend="true">
+    <p></p>
+    <p>[em italic]（This woman is...）[/em]</p>
+  </mono>
+  <motion chara="001" action="hide"></motion>
+  <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="right" custom="default"></transition>
+  <motion chara="002" action="show" img="素裳-愤怒-持剑-近景" pos="center"></motion>
+  <text>She was the reason why Ma Feima had laid a hand on her.</text>
+  <text>It was a girl dressed in bluish-colored clothes. There's something familiar about her innocent eyes that still look like they belonged to someone else...</text>
+  <motion chara="002" action="hide"></motion>
+  <cg img="氛围_通用_轩辕剑"></cg>
+  <delay t="0.1"></delay>
+  <cg img="氛围_通用_轩辕剑" scale="1.4" pos="-200,100" duration="30"></cg>
+  <text inline="true">Likewise, he recognized the sword she was holding. He’d only caught a glimpse of its hilt at first glance—but Ma Feima had confidence that it would never make any mistakes in his vision</text>
+  <text>It is a sword of honor granted to seven disciples by Phoenix, and it serves as the foundation for Taixuana 「Ken'i」.</text>
+  <cg img="CG_通用_李素裳战斗-1"></cg>
+  <text>And that wasn't all. When the carriage shook violently, she tried to get into position with her sword Joren; it was only for a moment—but Ma Feima could clearly tell who this girl had been studying under</text>
+  <dialog chara="008">
+    <p>[em italic]（...A genuine swordsmanship!</p>
+    <p>It's not Taixuan Shinken, nor is it the sword of pure memory...）[/em]</p>
+  </dialog>
+  <text>Ma Feima immediately realized that this girl must be Lingshuang’s pupil</text>
+  <dialog chara="008">[em italic]（Haha. I see! If only that hadn't happened... How did he inherit the true power of a sword?）[/em]</dialog>
+  <text>Even if it was something that Su Mei desperately tried to stop, Lingshuang didn't mind at all.</text>
+  <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <cg></cg>
+  <bg img="BGDesert00"></bg>
+  <motion chara="008" action="show" pos="center" img="马非马-微笑-标准-中景"></motion>
+  <text>
+    <p>Ma Feima was suddenly happy.</p>
+    <p>From this half-assed Taixuan Sword Form, he could vaguely make out the elegant figure of a woman who had vanished twenty years ago</p>
+  </text>
+  <text inline="true">[em italic]A-All those years that have passed...[/em]</text>
+  <text>
+    <p></p>
+    <p>Those years were both nostalgic and heartbreaking to him.</p>
+  </text>
+  <transition mode="shutter" in="1" stop="0.5" out="1" color="#000000"></transition>
+  <motion chara="001" action="show" pos="-500,0" img="奥托-严肃-标准-远景（棺材）"></motion>
+  <motion chara="002" action="show" pos="-200,0" img="素裳-愤怒-持剑-远景"></motion>
+  <motion chara="008" action="show" pos="400,0" img="马非马-苦笑-标准-远景"></motion>
+  <se id="01-39踏在木板的脚步声"></se>
+  <text>
+    <p>Just then, the Raksha opened his mouth.</p>
+    <p>It was a very quiet voice, but it had been enough to ruin the faint emotion of Ma Feima</p>
+  </text>
+  <dialog chara="001">「Be careful with Sushang.」</dialog>
+  <text>The Raksha spoke to the girl.</text>
+  <dialog chara="008">
+    <p>[em italic]（This man doesn't speak Shinshu fluently. He sounds like someone from Zhongyuan...</p>
+    <p>How did Lingshuang get to know someone like this...?）[/em]</p>
+  </dialog>
+  <motion chara="001" action="img_trans" img="奥托-微笑奸-标准-远景（棺材）"></motion>
+  <dialog chara="001">「That man is trying to obtain your sword.」</dialog>
+  <motion chara="002" action="img_trans" img="素裳-惊讶-持剑-远景"></motion>
+  <dialog chara="002">「Huh? My kenjou!」</dialog>
+  <text>……</text>
+  <text>Their eyes met.</text>
+  <motion chara="001" action="img_trans" img="奥托-标准-标准-远景（棺材）"></motion>
+  <motion chara="008" action="img_trans" img="马非马-沉思-标准-远景"></motion>
+  <text>But one of them turned his gaze downward, and the other averted it.</text>
+  <dialog chara="008">
+    <p>[em italic]（Oh... So you saw right through me?</p>
+    <p>This Raksha Demon seems pretty good.）[/em]</p>
+  </dialog>
+  <motion chara="008" action="img_trans" img="马非马-邪恶-标准-远景"></motion>
+  <text>
+    <p>The scarred man couldn’t help but smile broadly.[\s]</p>
+    <p>The scars of the sword on his face turned red, as if a flame were burning.</p>
+  </text>
+  <text>
+    <p>My curiosity grew stronger again, replaced by an uncontrollable urge.</p>
+    <p>I hear another whisper in my ear. 「This man is the one who can kill me.」</p>
+  </text>
+  <dialog chara="008">
+    <p>[em italic]（I’ve made up my mind! All right, come at me now. Death is nothing to be afraid of—</p>
+    <p>Can this man do it?）[/em]</p>
+  </dialog>
+  <dialog chara="008">[em italic]（You should be able to tell if you try!）[/em]</dialog>
+  <text>—That was the decision he preferred most.</text>
+  <transition mode="fade" in="2" stop="3" out="0" color="#000000"></transition>
+  <event action="goto" to="12"></event>
+</scene>
